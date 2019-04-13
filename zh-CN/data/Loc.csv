@@ -1,0 +1,3148 @@
+﻿CONTEXT,ID,TEXT
+AccessPermitInner,ARSTOTZKA,阿什托兹卡
+AccessPermitInner,Access Permit,访问许可
+AccessPermitInner,This permit grants conditional access to the sovereign nation of Arstotzka,该许可可以给您阿什托兹卡主权国的有限访问权。
+AccessPermitInner,NAME,名字
+AccessPermitInner,NATIONALITY,国籍
+AccessPermitInner,PURPOSE,目的
+AccessPermitInner,HEIGHT,身高
+AccessPermitInner,PHYSICAL APPEARANCE,外貌
+AccessPermitInner,ID NUMBER,护照号码
+AccessPermitInner,DURATION,滞留时间
+AccessPermitInner,WEIGHT,体重
+AccessPermitInner,ENTER BY,入关时间
+AccessPermitInner,Keep on person,随身携带
+AccessPermitInner,Ministry of Admission,入境管理部
+AsylumGrantInner,Arstotzka,阿什托兹卡
+AsylumGrantInner,GRANT of ASYLUM,避难许可
+AsylumGrantInner,This document grants conditional asylum status within Arstotzkan borders,该文件可以让您在阿什托兹卡境内进行有条件的政治避难。
+AsylumGrantInner,NAT,国籍
+AsylumGrantInner,ID#,护照号码
+AsylumGrantInner,DOB,出生日期
+AsylumGrantInner,HT,身高
+AsylumGrantInner,WT,体重
+AsylumGrantInner,Offer expires after,有效期至
+AsylumGrantInner,Ministry of Admission,入境管理部
+BizCardInnerFront,ENGINEERING,工程
+BizCardInnerFront,Director,主任
+BizCardInnerBack,WE NEED ENGINEERS,我们需要工程师
+BizCardInnerBack,WILL BEAT .GOV PAY,将会超出政府薪资
+BizCardInnerBack,CONTACT NOW,立刻联系我们
+BrothelHelpInner,A man named <span>Dari Ludum</span> promised me and my sister good work in Arstotzka.,一个名叫<span>Dari Ludum</span>的人向我和我妹妹保证说可以在阿什托兹卡给我们找一份好工作。
+BrothelHelpInner,I do not trust him. I am afraid he will take my passport and force me to work at brothel. He is in line today.,我不相信他。我害怕他会扣下我的护照，并强迫我去卖淫。他今天就在队伍中。
+BrothelHelpInner,Please do something.,请做点什么。
+BulletinInnerDiploTut,Diplomat,外交
+BulletinInnerDiploTut,Verification Procedure,认证程序
+BulletinInnerDiploTut,Verify issuing country,验证发放国家
+BulletinInnerDiploTut,Verify identity,验证身份
+BulletinInnerDiploTut,Verify diplomatic access to Arstotzka,验证阿什托兹卡外交访问权
+BulletinInnerMissingTut,Missing documents can be correlated by highlighting counter and pertinent entry in rule book.,未出示的文件可以通过检查模式来和职务手册里的相关条款关联。
+BulletinInnerRuleTut,Correlate pertinent entry in rule book with violating information to enable further options.,将违规信息和相关条目关联来开启更多的选项。
+BulletinInnerContraTut,Correlate discovered weapons and contraband with rulebook entry.,将发现的武器和违禁品和指南条目关联。
+BulletinInnerCorrelateTut,Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.,从检查模式标记显示两条不一致的信息来开启审问。
+BulletinInnerPassportTut,Pay attention to passport nationality.,请注意护照上的国籍。
+BulletinInnerBoothTut,Arstotzkan<br>Ministry of Admission,阿什托兹卡<br>入境管理部
+BulletinInnerBoothTut,Inspector's Booth,边检站
+BulletinInnerBoothTut,Shutter,百叶窗
+BulletinInnerBoothTut,Counter,柜台
+BulletinInnerBoothTut,Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date,指南<br>音频副本<br>公告存储<br>时间&amp;日期
+BulletinInnerGunTut,Weapons Protocol,武器规则
+BulletinInnerGunTut,WHEN ALARM SOUNDS,何时发出警报
+BulletinInnerGunTut,Drop key on tumbler to unlock weapon.,将钥匙插入锁芯来解锁武器。
+BulletinInnerGunTut,"Select gun, aim and fire.",选择一把枪，瞄准并开火。
+BulletinInnerGunTut,Time is short. Act fast.,没有多少时间，所以请尽快行动。
+BulletinInnerFilerTut,Passport Confiscation,护照没收
+BulletinInnerFilerTut,Verify ALTAN resident on id.,从身份证上验证奥坦居住地
+BulletinInnerFilerTut,Drop passport in confiscation drawer.,将护照放入没收抽屉中。
+BulletinInnerFilerTut,"If arresting, confiscate before detaining.",如果要逮捕他，请在被关押前没收。
+BulletinInnerCriminals,Ministry of Justice,司法部
+BulletinInnerCriminals,WANTED CRIMINALS,通缉犯
+BulletinInnerNews,NEWS,新闻
+BulletinPagesNote,CHECK ALL<br>PAGES,查看所有<br>页面
+CitationInner,M.O.A. CITATION,入境管理部警告
+DiplomaticAuthInner,Diplomatic<br>Authorization,外交<br>许可
+DiplomaticAuthInner,This document authorizes named agent as a diplomatic entity of a Council of Nations member state.,该文件授权某个实名代理人作为多国议会成员国的外交人员。
+DiplomaticAuthInner,AGENT,代理人
+DiplomaticAuthInner,PASSPORT,护照征用
+DiplomaticAuthInner,Unconditional access to all named Council of Nations member states must be granted upon presentation.,必须在做报告时才能授权对所有多国议会成员国的无条件进入许可。
+DiplomaticAuthInner,This document has no expiry.,该文件永不过期
+DiplomaticAuthInner,COUNCIL OF NATIONS - SEVEN MEMBER FORUM,国家议会——七成员论坛
+EntryPermitInner,ARSTOTZKA,阿什托兹卡
+EntryPermitInner,Entry Permit,入境许可
+EntryPermitInner,Conditional entry to the sovereign nation of Arstotzka is hereby granted to,有条件进入阿什托兹卡主权国的许可被颁发给
+EntryPermitInner,bearing passport number,护照号码
+EntryPermitInner,Purpose,目的
+EntryPermitInner,Duration,滞留时间
+EntryPermitInner,Enter by,入关时间
+EntryPermitInner,Ministry of Admission,入境管理部
+EntryTicketInner,Arstotzka,阿什托兹卡
+EntryTicketInner,ENTRY TICKET,准入券
+EntryTicketInner,VALID ON,有效期
+EzicNoteInnerOpen,READ QUICKLY,快速阅读
+EzicNoteInnerOpen,RETURN TO MESSENGER,返还信使
+FamilyPhotoInner,HANG ON WALL,挂在墙上
+FingerprintsInner,GIVE THIS PAPER TO APPLICANT,将这份文件交给申请人
+ForgeryFlyerInnerFront,NEED FORGED<br>OBRISTAN DOCS?,需要伪造的<br>欧布里斯坦证件？
+ForgeryFlyerInnerFront,"""It looks so real!""","""简直可以以假乱真了！"""
+ForgeryFlyerInnerFront,"""Approved for entry!""","""被允许入境！"""
+ForgeryFlyerInnerFront,Fair rates!,价格公道！
+ForgeryFlyerInnerFront,No questions asked!,不会多嘴！
+ForgeryFlyerInnerFront,Fast turnaround!,快速回程！
+ForgeryFlyerInnerFront,CONDITIONS ON BACK,条件写在背后
+ForgeryFlyerInnerBack,PRICING (EACH),价格（每个）
+ForgeryFlyerInnerBack,Passport *,护照*
+ForgeryFlyerInnerBack,Entry Ticket,准入券
+ForgeryFlyerInnerBack,*<br>,*<br>
+ForgeryFlyerInnerBack,Client must provide existing Obristan passport to be modified with new info,客户必须提供已有的欧布里斯坦护照才能修改成新的信息
+ForgeryFlyerInnerBack,Service at border Arstotzka/Obristan,服务机构位于阿什托兹卡/欧布里斯坦边境
+ForgeryFlyerInnerBack,Ask for Timofei Wee,提莫菲·维
+GymFlyerInner,Underweight?Weak?Tired?,体重过低？弱小？劳累？
+GymFlyerInner,JOIN BEST GYM!,加入最佳体育馆吧！
+GymFlyerInner,GET BIG TOWN,来大城市吧
+GymFlyerInner,East Grestin,东格莱斯丁
+HintMissingInner,THIS ENTRANT HAS NO DOCUMENTS,该入境人员没有任何文件
+HintMissingInner,"To proceed, use INSPECT mode to interrogate.",请使用检查模式进行审问后继续。
+HintMissingInner,Review page 2 of today's bulletin for full instructions.,再次查看今日公告第二页的完整说明。
+IdCardInner,ARSTOTZKA IDENTITY CARD,阿什托兹卡身份证
+IdCardInner,DOB,出生日期
+IdCardInner,HT.,身高
+IdCardInner,WT.,体重
+IdentityRecordInner,M.O.A. IDENTITY RECORD,入境管理部身份记录
+IdentityRecordInner,NAME:,名字：
+IdentityRecordInner,ALIAS:,曾用名：
+IdentityRecordInner,Applicant's fingerprints and claimed name/alias must match this record.,申请人的指纹和名字/曾用名必须符合该记录。
+IdSupplementInner,IDENTITY<br>SUPPLEMENT,身份<br>补充
+IdSupplementInner,HT,身高
+IdSupplementInner,WT,体重
+IdSupplementInner,DESCRIPTION,描述
+IdSupplementInner,THUMB,大拇指
+IdSupplementInner,Keep on person,带在身上
+IdSupplementInner,EXP.,过期日
+LocketInnerOpen,To Sergiu from your Elisa,Elisa写给Sergiu
+LocketInnerOpen,I Love You Always,我一直都爱你
+LoveSongInner1,YOU,你
+LoveSongInner1,YOU ARE HOT LIKE FIRE,你热情似火
+LoveSongInner2,you,你
+LoveSongInner2,OBJECT OF DESIRE,是我渴求的目标
+LoveSongInner3,YOU<br>(AGAIN),你<br>（再次）
+LoveSongInner3,WRAP MY HEART IN WIRE,锁住了我的心
+LoveSongInner4,ApPROVED,通过
+LoveSongInner4,APPROVE MY VISA,请允许我的入境
+tweak-passport-field-padding-left,2px,2px
+PassportInnerAntegria,ENTRY VISA,入境签证
+PassportInnerAntegria,DOB.,出生日期
+PassportInnerAntegria,SEX,性别
+PassportInnerAntegria,ISS.,签发日
+PassportInnerAntegria,EXP.,过期日
+PassportInnerAntegria,ANTEGRIA,安特格利亚
+tweak-passport-arstotzka-nation,16px,16px
+PassportInnerArstotzka,ENTRY VISA,入境签证
+PassportInnerArstotzka,DOB.,出生日期
+PassportInnerArstotzka,SEX,性别
+PassportInnerArstotzka,ISS.,签发日
+PassportInnerArstotzka,EXP.,过期日
+PassportInnerArstotzka,ARSTOTZKA,阿什托兹卡
+PassportInnerImpor,ENTRY VISA,入境签证
+PassportInnerImpor,DOB.,出生日期
+PassportInnerImpor,SEX,性别
+PassportInnerImpor,ISS.,签发日
+PassportInnerImpor,EXP.,过期日
+PassportInnerImpor,IMPOR,印玻
+PassportInnerKolechia,ENTRY VISA,入境签证
+PassportInnerKolechia,DOB.,出生日期
+PassportInnerKolechia,SEX,性别
+PassportInnerKolechia,ISS.,签发日
+PassportInnerKolechia,EXP.,过期日
+PassportInnerKolechia,KOLECHIA,科洛奇亚
+PassportInnerObristan,ENTRY VISA,入境签证
+PassportInnerObristan,DOB.,出生日期
+PassportInnerObristan,SEX,性别
+PassportInnerObristan,ISS.,签发日
+PassportInnerObristan,EXP.,过期日
+PassportInnerObristan,OBRISTAN,欧布里斯坦
+PassportInnerRepublia,ENTRY VISA,入境签证
+PassportInnerRepublia,DOB.,出生日期
+PassportInnerRepublia,SEX,性别
+PassportInnerRepublia,ISS.,签发日
+PassportInnerRepublia,EXP.,过期日
+PassportInnerRepublia,REPUBLIA,雷帕布里亚
+PassportInnerUnitedFed,ENTRY VISA,入境签证
+PassportInnerUnitedFed,DOB.,出生日期
+PassportInnerUnitedFed,SEX,性别
+PassportInnerUnitedFed,ISS.,签发日
+PassportInnerUnitedFed,EXP.,过期日
+PassportInnerUnitedFed,UNITED FEDERATION,世界联邦
+PlaqueOneInner,Ministry of Admission,入境管理部
+PlaqueOneInner,RECOGNITION,赞誉
+PlaqueOneInner,FOR,为了
+PlaqueOneInner,HANG ON WALL,挂在墙上
+PlaqueTwoInner,Ministry of Admission,入境管理部
+PlaqueTwoInner,RECOGNITION,赞誉
+PlaqueTwoInner,FOR,为了
+PlaqueTwoInner,HANG ON WALL,挂在墙上
+PoisonInnerBack,OPEN,打开
+PoisonInnerOpen1,DO NOT TOUCH POWDER,不要触摸粉末
+PoisonInnerOpen1,CLOSE,关闭
+PoisonInnerOpen2,ALIGN POWDER OVER PASSPORT,将粉末放在护照上
+PoisonInnerOpen2,PUSH HARD TO AFFIX,使劲按压进行粘附
+PoisonInnerOpen2,CLOSE,关闭
+PoliceBadgeInner,MINISTRY OF INFORMATION,情报部
+PoliceBadgeInner,Office of Investigation,检查办公室
+PoliceBadgeInner,East Grestin Division,东格莱斯丁分部
+PoliceBadgeInner,Special Investigator,特别检查员
+PoliceBadgeInner,MOI,情报部
+PressPassInner,INTERNATIONAL,国际
+PressPassInner,PRESS,媒体
+PressPassInner,IDENTIFICATION,身份证明
+RuleDiploAccess,AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA,必须授权给<br>阿什托兹卡
+RuleIssuingCity,PASSPORT <span>ISS.</span> FIELD MUST BE VALID,护照<span>有效期</span>不能过期
+RuleSealRequired,DOCUMENT MUST<br>HAVE A SEAL,文件必须<br>有图章
+RulesInnerHome,Arstotzkan,阿什托兹卡
+RulesInnerHome,Ministry<span>of</span>Admission,入境<span>管理</span>部
+RulesInnerHome,RULES,规则
+RulesInnerHome,&amp;,&amp;
+RulesInnerHome,REGULATIONS,条例
+RulesInnerHome,for Inspectors,检查员
+RulesInnerHome,CONTENTS,内容
+RulesInnerHome,PROPERTY OF,属于
+RulesInnerHome,M.O.A,入境管理部
+RulesInnerBasic,RULES,规则
+RulesInnerRegion,DIPLOMATIC SEALS,外交图章
+RulesInnerRegion,PASSPORT,签证
+RulesInnerRegion,ISSUING CITIES,签发城市
+RulesInnerRegionArstotzka,DISTRICTS,街区
+RulesInnerRegionArstotzka,PASSPORT,签证
+RulesInnerRegionArstotzka,ISSUING CITIES,签发城市
+RulesInnerBooth,INSPECTOR'S BOOTH,边检站
+RulesInnerBooth,Shutter,百叶窗
+RulesInnerBooth,Counter,柜台
+RulesInnerBooth,Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date,指南<br>音频副本<br>公告<br>时间 &amp; 日期
+RulesInnerBooth,UPGRADES,升级
+RulesInnerBooth,NO UPGRADES<br>INSTALLED,未安装<br>升级
+RulesInnerDocs,OFFICIALLY RECOGNIZED,官方认可
+RulesInnerDocs,DOCUMENTS,文件
+RulesInnerDocs,CONTENTS,内容
+RulesInnerEntryPermit,ENTRY PERMIT,入镜许可
+RulesInnerEntryPermit,VALID SEALS,有效图章
+RulesInnerIdCard,ARSTOTZKAN<br>ID CARD,阿什托兹卡<br>身份证
+RulesInnerIdCard,ISSUED TO ALL ARSTOTZKAN CITIZENS,签发给所有阿什托兹卡公民
+RulesInnerIdCard,DISTRICTS,街区
+RulesInnerIdSupplement,IDENTITY<br>SUPPLEMENT,身份<br>补充
+RulesInnerIdSupplement,ISSUED TO ALL QUALIFIED FOREIGNERS,签发给所有有资格的外国人
+RulesInnerIdSupplement,FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE,为了验证外国人的外貌
+RulesInnerIdSupplement,VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE,只有当指纹记录可用时才验证大拇指指纹
+RulesInnerIdSupplement,THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY,这是个短期文件——仔细检查过期日期
+RulesInnerAccessPermit,ACCESS PERMIT,访问许可
+RulesInnerAccessPermit,VALID SEALS,有效图章
+RulesInnerAccessPermit,THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT,这份文件替换所有入镜许可和身份补充文件
+RulesInnerWorkPermit,WORK PASS,工作签证
+RulesInnerWorkPermit,ISSUED TO ALL QUALIFIED FOREIGN LABOR,签发给所有合格的外国劳工
+RulesInnerWorkPermit,VALID SEALS,有效图章
+RulesInnerDiplomaticAuth,DIPLOMATIC,外交
+RulesInnerDiplomaticAuth,AUTHORIZATION,授权
+RulesInnerDiplomaticAuth,VALIDATE SEAL WITH COUNTRY PAGE,确认国家页上的图章
+RulesInnerAsylumGrant,GRANT OF<br>ASYLUM,避难<br>许可
+RulesInnerAsylumGrant,VALID SEALS,有效图章
+RulesInnerAsylumGrant,ALWAYS VERIFY FINGERPRINTS,总是验证指纹
+RulesInnerVaccineCert,VACCINE CERTIFICATE,疫苗证
+RulesInnerVaccineCert,MINISTRY,医
+RulesInnerVaccineCert,OF,疗
+RulesInnerVaccineCert,HEALTH,部
+RulesInnerVaccineCert,REGULATION DOCUMENT,条例文件
+RulesInnerVaccineCert,POLIO VACCINATION REQUIRED FOR ALL ENTRANTS,需要所有过境人员提供脊髓灰质炎疫苗证明
+RulesInnerVaccineCert,NO EXCEPTIONS,没有例外
+RulesInnerConfiscation,PASSPORT CONFISCATION,签证没收
+RulesInnerConfiscation,DROP PASSPORT IN CONFISCATION DRAWER,将护照放入没收抽屉中。
+RulesInnerConfiscation,POLICY,政策
+RulesInnerConfiscation,PASSPORT MUST BE CONFISCATED BEFORE DETAINING,如果要逮捕他，请在被关押前没收。
+RulesInnerConfiscation,MOI,情报部
+RulesInnerLast,PROPERTY OF,属于
+RulesInnerLast,M.O.A.,入境管理部.
+RulesInnerLast,GLORY TO ARSTOTZKA,荣耀属于阿什托兹卡。
+RulesInnerLast,Arstotzkan,阿什托兹卡
+RulesInnerLast,Ministry of Admission,入境管理部
+RulesInnerLast,Rules &amp; Regulations,规章&amp;制度
+RulesInnerLast,for Inspectors,检查员
+RulesInnerLast,1982-1983 Edition,1982-1983版
+RulesInnerLast,DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY,不要散播<br>否则严惩不贷
+RulesTabConfL,CONF.,没收的
+RulesTabConfR,CONF.,没收的
+RulesTabDocsL,DOCS,文件
+RulesTabDocsR,DOCS,文件
+RulesTabMapL,MAP,地图
+RulesTabMapR,MAP,地图
+RulesTabRulesL,RULES,规则
+RulesTabRulesR,RULES,规则
+RulesUpgrade0,TOGGLE INSPECT,切换检查
+RulesUpgrade0,SPACE,空格
+RulesUpgrade1,TOGGLE STAMP BAR,切换印章条
+RulesUpgrade1,TAB,TAB键
+RulesUpgrade2,RULEBOOK SHORTCUTS,指南快捷键
+RulesUpgrade3,QUICK INSPECT,快速检查
+RulesUpgrade3,DOUBLE-CLICK,双击
+SeizureSlipInner,Arstotzka Ministry of Admission,阿什托兹卡入境管理部
+SeizureSlipInner,PASSPORT SEIZURE SLIP,签证没收错误
+SeizureSlipInner,ENTRY VISA,入境签证
+SeizureSlipInner,Your passport has been seized.,您的签证已经被没收。
+SeizureSlipInner,Contact 1509-6103 for redress.,请联系1509-6103进行补救。
+SpyDocsInnerBack,Mating Habits of Lesser Kolechian Waterfowl,科洛奇亚小水鸟的交配习惯
+SpyDocsInnerBack,A FULL REPORT,完整报告
+SpyDocsInnerBack,Ministry of Information,情报部
+TranscriptInner,AUDIO TRANSCRIPT,音频副本
+VaccineCertInner,Certificate<span>of</span>Vaccination,疫苗<span>证</span>书
+VaccineCertInner,ID#,身份识别代码
+VaccineCertInner,DATE,日期
+VaccineCertInner,VACCINE,疫苗
+VaccineCertInner,Vax valid for 3 years,疫苗有效期为3年
+VisaSlipInner,TEMPORARY VISA SLIP,临时签证纸条
+VisaSlipInner,ENTRY VISA,入境签证
+VisaSlipInner,TO BE USED FOR DENIALS ONLY,仅在拒签时使用
+WorkPermitInner,Ministry of Labor,劳务部
+WorkPermitInner,Work Pass,工作签证
+WorkPermitInner,This pass grants its holder the right to work in a specific field for a limited time.,该签证可以让持有人在有限的时间内在某个领域进行工作。
+WorkPermitInner,HOLDER,持有人
+WorkPermitInner,FIELD,失败
+WorkPermitInner,UNTIL,知道
+WorkPermitInner,Keep this pass with you at all times.,随身携带。
+EndNews,Kolechian Consensus Reached Over Grestin,科洛奇亚共识涵盖了格莱斯丁
+ApartmentClass,CLASS,类别
+DetainButton,DETAIN,关押
+FingerprintButton,FINGERPRINT,指纹
+SearchButton,SEARCH,搜索
+EmblemsMOA,M.O.A,入境管理部
+EmblemsMOA,M.O.L,劳务部
+EmblemsMOL,M.O.L,劳务部
+Filer,CONFISCATED DOCUMENTS,没收的文件
+Filer,PROPERTY OF,属于
+Filer,M.O.A.,入境管理部。
+GiveIcon,GIVE,给予
+LoadButtonNew,NEW,新的
+LoadDay,DAY,日期
+LoadDrag,DRAG TO SCROLL,通过拖拽进行滚动
+News,The Truth of Arstotzka,阿什托兹卡的真相
+News,No Charge,无控诉
+ReasonButton,REASON,原因
+RifleKill,KILL,杀掉
+RifleTranq,TRANQ,麻醉
+StampBarMid,ALIGN VISA BENEATH STAMP,将签证放到印章下
+Upgrades,SPACE,空格
+Upgrades,TAB,TAB键
+image:ArskickersInner.png,capture/ArskickersInner.png,capture/ArskickersInner.png
+ArskickersInner,HANG ON WALL,挂在墙上
+image:BrothelFlyerInner.png,capture/BrothelFlyerInner.png,capture/BrothelFlyerInner.png
+BrothelFlyerInner,East Grestin,东格莱斯丁
+BrothelFlyerInner,FOR ALL YOUR FANTASIES,为了你所有的梦想
+image:PezpertInner.png,capture/PezpertInner.png,capture/PezpertInner.png
+PezpertInner,STAMP HERE,在这里盖章
+image:SonDrawingInner.png,capture/SonDrawingInner.png,capture/SonDrawingInner.png
+SonDrawingInner,hanG on wAll,挂在墙上
+image:SonDrawingOuter.png,capture/SonDrawingOuter.png,capture/SonDrawingOuter.png
+image:SonDrawingMount.png,capture/SonDrawingMount.png,capture/SonDrawingMount.png
+image:VictimPhotoInnerBack.png,capture/VictimPhotoInnerBack.png,capture/VictimPhotoInnerBack.png
+image:Emotions.png,export/Emotions.png,export/Emotions.png
+image:LoadButtonLatest.png,export/LoadButtonLatest.png,export/LoadButtonLatest.png
+image:InkApproved.png,export/InkApproved.png,export/InkApproved.png
+image:InkDenied.png,export/InkDenied.png,export/InkDenied.png
+image:StampBotApproved.png,export/StampBotApproved.png,export/StampBotApproved.png
+image:StampBotDenied.png,export/StampBotDenied.png,export/StampBotDenied.png
+image:ReasonStampTop.png,export/ReasonStampTop.png,export/ReasonStampTop.png
+image:InkReason.png,export/InkReason.png,export/InkReason.png
+image:Arstotzka.png,export/Arstotzka.png,export/Arstotzka.png
+image:Intro1.png,export/Intro1.png,export/Intro1.png
+image:Obrinspector.png,export/Obrinspector.png,export/Obrinspector.png
+image:Shutter.png,export/Shutter.png,export/Shutter.png
+news:RANDOM_WEATHER,The Weather,天气
+news:RANDOM_SPORTS,Sports,体育
+news:RANDOM_ENTERTAINMENT,Entertainment,娱乐
+news:RANDOM_POLITICS,Politics,政策
+news:FIRST_DAY,Grestin Border Checkpoint Opens At Last!,格莱斯丁边检站终于再次开放了！
+news:FIRST_DAY,After 6 Long Years. Can the Ministry of Admission Keep Us Safe?,在漫长的6年之后。入境管理部还能保证我们的安全吗？
+news:FIRST_DAY,Families To Reunite,破镜重圆的家庭
+news:CHECKPOINT_SUCCESS,Grestin Checkpoint a Success!,格莱斯丁边检站是一个成功！
+news:CHECKPOINT_SUCCESS,"Entry Restrictions To Relax, Admit Foreigners",入境条例放松：允许外籍人士来访！
+news:CHECKPOINT_SUCCESS,Analysts Upbeat,  GDP稳步上升
+news:CHECKPOINT_SUCCESS,Increased Trade And Cooperation Predicted,增加与未来的贸易与合作
+news:FIRST_TERRORISTS,Terrorists Strike At Grestin!,恐怖分子攻击了格莱斯丁！
+news:FIRST_TERRORISTS,Kolechian Agitators Suspected.,怀疑是科洛奇亚激进分子所为
+news:FIRST_TERRORISTS,Checkpoint Lockdown,锁闭检查站
+news:FIRST_TERRORISTS,More Guards - More Scrutiny,更多的守卫，更严格的检查
+news:BLACKMARKET_EXPLODES,Blackmarket Activity Explodes,黑市活动横行无忌
+news:BLACKMARKET_EXPLODES,Government Blames Lax Immigration Controls,政府责备入境管理部检测松散
+news:BLACKMARKET_EXPLODES,Checkpoint Expansion Postponed,边境检查点扩建延期
+news:WORKPERMIT_FIRST,"Jobs Few, Becoming Fewer",工作机会的减少陷入了恶性循环
+news:WORKPERMIT_FIRST,Immigrants Taking Jobs From Locals,外地劳工夺走了本地人的工作机会
+news:KOLECHIA_COMPLAINS_SEARCH,Kolechian Leader Files Complaint,科洛奇亚人领导人发出了控诉
+news:KOLECHIA_COMPLAINS_SEARCH,Claims Unprovoked Border Searches Violate Rights,声称格莱斯丁边检站对其国家公民的权利进行了侵害
+news:AFTER_SUICIDE_BOMBER,Another Attack At Grestin Checkpoint!,格莱斯丁边检站再次遭受袭击！
+news:AFTER_SUICIDE_BOMBER,Suicide Bomber Slips Through Security,自杀炸弹袭击者溜过了警卫
+news:GENERIC_BOMBER,Grestin Suffers Another Border Attack,格莱斯丁又遭到了自杀式炸弹袭击
+news:GENERIC_BOMBER,Suicide Bombings Becoming Routine,自杀炸弹袭击已经变成每天都要上演的故事了
+news:PIMP_BUSTED,Human Trafficking Ring Shut Down!,人口贩卖的犯罪链成功瓦解！
+news:PIMP_BUSTED,Grestin Checkpoint Officer Nabs Mastermind,格莱斯丁边检站的工作人员抓住了罪魁祸首
+news:PIMP_ESCAPED,Dancers At Grestin Club Found Dead!,格莱斯丁俱乐部舞娘被杀！
+news:PIMP_ESCAPED,Newly Immigrated Girls Victims Of Human Trafficking,人口贩卖日益昌盛的牺牲品：那些外地女孩
+news:KILLERATHLETE,Republian Track Star Wanted For Murder!,被控以谋杀罪的雷帕布里亚田径明星！
+news:KILLERATHLETE,Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia,没人知道Vince Lestrade在哪里——他很可能已经逃出了雷帕布里亚
+news:KILLERATHLETE,Vince Lestrade: Profile,案情回顾：
+news:KILLERATHLETE,Girlfriend Killed In Jealous Rage?,因为嫉妒而杀掉了女友？
+news:KILLERATHLETE_DETAINED,Vince Lestrade Apprehended In Grestin!,Vince Lestrade在格莱斯丁被捕！
+news:KILLERATHLETE_DETAINED,Track Champ Looks Quite Guilty Now,田径明星现在看起来非常自责
+news:KILLERATHLETE_APPROVED,Vince Lestrade Spotted in Arstotzka,在阿什托兹卡发现了Vince Lestrade
+news:KILLERATHLETE_DENIED,Vince Lestrade Apprehended In Kolechia!,在科洛奇亚发现了Vince Lestrade！
+news:DIPLOMAT_FIRST,Kolechia Sends Top-Level Diplomat,科洛奇亚派来了最高级别的外交官
+news:DIPLOMAT_FIRST,Normalizing Trade Top Issue,贸易正常化是首要议题
+news:BUSTED_SPY,Top-level Kolechian Exposed as Arstotzkan Spy!,科洛奇亚高层竟是阿什托兹卡间谍！
+news:BUSTED_SPY,"Missing From Post, Presumed Dead",失踪，推测已经死亡
+news:BUSTED_SPY_GAVEREALDOCS,Kolechia Cleans House - Eliminates Arstotzkan Spies,科洛奇亚清理门户——消灭阿什托兹卡的间谍
+news:BUSTED_SPY_GAVEREALDOCS,Heroic Agents Compromised,英雄特工身份暴露
+news:BUSTED_SPY_GAVEFAKEDOCS,Kolechia Cleans House - Attacks Its Own!,科洛奇亚清理门户——自相残杀！
+news:BUSTED_SPY_GAVEFAKEDOCS,Round Of Disappearances Blamed On Faulty Evidence,假冒证件导致了一连串的失踪事件！
+news:FORGERY_NEWS,Theft At Ministry Of Admission!,入境管理部遭窃！
+news:FORGERY_NEWS,Limited Effects - Few Items Stolen,不幸中的万幸——只有极少数财物丢失
+news:SECRET_SOCIETY,The History of Arstotzka,阿什托兹卡的历史
+news:SECRET_SOCIETY,In Pictures and Words - Mostly Words,图文并茂——大多数是文字
+news:CRIMINAL_ACTIVITY,A Criminal's Safe Haven,犯罪者的天堂
+news:CRIMINAL_ACTIVITY,Arstotzka Earns Dubious Reputation,阿什托兹卡已声名狼藉
+news:LOSING_GUARDS,Ministries Fight Over Staff,内阁成员大打出手
+news:LOSING_GUARDS,"Qualified Guards, Soldiers In Demand",急需有资质的警卫，士兵
+news:LOSING_GUARDS,"Consolidation, Reassignment At Border",需要巩固边境，重新制定职位
+news:LOSING_GUARDS,Still Safe With Smaller Detail?,警卫不足，安全何在？
+news:RUNNER_AFTER_TRANQ,Grestin Incident Highlights Security Risks,格莱斯丁的意外暴露了安全风险
+news:RUNNER_AFTER_TRANQ,Further Breaches Predicted,预测会有更多的非法入境者
+news:BIKE_ATTACK,Daring Bike Attack At Grestin Checkpoint!,格莱斯丁边检站发生了大胆的机车袭击事件！
+news:BIKE_ATTACK,Extremists Growing Bolder - Grestin Like Magnet,极端主义者越来越大胆了——格莱斯丁就像是吸引这类人的磁铁一样
+news:BORDER_TARGETED,Can The Wall Hold?,我们还守得住吗？
+news:BORDER_TARGETED,Border Safety Continually Questioned,边境安全受到持续质疑
+news:BIKERUNNER_NEWS,Coordinated Border Breach!,调整边境漏洞！
+news:BIKERUNNER_NEWS,Unknown Assailants Swamp Security,不明袭击者摧毁守卫线
+news:NOSY_JOURNALIST_APPROVED,Arstotzka's Frail Border,阿什托兹卡的脆弱边境
+news:NOSY_JOURNALIST_APPROVED,United Fed Reporter Exposes Lax Protocols,联邦记者刊报：错漏百出的边检流程
+news:NOSY_JOURNALIST_DENIED,Arstotzka's Iron Border,阿什托兹卡铜墙铁壁般的边境
+news:NOSY_JOURNALIST_DENIED,Int. Media Reveals Entry Visa Bias,情报媒体揭露了入境签证的国籍歧视
+news:IDSUPPLEMENT_INTRO,Another Bomber Slips Through!,又一个炸弹袭击者潜入进来了
+news:IDSUPPLEMENT_INTRO,Immigrant Screening Falls Short,移民检查暴露出不足
+news:IDSUPPLEMENT_INTRO,M.O.A. Gets New Director,入境管理部更换部长
+news:IDSUPPLEMENT_INTRO,Stricter Protocols Promised at Border,承诺会在边境执行更严密的规章制度
+news:WHISTLEBLOWER_SETUP0,Antegria Domestic Spying Exposed!,安特格利亚的国民监听行为遭到揭发！
+news:WHISTLEBLOWER_SETUP0,Whistleblower On The Run,揭发者正在逃亡
+news:WHISTLEBLOWER_SETUP1,Antegrian Whistleblower Denied Asylum In Republia,安特格利亚监听事件的揭发者拒绝了雷帕布里亚的收容
+news:WHISTLEBLOWER_SETUP2,Antegrian Whistleblower Turned Away From United Fed,安特格利亚检举者们离开了联邦
+news:WHISTLEBLOWER_COMING,Antegrian Whistleblower Accepted By Arstotzka,阿什托兹卡接受了安特格利亚揭发者
+news:WHISTLEBLOWER_COMING,Move Risks Angering Neighbors,此举可能触怒邻国
+news:WHISTLEBLOWER_IN,Antegrian Whistleblower Arrives - Disappears Immediately,安特格利亚揭发者到达了——但是立刻消失了
+news:WHISTLEBLOWER_OUT,Antegrian Whistleblower Turned Away - Whereabouts Unknown,安特格利亚监听事件揭发者离开了——没人知道他们的去向
+news:IMPOR_UNHAPPY,Impor Protests Unbalanced Trade Restrictions,印玻抗议不平等贸易限制
+news:IMPOR_UNHAPPY,Claims Arstotzka Unfairly Taxes Imporian Goods,声称阿什托兹卡对印玻商品收取了不公平的税金
+news:IMPOR_SANCTIONS_START,Impor Begins Trade Sanctions!,印玻开始贸易制裁！
+news:IMPOR_SANCTIONS_START,Immediately Restricts All Imports From Arstotzka,立即限制所有来自阿什托兹卡的进口
+news:IMPOR_SANCTIONS_END,Impor Sanctions End!,阿什托兹卡的贸易制裁结束！
+news:IMPOR_SANCTIONS_END,Over So Fast? What Happened?,这么快就结束了？怎么回事？
+news:SURGERY_SETUP,Breakthrough Spinal Surgery Perfected,脊椎外科手术难题成功攻破
+news:SURGERY_SETUP,Only Possible With Arstotzkan Expertise,阿什托兹卡的专家是其中的技术核心
+news:VIRUS_PRIMER,Polio Resurfaces In United Fed,联邦再次爆发脊髓灰质炎
+news:VIRUS_PRIMER,Isolated Diagnosis Or Something More?,隔离诊断，抑或强制的措施？
+news:VIRUS_BAN_UNITED_FED,Full-blown Epidemic Threatens United Fed!,全面爆发的疫情威胁联邦！
+news:VIRUS_BAN_UNITED_FED,"Previously Under Control, Polio Back With Vengeance",脊髓灰质炎死灰复燃
+news:VIRUS_REQUIRE_CERT,Ministry of Health Acts To Protect Citizens,卫生部作出行动保护公民
+news:VIRUS_REQUIRE_CERT,"New Policy, Safeguards At Borders",新的政策，保护边境
+news:SERIAL_KILLER,Serial Child Killer Escapes United Fed Prison!,连环儿童杀手逃出了联邦监狱！
+news:SERIAL_KILLER,Simon Wens: An Arstotzkan Native - Returning Home?,Simon Wens：重回祖国？
+news:SERIAL_KILLER_MURDERED,Bloody Scene In Gennistora!,吉尼斯托拉爆发流血冲突！
+news:SERIAL_KILLER_MURDERED,Simon Wens Found Dead In Confusing Mess,Simon Wens被人们发现死在了一片混乱之中
+news:EZIC_ATTACK0,Grestin Metro Halted,格莱斯丁地铁停运
+news:EZIC_ATTACK0,"Tunnel Cave-in, Hints At Sabotage",隧道塌方，可能由于恐怖活动
+news:EZIC_ATTACK1_GIFT,Gov't Headquarters In Paradizna Evacuated!,帕拉迪兹那的政府总部已经撤离了！
+news:EZIC_ATTACK1_GIFT,"Strange Gas Detected - Staff Safe, Records Missing","发现不明气体——工作人员安全，但多份档案行踪不明"""
+news:EZIC_ATTACK1_NOGIFT,Head Minister Of Finance Missing!,财政部总长失踪了！
+news:EZIC_ATTACK1_NOGIFT,"Markets React With Fast Selling, Instability",经济泡沫明显，市场环境已经呈现不稳定
+news:POISONING,Mysterious Poison Hospitalizes Several!,神秘的毒药毒死了多人！
+news:POISONING,Unnamed Immigrant Smuggles Deadly Agent,神秘入境者走私致命毒药
+news:MARKED_DIPLOMAT,Top-Level Talks Called,各国峰会召开
+news:MARKED_DIPLOMAT,Grestin Territory Remains Dividing Issue,格莱斯丁领土划分问题依旧
+news:DIPLOMAT_SWAPPED,Kolechians Are Crazy,科洛奇亚人都是疯子
+news:DIPLOMAT_SWAPPED,Bizarre Behavior From Top Negotiator Spoils Talks,科洛奇亚领导人的离奇行为导致谈判破裂
+news:DIPLOMAT_ORIGINAL,A Tentative Understanding,一个初步的理解
+news:DIPLOMAT_ORIGINAL,Kolechian Talks Establish Common Ground,与科洛奇亚领导人建立共识
+news:TALKS_BREAK_DOWN,Roadblock To Kolechian Resolution,合作的障碍
+news:TALKS_BREAK_DOWN,Contested City Drives Wedge,与科洛奇亚的领土问题依然存在
+news:BORDER_CLOSING,Grestin Checkpoint Future Uncertain,格莱斯丁边检站将何去何从？
+news:BORDER_CLOSING,"Too Open, Too Soon?",边境开放为期尚早？
+text:language_code,en,zh
+text:language_name,ENGLISH,中文
+text:language_author,Author,"3DM,Patched by ssenkrad"
+text:wrap_hyphen,-,-
+text:created_by,created by Lucas Pope,卢卡斯·波普制作
+text:papers_please,"Papers, please.",请出示文件
+text:protocol_violated,Protocol Violated.,违反职务守则
+text:unauth_confiscation,Unauthorized passport confiscation,未授权的护照没收行为
+text:missing_reason,Denial reason not given,未给予拒签理由
+text:citation_warning,WARNING ISSUED - NO PENALTY,已发布警告——无惩罚
+text:citation_lastwarning,LAST WARNING - NO PENALTY,最后一次警告——无惩罚
+text:citation_penalty,PENALTY ASSESSED - $0 CREDITS,已评估惩罚——$0
+text:border_next,NEXT!,下一位！
+text:border_bomber,FOR KOLECHIA!,为了科洛奇亚！
+text:border_comeback,COME BACK AT 6AM TOMORROW,边检站将于明早六点重新开放
+text:border_announce0,ENTRY IS NOT GUARANTEED,下一位请稍后
+text:border_announce1,HAVE YOUR DOCUMENTS READY,准备好你的证件
+text:border_announce2,ARSTOTZKA WELCOMES YOU,阿什托兹卡欢迎你
+text:border_guardout,OUT!,出去！
+text:border_elisa,ELISA!,ELISA！
+text:family_son_budget,SON,儿子
+text:family_wife_budget,WIFE,妻子
+text:family_niece_budget,NIECE,侄女
+text:family_uncle_budget,UNCLE,叔叔
+text:family_mil_budget,MIL,岳母
+text:family_son_status,Son,儿子
+text:family_wife_status,Wife,妻子
+text:family_niece_status,Niece,侄女
+text:family_uncle_status,Uncle,叔叔
+text:family_mil_status,Mother-in-law,岳母
+text:family_son_message,son,儿子
+text:family_wife_message,wife,妻子
+text:family_niece_message,niece,侄女
+text:family_uncle_message,uncle,叔叔
+text:family_mil_message,mother-in-law,岳母
+text:night_endof,END OF,期限
+text:night_day,DAY $0,第 $0 日
+text:family_verysick_1,Your $0 will die without medicine.,没有药的话你的 $0 会死亡。
+text:family_verysick_many,Very sick family members will die without medicine.,生病严重的家庭成员没有药的话会死亡。
+text:family_sick_1,Your $0 is sick and needs medicine.,你的 $0 生病了，需要药品。
+text:family_sick_many,Your family needs medicine.,你的家人需要药品。
+text:family_died_1,Your $0 has died.,你的 $0 已经离世。
+text:family_died_2,Your $0 and $1 have died.,你的 $0 和 $1 已经离世。
+text:family_died_3,"Your $0, $1, and $2 have died.",你的 $0 ，$1 和 $2 已经离世。
+text:family_died_4,"Your $0, $1, $2, and $3 have died.",你的 $0 ，$1 ，$2 和 $3 已经离世。
+text:family_died_5,"Your $0, $1, $2, $3, and $4 have died.",你的 $0 ，$1 ，$2 ，$3 和 $4 已经离世。
+text:family_escape_with_0,You leave behind everything.,你谁都没带。
+text:family_escape_with_1,You gather your $0 to leave for Obristan.,你带上了 $0 出发去欧布里斯坦。
+text:family_escape_with_2,You gather your $0 and $1 to leave for Obristan.,你带上了 $0 和 $1 出发去欧布里斯坦。
+text:family_escape_with_3,"You gather your $0, $1, and $2 to leave for Obristan.",你带上了 $0，$1， 和 $2 出发去欧布里斯坦。
+text:family_escape_with_4,"You gather your $0, $1, $2, and $3 to leave for Obristan.",你带上了 $0，$1， $2， 和 $3 出发去欧布里斯坦。
+text:family_escape_with_5,"You gather your $0, $1, $2, $3, and $4 to leave for Obristan.",你带上了 $0，$1， $2， $3， 和 $4 出发去欧布里斯坦。
+text:family_escape_without_1,Your $0 prepares to return to Nirsk.,你的 $0 准备回尼尔斯克。
+text:family_escape_without_2,Your $0 and $1 prepare to return to Nirsk.,你的 $0 和 $1 准备回尼尔斯克。
+text:family_escape_without_3,"Your $0, $1, and $2 prepare to return to Nirsk.",你的 $0， $1， 和 $2 准备回尼尔斯克。
+text:family_escape_without_4,"Your $0, $1, $2, and $3 prepare to return to Nirsk.",你的 $0， $1， $2， 和 $3 准备回尼尔斯克。
+text:family_escape_without_5,"Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.",你的 $0， $1， $2， $3， 和 $4 准备回尼尔斯克。
+text:family_flee_final_0,Obristan Above All,欧布里斯坦超越一切
+text:family_flee_final_1,The safety of your $0 is unknown.,你不知道 $0 是否安全。
+text:family_flee_final_2,The safety of your $0 and $1 is unknown.,你不知道 $0 和 $1 是否安全。
+text:family_flee_final_3,"The safety of your $0, $1, and $2 is unknown.",你不知道 $0， $1， 和 $2 是否安全。
+text:family_flee_final_4,"The safety of your $0, $1, $2, and $3 is unknown.",你不知道 $0， $1， $2， 和 $3 是否安全。
+text:family_flee_final_5,"The safety of your $0, $1, $2, $3, and $4 is unknown.",你不知道 $0， $1， $2， $3， 和 $4 是否安全。
+text:budget_savings,SAVINGS,储蓄
+text:budget_salary,SALARY ($0),薪水 ($0)
+text:budget_penalties,PENALTIES ($0),罚款 ($0)
+text:budget_bribes,BRIBES,贿金
+text:budget_rent,RENT,租金
+text:budget_food,FOOD,失误
+text:budget_heat,HEAT,暖气
+text:budget_medicine,MEDICINE ($0),药品 ($0)
+text:budget_sleep,SLEEP,睡觉
+text:budget_escape,ESCAPE,潜逃
+text:menu_back,BACK,返回
+text:confirm_ok,OKAY,好
+text:confirm_cancel,CANCEL,取消
+text:menu_mainmenu,MAIN MENU,主菜单
+text:menu_resume,RESUME,继续游戏
+text:menu_quit,QUIT,退出
+text:menu_done,DONE,完成
+text:menu_story,STORY,故事模式
+text:menu_endless,ENDLESS,无尽模式
+text:menu_play,PLAY,开始
+text:menu_fullscreen,Fullscreen,全屏
+text:menu_nudity,Nudity,裸露
+text:menu_easy,Easy Mode,简单模式
+text:menu_music,Music,音乐
+text:menu_sound,Sound,声效
+text:menu_dateformat,Date Format,日期格式
+text:menu_language,Language,语言
+text:menu_easytip,+ 20 credits per day,每天 + 20 额外收入
+text:menu_stats,STATS,统计数据
+text:menu_next,NEXT,下一个
+text:menu_walktowork,WALK TO WORK,步行上班
+text:menu_paused,PAUSED,暂停
+text:menu_settings,SETTINGS,设置
+text:menu_credits,CREDITS,3DM轩辕汉化组
+text:menu_checkforupdates,CHECK FOR UPDATES,检查更新
+text:stats_text,"Played for $time
+$processed travelers processed
+$approved approved
+$denied denied
+$detained detained
+$citations citations earned
+$stamps stamps applied
+Ending $endnum of $endtotal","总时间 $time
+处理数 $processed
+批准数 $approved
+否决数 $denied
+逮捕数 $detained
+警告数 $citations
+盖章数 $stamps
+结局 $endnum / $endtotal"
+text:steam_noinit,"STEAM CONNECTION FAILED
+
+If this problem persists, re-install the Steam client.","连接STEAM失败
+
+如果该问题一直存在，重新安装Steam客户端。"
+text:steam_restartfailed,"STEAM RESTART FAILED
+
+If this problem persists, re-install the Steam client.","STEAM重启失败
+
+如果该问题一直存在，重新安装Steam客户端。"
+text:steam_noconnect,"STEAM CONNECTION FAILED
+
+The game will attempt to restart through the Steam client.","连接STEAM失败
+
+游戏将会尝试通过Steam客户端重启。"
+text:steam_restart,RESTART,重启
+text:load_title,Select day to continue or start a new game,选择一天继续游戏或者开始新游戏
+text:load_confirm_delete_single,"Delete this day $0 save?
+
+There is no undo.","删除第 $0 天的存档吗？
+
+一经删除无法恢复。"
+text:load_confirm_delete_multi,"Delete this save branch from day $0 to day $1?
+
+There is no undo.","删除从第 $0 天到第 $1 天的存档吗？
+
+一经删除无法恢复。"
+text:load_delete,DELETE,删除
+text:load_confirm_full,"Save tracks full.
+
+Continue from a right-most save or delete a save branch to free up a track.","存档已满。
+
+从一个最好的存档开始或者删除一些存档释放存储空间。"
+text:load_summary,"Day $day
+""$news""
+
+$savings credits, $family family members,
+$tokens tokens, apartment $apt","$day 日
+“$news”
+
+$savings 存款， $family 家人
+$tokens 徽章， $apt级公寓"
+text:load_continue,CONTINUE,继续
+text:emotion_happy,HAPPY,高兴
+text:emotion_ok,OK,不错
+text:emotion_sad,SAD,悲伤
+text:emotion_cold,COLD,冷
+text:emotion_sick,SICK,生病
+text:emotion_verysick,VERY SICK,严重生病
+text:emotion_dead,DEAD,死亡
+text:emotion_hungry,HUNGRY,饥饿
+text:load_latest,LATEST,最新
+text:entry_approved,ENTRY GRANTED,准许进入
+text:entry_denied,ENTRY DENIED,不准进入
+text:stamp_approved,APPROVED,许可
+text:stamp_denied,DENIED,否决
+text:stamp_reason,REASON,原因
+text:booth_dragdocs,DRAG DOCUMENTS HERE,将文件拖拽到这里
+text:booth_highlight,HIGHLIGHT DISCREPANCIES,加亮不符合项
+text:booth_discrepancy,"DISCREPANCY
+DETECTED",检测到不符合项
+text:booth_interrogate,INTERROGATE,审问
+text:booth_matching,"MATCHING
+DATA","匹配
+数据"
+text:booth_nocorrelation,"NO
+CORRELATION","没有
+联系"
+text:booth_cleared,"DISCREPANCY
+CLEARED","不符合项
+清除"
+text:env_clearforentry,Applicant clear for entry,申请人准许进入
+text:env_lettermale,M,男
+text:env_letterfemale,F,女
+text:env_noalias,No known alias,无别名
+text:env_typochars,"aeiou,iuy,pgq,lj,ck,bh",aeiou，iuy，pgq，lj，ck，bh
+text:endless_complete,"$style
+$course
+
+$time
+$score Points","$style
+$course
+
+$time
+$score 点数"
+text:endless_ranked,Ranked #$0,排名 #$0
+text:endless_unlock,Complete story mode with your job intact to unlock endless mode,在故事模式中保住你的工作来解锁无尽模式
+text:endless_wrongcode,S O R R Y,抱歉
+text:date_verbose,"$month $day, $year",$month $day， $year
+text:month_1,January,一月
+text:month_2,February,二月
+text:month_3,March,三月
+text:month_4,April,四月
+text:month_5,May,五月
+text:month_6,June,六月
+text:month_7,July,七月
+text:month_8,August,八月
+text:month_9,September,九月
+text:month_10,October,十月
+text:month_11,November,十一月
+text:month_12,December,十二月
+text:day_1,1st,第1日
+text:day_2,2nd,第2日
+text:day_3,3rd,第3日
+text:day_4,4th,第4日
+text:day_5,5th,第5日
+text:day_6,6th,第6日
+text:day_7,7th,第7日
+text:day_8,8th,第8日
+text:day_9,9th,第9日
+text:day_10,10th,第10日
+text:day_11,11th,第11日
+text:day_12,12th,第12日
+text:day_13,13th,第13日
+text:day_14,14th,第14日
+text:day_15,15th,第15日
+text:day_16,16th,第16日
+text:day_17,17th,第17日
+text:day_18,18th,第18日
+text:day_19,19th,第19日
+text:day_20,20th,第20日
+text:day_21,21st,第21日
+text:day_22,22nd,第22日
+text:day_23,23rd,第23日
+text:day_24,24th,第24日
+text:day_25,25th,第25日
+text:day_26,26th,第26日
+text:day_27,27th,第27日
+text:day_28,28th,第28日
+text:day_29,29th,第29日
+text:day_30,30th,第30日
+text:day_31,31st,第31日
+text:bulletin_default,"Arstotzka
+Ministry of Admission
+Official Bulletin
+
+Inspector,
+
+$content
+
+Glory to Arstotzka.","阿什托兹卡
+入境管理部
+官方公告
+
+检查员，
+$content
+
+荣耀属于阿什托兹卡。"
+text:bulletin_notice,"Arstotzka
+Ministry of Admission
+Official Bulletin
+
+NOTICE:
+
+$content
+
+Glory to Arstotzka.","阿什托兹卡
+入境管理部
+官方公告
+
+注意：
+$content
+
+荣耀属于阿什托兹卡。"
+text:bulletin_endless,"Arstotzka
+Ministry of Admission
+Official Bulletin
+
+$style
+
+$course
+
+Glory to Arstotzka.","阿什托兹卡
+入境管理部
+官方公告
+
+$style
+
+$course
+
+荣耀属于阿什托兹卡。"
+bulletin:1A,"Welcome to your new position at Grestin Border Checkpoint.
+
+Stamp passport ENTRY VISA and return documents to entrant.
+
+Entry is restricted to Arstotzkan citizens only.
+
+Deny all foreigners.","欢迎来到格莱斯丁边境检查站，这是你的新工作。
+
+在护照上盖上入境签证然后把证件还给过境人员。
+
+目前入口只对阿什托兹卡市民开放。
+
+拒绝所有外国人。"
+bulletin:2A,"From today, foreigners with a valid passport are permitted to enter.
+
+Your booth's INSPECTION hardware is now installed.
+
+Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+
+Continued...[PAGESNOTE]","从今天开始，准许外籍人士持有效护照进入。
+
+边检站里的设备已经安装完毕。
+
+仔细检查护照上的信息看是否有不符合的地方。拒绝信息不符的过境人员入境。
+
+[下一页]"
+bulletin:2B,"__________________________
+INSPECT MODE
+
+Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+
+__________________________
+RULES &amp; REGULATIONS
+
+This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
+检查模式
+
+使用你桌子上的红色按钮进入检查模式。在检查过程中，高亮标注出两处不一样的地方进行进一步检查。
+
+__________________________
+规则 &amp; 条例
+
+这份文件内有入境管理部规则和条例，认真熟读条款。"
+bulletin:3A,"Entry for non-citizens is now regulated.
+
+All foreigners require a valid ENTRY TICKET.
+
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","非本国公民的入境受限。
+
+所有外籍人士都必须持有一张有效的通行劵。
+
+在盖章之前核实所有信息。 [下一页]"
+bulletin:4A,"Stricter credential requirements have been instituted.
+
+Arstotzkan citizens must show their ID CARD.
+
+Foreigners must secure and present a valid ENTRY PERMIT.
+
+Entry tickets are no longer sufficient.
+
+Continued...","更严格的证件要求已经出台。
+
+阿什托兹卡公民必须出示身份证。
+
+外籍人士必须出示有效的访问许可证。
+
+通行劵已经作废。
+
+未完..."
+bulletin:4B,"A new chapter detailing document features has been added to your rulebook.
+
+Check all information thoroughly.
+
+Deny any applicant with discrepant documents.
+
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","相关条款已经添加到你的职务守则上。
+
+认真熟读所有条款，
+
+拒绝所有证件信息不符的人员入境.
+
+参考录音来对照过境人员的表述。"
+bulletin:5A,"You are now authorized to detain suspicious individuals.
+
+Interrogate discrepancies to enable detention option.","你现在有权扣留可疑人士。
+
+询问不符合项来触发扣留选项。"
+bulletin:6A,"The Ministry of Labor has instituted a special program to control immigrant labor.
+
+Travelers entering for work require a valid WORK PASS.","劳务管理部出台了特殊程序来控制外地劳工。
+
+外来务工人员需要有效的工作证。"
+bulletin:7A,"To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
+
+Kolechian extremists are suspected in yesterday's bombing.
+
+Search all Kolechians before approving their entry.","为了便于检查，你的检查站安装了搜查扫描系统。
+
+怀疑科洛奇亚极端分子跟昨天的爆炸有关。
+
+在准许进入之前搜查所有科洛奇亚人。"
+bulletin:8A,"The Kolechians have filed a formal complaint.
+
+A diplomat will arrive today for high-level discussions.
+
+Automatic searches of Kolechian citizens are no longer authorized.
+
+Continued...[PAGESNOTE]","科洛奇亚人正式的起诉。
+
+一名外交官今天会来进行高层会议。
+
+不允许再对科洛奇亚市民进行自动搜查。
+
+还有...[下一页]"
+bulletin:8B,"__________________________
+DIPLOMATS
+
+Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter.
+
+Refer to the rulebook for updated document information.","__________________________
+外交守则
+
+外交特使只需要持有护照和有效的外交特许就可进入。
+
+请参考职务守则，查看更新后的条款。"
+bulletin:9A,"An undercover agent of the Ministry of Information has been compromised.
+
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","一名情报部的卧底身份被识破。
+
+入境管理部已经让他作为联络员。预计今天他会送来机密文件。"
+bulletin:10A,"The divisional authority of East Grestin operations will visit today.
+
+Maintain your best behavior.","今天东格莱斯丁的政府人员会来视察。
+
+保持你最好的状态。"
+bulletin:11A,"A break-in at M.O.A. offices may have compromised our document sealing plates.
+
+Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+
+Continued...","有人闯入了入境管理部办公室，我们的文件有可能被盗用。
+
+没有什么重要的东西被偷，不过有情报表明不法分子已经开始伪造阿什托兹卡官方文件了。
+
+未完..."
+bulletin:11B,"__________________________
+FORGERIES
+
+Double-check that required documents contain valid seals.
+
+Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
+赝品
+
+仔细查看所需文件上的有效印章。
+
+对照指南上相应的篇章比对印章的缺失或者错误。"
+bulletin:13A,"The new director is unsatisfied with the level of scrutiny afforded to foreigners.
+
+From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
+
+The rulebook DOCUMENTS chapter has been updated.","新领导不满意针对外国人的安保等级。
+
+从今以后，所有外国入境人员必须提供近期的身份补充证明，内容包括体重，身高和外貌。
+
+指南上的文件篇章已经更新。"
+bulletin:14A,"The Ministry of Justice has requested our support.
+
+Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
+
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]","司法部需要我们的协助。
+
+每日公告将包含3名最危险的国际罪犯。
+
+检查过境人员的面容并扣留可疑人员。[下一页]"
+bulletin:16A,"The Ministry of Justice has appropriated the outer guard detail.
+
+You are now responsible for controlling trespasser activity.
+
+The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
+
+Continued...[PAGESNOTE]","司法部已经制定了外巡警卫细则。
+
+你现在负责控制入侵行为。
+
+当警报响起时，给你的钥匙可用来解锁麻醉枪。
+
+继续...[下一页]"
+bulletin:16B,"__________________________
+COMPENSATION
+
+You will receive a bonus for stopping any trespasser. A smaller bonus is provided for firing on, but missing, your target.
+
+__________________________
+WEAPONS PROTOCOL
+
+Review instructional diagram on following page.","__________________________
+赔偿金
+
+阻止入侵行为会让你获得奖金。如果你向目标开火但射偏了，奖金会降低。
+
+__________________________
+武器协议
+
+在下面回顾图解教学。"
+bulletin:18A,"Unfavorable international press has affected immigration protocol.
+
+All denials must be accompanied by a REASON FOR DENIAL stamp.
+
+A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
+
+Continued...","不利的国际压力影响了移民政策。
+
+所有否决入境都必须盖上“否决的理由”章。
+
+已经安装了一个新的电脑画图系统。询问不符合项来启动“否决的理由”章。
+
+未完..."
+bulletin:18B,"__________________________
+DENIAL PROTOCOL
+
+REASON FOR DENIAL stamp is activated on first interrogation.
+
+When denying entry, stamp both DENIED and REASON FOR DENIAL on passport.
+
+If applicant clarifies discrepancies sufficiently, approval is authorized even while REASON FOR DENIAL stamp remains available.","__________________________
+否决协议
+
+“否决的理由”章在首次询问后激活。
+
+当否决入境时，要在护照上盖上“否决”和“否决的理由”章。
+
+如果申请人的辩解足够有力，可以批准授权，而“否决的理由”章还是激活状态。"
+bulletin:19A,"Impor rejects all imported goods from Arstotzka.
+
+Under request from the Ministry of Trade, the Ministry of Admission will react to this violation.
+
+Deny all travelers from Impor.","印玻否决所有从阿什托兹卡进口的物品。
+
+根据外贸部的要求，入境管理部将会对如此侵权行为作出反应。
+
+否决所有印玻人入境。"
+bulletin:20A,"Impor has relented on their faulty policy.
+
+Imporians are now permitted entry.
+
+The divisional authority of East Grestin operations will visit again today.","印玻放缓了他们的错误政策。
+
+现在准许印玻人入境。
+
+东格莱斯丁政府人员今天将会再次来访。"
+bulletin:21A,"A special program for political asylum has been established.
+
+Those seeking asylum must carry a valid GRANT OF ASYLUM.
+
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","一项政治庇护的特别计划已经确定。
+
+那些寻求庇护的人必须携带有效的“避难许可”。
+
+有上述许可的过境人员无需“入境许可证”或“身份补充证明”。"
+bulletin:23A,"Your position is important and your responsibilities are broad.
+
+Follow all protocols strictly.","你的岗位非常重要，你的职责内容也非常广泛。
+
+严格遵守所有规定。"
+bulletin:24A,"Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
+
+The Ministry of Information has requested our cooperation.
+
+A special drawer for confiscating documents has been installed in your booth.
+
+Continued...","最近一系列活动的矛头都指向在奥坦区的阿什托兹卡市民。
+
+情报部要求我们配合他们的工作。
+
+一个用来没收文件的特殊的抽屉已经安装在你的检查站里。
+
+未完..."
+bulletin:24B,"The rulebook has been updated with information regarding confiscation policy.
+
+Confiscate all Arstotzkan passports from residents living in ALTAN district.
+
+Travelers may still be granted entry if passport is confiscated and no other rules are violated.
+
+PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","你的指南已经更新关于没收的政策。
+
+没收所有生活在奥坦区阿什托兹卡人的护照。
+
+被没收护照的旅行者如果没有其他不符规定的地方，依然准许进入。
+
+“护照没收”将允许没有护照的情况下准许或否决进入。"
+bulletin:25A,"United Federation citizens present a risk of spreading infectious disease.
+
+Deny all entrants from United Federation.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","世界联邦居民现在有传播传染病的风险。
+
+否决所有来自世界联邦的新成员。
+
+继续没收居住在奥坦地区居民的阿什托兹卡护照。
+"
+bulletin:26A,"The risk of disease is too great. A new protocol has been instituted.
+
+All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
+
+This requirement extends to natives, foreigners, diplomats, and asylum seekers.
+
+Continued...","疾病风险太大了。已经建立了一个新的协议。
+
+所有的入境者必须持有新的脊髓灰质炎疫苗的有效预防接种证书。
+
+要求已经延伸至本国人、外国人、外交官和寻求避难者。
+
+继续……"
+bulletin:26B,"United Federation citizens are permitted entry with such certification.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","允许具有此证书的世界联邦居民进入。
+
+继续没收居住在奥坦地区居民的阿什托兹卡护照。
+"
+bulletin:27A,"In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
+
+Foreigners are now required to present a valid ACCESS PERMIT.
+
+Continued...","为了提高效率，已将入境许可证和身份补充证明合并为一个访问许可证。
+
+现在外国人需要具有一个有效的访问许可证。
+
+继续……"
+bulletin:27B,"Yesterday's coordinated attack has prompted an emergency meeting.
+
+An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
+
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","昨天的协同攻击已经引起了一次紧急会议。
+
+一名重要的科洛奇亚谈判家将于今天抵达并讨论有关该检查点的话题。
+
+继续没收居住在奥坦地区居民的阿什托兹卡护照。"
+bulletin:28A,"In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
+
+Confiscate all Arstotzkan passports from native entrants.
+
+There are no exceptions.
+
+Do not confiscate foreign passports.","针对连续受到袭击的措施，情报部正在扩大护照没收范围。
+
+没收所有本国公民的护照。没有例外。
+
+外国护照不予没收。"
+bulletin:29A,"[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued...","[注意]所有政府雇员都要进行一次彻底的信息审计。与未授权组织有所牵连就会成为立即逮捕的理由。
+
+你审计的计划日期是：12月24日。
+
+不要离开你的工作岗位。
+
+继续……"
+bulletin:29B,Continue to confiscate all Arstotzkan passports from native entrants.,继续没收本国公民的护照。
+bulletin:30A,"[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
+
+Your audit is scheduled for: DECEMBER 24
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continued...","[注意]所有政府雇员都要经受一次彻底的信息审计。与未授权组织有所牵连就会成为立即逮捕的理由。
+
+你的计划审计日期是：12月24日。
+
+不要离开你的指定区域。
+
+未完……"
+bulletin:30B,Continue to confiscate all Arstotzkan passports from native entrants.,继续没收本国公民的护照。
+bulletin:31A,"The Ministry of Admission is involved in discussions regarding the closure of this checkpoint.
+
+Until a decision is made, maintain your duties as ordered.
+
+Continued...","入境管理部被卷入一场关于关闭此检查站的讨论中。
+
+直到做出决定为止，按命令完成你的职责。
+
+继续……"
+bulletin:31B,"You are scheduled for an information audit tomorrow morning.
+
+DO NOT LEAVE YOUR DESIGNATED REGION.
+
+Continue to confiscate all Arstotzkan passports from native entrants.","明早你将按计划进行一项信息审核。
+
+不要离开你的工作岗位.
+
+继续没收本国公民的护照."
+facts,$paper: Invalid $fact,$paper:无效 $fact
+facts,Missing $paper,缺失 $paper
+facts,$0 DISTRICT,$0区
+facts,Presence,出勤奖
+facts,Sufficience,全勤奖
+facts,Excellence,优秀奖
+facts,Obristan,欧布里斯坦
+facts,Antegria,安特格利亚
+facts,Republia,雷帕布里亚
+facts,UnitedFed,世界联邦
+facts,Impor,印玻
+facts,Kolechia,科洛奇亚
+facts,Arstotzka,阿什托兹卡
+facts,Skal,斯卡尔
+facts,Lorndaz,罗恩达
+facts,Mergerous,梅杰罗斯
+facts,St. Marmero,圣玛梅洛
+facts,Glorian,格洛里安
+facts,Outer Grouse,外格罗斯
+facts,True Glorian,真格洛里安
+facts,Lesrenadi,雷斯恩纳迪
+facts,Bostan,博斯坦
+facts,Great Rapid,大雷丕德
+facts,Shingleton,星雷顿
+facts,Korista City,克里斯塔市
+facts,Enkyo,圆居市
+facts,Haihan,海汉市
+facts,Tsunkeido,温村市
+facts,Yurko City,宇本市
+facts,Vedor,维多
+facts,West Grestin,西格莱斯丁
+facts,Orvech Vonor,奥维克翁多
+facts,East Grestin,东格莱斯丁
+facts,Paradizna,帕拉迪兹那
+facts,Passport,护照
+facts,Entry Ticket,通行劵
+facts,Entry Permit,入境许可
+facts,Work Pass,工作证
+facts,Id Card,护照号码
+facts,Id Supplement,身份补充证明
+facts,Access Permit,访问许可
+facts,Diplomatic Auth,外交许可证
+facts,Asylum Grant,避难许可
+facts,Vaccine Cert,检疫证明
+facts,Identity Record,身份记录
+facts,Fingerprints,指纹
+facts,Name,姓名
+facts,Id Number,护照号码
+facts,Expiration Date,有效期
+facts,Issuing City,居住市
+facts,Birth Date,生日
+facts,Alias,别名
+facts,Height,身高
+facts,Weight,体重
+facts,Description,描述
+facts,Thumbprint,指纹
+facts,Date,日期
+facts,Purpose,目的
+facts,Duration,滞留时间
+facts,Face,外貌
+facts,District,地区
+facts,Gender,性别
+facts,Work End Date,工作结束日期
+facts,Altan,奥坦
+facts,Vescillo,维斯希罗
+facts,Burnton,布尔顿
+facts,Octovalis,奥克托瓦勒斯
+facts,Gennistora,吉尼斯托拉
+facts,Lendiforma,里恩迪弗玛
+facts,Wozenfield,沃泽菲尔德
+facts,Fardesto,法迪斯托
+facts,DENTISTRY,牙医
+facts,HEALTH-CARE,医疗人员
+facts,GENERAL-LABOR,普通劳工
+facts,ENGINEERING,工程师
+facts,SPORTS,运动员
+facts,ARCHITECTURE,建筑师
+facts,FOOD-SERVICE,食品服务
+facts,AVIATION,驾驶员
+facts,ACCOUNTING,会计
+facts,FISHING,渔业
+facts,DRAFTING,制图师
+facts,RESEARCH,研究人员
+facts,FINE-ARTS,艺术家
+facts,AGRICULTURE,农业
+facts,MANUFACTURING,手工业者
+facts,CONSTRUCTION,建筑工
+facts,SURVEYING,测绘人员
+facts,STATISTICS,统计工作
+facts,POLIO,脊髓灰质炎
+facts,HPV,人乳头状瘤
+facts,COWPOX,牛痘
+facts,TETANUS,破伤风
+facts,YEL.FEV.,黄热病
+facts,CHOLERA,霍乱
+facts,RUBELLA,风疹
+facts,HEP-B,乙型肝炎
+facts,MEASLES,麻疹
+facts,TUBERC.,肺结核
+facts,2 DAYS,2天
+facts,14 DAYS,14天
+facts,1 MONTH,1个月
+facts,2 MONTHS,2个月
+facts,3 MONTHS,3个月
+facts,6 MONTHS,6个月
+facts,1 YEAR,1年
+facts,FOREVER,永久
+facts,visit,来访
+facts,transit,通过
+facts,work,工作
+facts,immigrate,移民者
+facts,Possible Smuggler Admitted,发现可疑走私者
+facts,Missing documents,缺失文件
+facts,Wanted criminal admitted,发现通缉犯
+facts,Incorrect purpose response,入境目的错误
+facts,Incorrect visit duration response,入境时间错误
+facts,Passport: Non-matching photo,护照:照片不符
+facts,Forged Entry Permit,伪造的入境许可证
+facts,Forged Work Pass,伪造的工作证
+facts,Id Card: Non-matching photo,身份证:照片不符
+facts,Forged Access Permit,伪造的访问许可证
+facts,No Diplomatic Access to Arstotzka,对阿什托兹卡无外交访问权
+facts,Forged Diplomatic Auth,伪造的外交访问许可
+facts,Forged Asylum Grant Seal,伪造的避难许可印章
+facts,Necessary vaccine expired,必要疫苗接种过期
+facts,Missing necessary vaccine,未接种必要疫苗
+facts,Name does not match record,姓名与记录不符
+facts,Alias does not match record,别名与记录不符
+facts,Fingerprints do not match record,指纹与记录不符
+facts,Cobrastan is not a real country,可布拉斯坦不是真实存在的国家
+facts,No entry from Antegria,安特格利亚人不得通过
+facts,No entry from Arstotzka,阿什托兹卡人不得通过
+facts,No entry from Republia,雷帕布里亚人不得通过
+facts,No entry from United Fed,世界联邦人不得通过
+facts,No entry from Obristan,欧布里斯坦人不得通过
+facts,No entry from Impor,印玻人不得通过
+facts,No entry from Kolechia,科洛奇亚人不得通过
+facts,Possible Terrorist Admitted,发现可疑恐怖分子
+facts,Entrant Holds Conflicting Passports,过境人员拥有内容相悖的护照
+facts,Entrant must have a passport,过境人员必须持有护照
+facts,Foreigners require an entry permit,外国人需持入境许可证
+facts,Foreigners require an entry ticket,外国人需持通行券
+facts,All documents must be current,所有文件必须具有时效性
+facts,Workers must have a work pass,有工作的人必须持工作证明
+facts,Citizens must have an id card,市民必须持身份证
+facts,Foreigners require an id supplement,外国人需持身份补充证明
+facts,Arstotzkan citizens only,只允许阿什托兹卡人通过
+facts,No entry from United Federation,世界联邦人不得通过
+facts,No weapons or contraband,不准携带武器或者走私品
+facts,All Kolechians must be searched,科洛奇亚人必须进行搜查
+facts,Diplomats require authorization,外交官需要得到特别许可
+facts,Entrant must have polio vaccine cert,过境人员需要脊髓灰质炎疫苗证明
+facts,Asylum seekers must have a grant,寻求避难人员需要得到准许
+facts,Foreigners require an access permit,外国人需持访问许可证
+facts,CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.,没收所有奥坦居民的阿什托兹卡护照.
+facts,CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.,没收所有阿什托兹卡护照.无一例外.
+facts,Passport not confiscated,没有没收护照
+paper:SecondPassport,West Grestin,西格莱斯丁
+paper:Rules,Basic Rules,基本规则
+paper:Rules,Regional Map,区域地图
+paper:Rules,Booth Info,检查亭情况
+paper:Rules,Documents,文件
+paper:Rules,Confiscation,没收处
+paper:Rules,Obristan,欧布里斯坦
+paper:Rules,Antegria,安特格利亚
+paper:Rules,Republia,雷帕布里亚
+paper:Rules,United,世界
+paper:Rules,Federation,联邦
+paper:Rules,Impor,印玻
+paper:Rules,Kolechia,科洛奇亚
+paper:Rules,Arstotzka,阿什托兹卡
+paper:Rules,ANTEGRIA,安特格利亚
+paper:Rules,ARSTOTZKA,阿什托兹卡
+paper:Rules,IMPOR,印玻
+paper:Rules,KOLECHIA,科洛奇亚
+paper:Rules,OBRISTAN,欧布里斯坦
+paper:Rules,REPUBLIA,雷帕布里亚
+paper:Rules,UNITED FED.,世界联邦
+paper:Rules,Id Card (Native),身份证(本国)
+paper:Rules,Entry Permit,入境许可
+paper:Rules,Id Supplement,身份补充证明
+paper:Rules,Access Permit,访问许可
+paper:Rules,Work Pass,工作证
+paper:Rules,Diplomatic Auth.,外交许可证.
+paper:Rules,Grant of Asylum,避难许可.
+paper:Rules,Vaccine Cert.,疫苗证明.
+intro,Congratulations.,恭喜你.
+intro,The October labor lottery is complete. Your name was pulled.,十月劳动抽签结束了.你的名字被抽中了.
+intro,"For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.",请立即向格莱斯丁边境检查站的入境管理部报道.
+intro,An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.,我们会为你和你的家人在东格莱斯丁安排一个住所.
+intro,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:in-debt,Arstotzka has zero tolerance for delinquency.,阿什托兹卡对怠工的容忍为零.
+end:in-debt,Your family will be sent back to their village.,你的家人会被遣返乡下.
+end:in-debt,You are under arrest until your debts are repaid.,"你将被逮捕,直到你还清债务."
+end:in-debt,A replacement inspector will be found easily.,接任的检查员很好找.
+end:in-debt,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:family-dead,Your entire family is gone.,你的家人全部失踪了
+end:family-dead,The Ministry Of Labor focuses on Arstotzka's future growth.,劳动部关注着阿什托兹卡未来的发展.
+end:family-dead,Workers are expected to support large healthy families.,工人们要为健康的大家庭出力.
+end:family-dead,Your position will be filled by someone more appropriate.,你的位置会被更合适的人取代.
+end:family-dead,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+end:turned-over-ezic-docs,You are under arrest for associating with suspicious groups.,你因发现与不明阻止勾结而被捕.
+end:turned-over-ezic-docs,The Ministry of Information will perform a full audit of your recent activities.,情报部门将会对你近期行为进行充分的审讯.
+end:turned-over-ezic-docs,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+end:caught-with-ezic-money,The Ministry of Income has discovered an anomaly in your earnings.,税务部门发现你的收入有不正常的地方。
+end:caught-with-ezic-money,You are under arrest pending a full audit of your recent activities.,因你最近的行为待全面审查，你将被捕.
+end:caught-with-ezic-money,Your family will likewise be held for questioning.,你的家庭成员同样会被进行审讯.
+end:caught-with-ezic-money,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:caught-with-ezic-money,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+end:killed-innocent,You are under arrest for the murder of an innocent.,你因谋杀无辜市民而被逮捕.
+end:killed-innocent,The penalty is death.,你将被处以死刑.
+end:killed-innocent,Your family will be questioned about their involvement.,你的家庭成员将会被进行审讯，调查其是否参与同谋.
+end:killed-innocent,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:killed-innocent,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+end:tranqed-innocent,You are under arrest for attacking an innocent.,你因伤害无辜市民而被逮捕.
+end:tranqed-innocent,The penalty is forced labor.,你将会被罚以劳役.
+end:tranqed-innocent,Your family will be questioned about their involvement.,你的家庭成员将会被进行审讯，调查其是否参与同谋.
+end:tranqed-innocent,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:tranqed-innocent,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+end:killed-guard,You are under arrest for the murder of an Arstotzkan official.,你因谋杀阿什托兹卡官员而被逮捕.
+end:killed-guard,The penalty is death.,你将被处以死刑.
+end:killed-guard,Your family will be questioned about their involvement.,你的家庭成员将会被进行审讯，调查其是否参与同谋.
+end:killed-guard,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:killed-guard,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+end:tranqed-guard,You are under arrest for attacking an Arstotzkan official.,你因攻击阿什托兹卡官员而被逮捕.
+end:tranqed-guard,The penalty is death.,你将被处以死刑.
+end:tranqed-guard,Your family will be questioned about their involvement.,你的家庭成员将会被进行审讯，调查其是否参与同谋.
+end:tranqed-guard,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:tranqed-guard,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+end:killed-target,You are under arrest for the murder of an innocent.,你因谋杀无辜市民而被逮捕.
+end:killed-target,The penalty is death.,你将被处以死刑.
+end:killed-target,Your family will be questioned about their involvement.,你的家庭成员将会被进行审讯，调查其是否参与同谋.
+end:killed-target,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:killed-target,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:killed-target,[A note appears from under the cell door],[牢房门下面出现了一个字条]
+end:killed-target,INSPECTOR - FAMILY IS SAFE - TARGET ELIMINATED BUT OTHER PROBLEMS ARISE,"检查员-家里人很安全-目标已经被清理,但是有新问题"
+end:killed-target,REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED,新任检查员拒绝合作-伊兹克行动受阻
+end:killed-target,WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN,我们没法提供更多帮助-伊兹克暂时停止行动
+end:killed-target,FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK,你的家人会被带到欧布里斯坦-祝你好运
+end:tranqed-target,You are under arrest for attacking an innocent.,你因伤害无辜市民而被逮捕.
+end:tranqed-target,The penalty is forced labor.,你将会被罚以劳役.
+end:tranqed-target,Your family will be questioned about their involvement.,你的家庭成员将会被进行审讯，调查其是否参与同谋.
+end:tranqed-target,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:tranqed-target,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:tranqed-target,[A note appears from under the cell door],[牢房门下面出现了一个字条]
+end:tranqed-target,INSPECTOR - FAMILY IS SAFE - TARGET HAS RECOVERED IN HOSPITAL,检查员-家里人很安全-目标在医院已经康复
+end:tranqed-target,REPLACEMENT INSPECTOR NOT COOPERATIVE - EZIC ACTIVITIES HINDERED,新任检查员拒绝合作-伊兹克行动受阻
+end:tranqed-target,WE CANNOT PROVIDE FURTHER SUPPORT - EZIC TO HIBERNATE AGAIN,我们没法提供更多帮助-伊兹克暂时停止行动
+end:tranqed-target,FAMILY WILL BE TAKEN TO OBRISTAN - GOOD LUCK,你的家人会被带到欧布里斯坦-祝你好运
+end:stuff-on-walls,You are under arrest for violating direct orders.,你因违反命令而被逮捕.
+end:stuff-on-walls,The penalty is forced labor.,你将会被罚以劳役.
+end:stuff-on-walls,Your family will be sent back to their village.,你的家人会被遣返回村庄.
+end:stuff-on-walls,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:stuff-on-walls,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:arrested-boss-buddy,Your supervisor has reported you for theft of Arstotzkan property.,你的上级指控你偷窃阿什托兹卡国家财产.
+end:arrested-boss-buddy,The penalty is forced labor.,你将会被罚以劳役.
+end:arrested-boss-buddy,Your family will be sent back to their village.,你的家人会被遣返回村庄.
+end:arrested-boss-buddy,The border will remain open under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:arrested-boss-buddy,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:wall-destroyed,The Grestin Border wall has been destroyed.,格莱斯丁边境墙被摧毁了.
+end:wall-destroyed,You are under arrest for failure to defend the checkpoint.,你因没能防守边境站而被捕.
+end:wall-destroyed,Your family will be sent back to their village.,你的家人会被遣返回村庄.
+end:wall-destroyed,The border will reopen under a replacement inspector.,会有一名检查员接任，边境将持续开放.
+end:wall-destroyed,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:help-ezic-kill-attackers-wall-safe,Hello inspector.,检查员你好.
+end:help-ezic-kill-attackers-wall-safe,We have audited your recent activities.,我们对你最近的行为进行了调查.
+end:help-ezic-kill-attackers-wall-safe,Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.,我们发现你最近与一个自称伊兹克星光社的组织有密切来往.
+end:help-ezic-kill-attackers-wall-safe,Several members of this group have been arrested in Arstotzka.,该组织的若干成员已经在阿什托兹卡境内被逮捕.
+end:help-ezic-kill-attackers-wall-safe,At least one EZIC member has confessed to receiving your help.,至少有一名伊兹克成员承认得到你的帮助.
+end:help-ezic-kill-attackers-wall-safe,This represents treason of the highest order.,这是最严重的叛国罪.
+end:help-ezic-kill-attackers-wall-safe,Goodbye inspector.,"永别了,检查员."
+end:help-ezic-kill-attackers-wall-safe,The execution is scheduled for tonight.,处刑将与今晚进行.
+end:help-ezic-kill-attackers-wall-safe,Your family's safety is unknown.,你家人的安全无可奉告.
+end:help-ezic-kill-attackers-wall-safe,EZIC has been crushed. The balance of justice is restored.,伊兹克已经被消灭.正义得到了伸张.
+end:help-ezic-kill-attackers-wall-safe,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:help-ezic-kill-attackers-wall-safe,[A note appears from under the cell door],[牢房门下面出现了一个字条]
+end:help-ezic-kill-attackers-wall-safe,INSPECTOR - YOU HAVE BETRAYED US AT THE LAST MOMENT,检查员-你在最后一刻背叛了我们
+end:help-ezic-kill-attackers-wall-safe,THIS CHAPTER OF EZIC IS OVER - WE CAN OFFER NO HELP TO YOUR FAMILY,伊兹克的行动告一段落-我们只能为你的家人提供帮助
+end:help-ezic-kill-attackers-wall-destroyed,The border has been pierced.,边境线被摧毁了.
+end:help-ezic-kill-attackers-wall-destroyed,It is a glorious day for THE ORDER OF THE EZIC STAR but you have betrayed us at the last moment.,"对于伊兹克星光社,这是荣耀的一天.但是你在最后一刻背叛了我们."
+end:help-ezic-kill-attackers-wall-destroyed,EZIC grows strong while the corrupt and greedy weaken.,"腐败与贪婪日渐萎靡之时,伊兹克壮大了起来."
+end:help-ezic-kill-attackers-wall-destroyed,Your betrayal means you have chosen the wrong side.,你的背叛说明了你站错了边.
+end:help-ezic-kill-attackers-wall-destroyed,There is no place for you or your family in this revolution.,这场革命中不再有你和你家人的立足之地.
+end:help-ezic-kill-attackers-wall-destroyed,Goodbye inspector.,永别了 检查员.
+end:help-ezic-kill-attackers-wall-destroyed,Glory to the New Arstotzka.,新荣耀属于阿什托兹卡.
+end:help-few-ezic,Hello inspector.,检查员你好.
+end:help-few-ezic,We have audited your recent activities.,我们对你最近的行为进行了调查.
+end:help-few-ezic,Your involvement with a group calling themselves THE ORDER OF THE EZIC STAR has been uncovered.,我们发现你最近与一个自称伊兹克星光社的组织有密切来往.
+end:help-few-ezic,Several members of this group have been arrested in Arstotzka.,该组织的若干成员已经在阿什托兹卡境内被逮捕.
+end:help-few-ezic,At least one EZIC member has confessed to receiving your help.,至少有一名伊兹克成员承认得到你的帮助.
+end:help-few-ezic,This represents treason of the highest order.,这是最严重的叛国罪.
+end:help-few-ezic,Goodbye inspector.,"永别了,检查员."
+end:help-few-ezic,The execution is scheduled for tonight.,处刑将于今晚进行.
+end:help-few-ezic,Your family's safety is unknown.,你家人的安全无可奉告.
+end:help-few-ezic,EZIC has been crushed. The balance of justice is restored.,伊兹克已经被消灭.正义得到了伸张.
+end:help-few-ezic,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:escape,You board the late train to the Northern Territories. It is nearly empty.,你乘上了通往北部领土的最后一班火车.车上几乎空无一人.
+end:escape,You pay for the hastily forged passport and re-entry ticket. They look terrible.,"你花钱搞到了匆忙伪造的护照和回境票据,他们看上去制作拙劣."
+end:escape,You pay for the hastily forged passports and re-entry tickets. They look terrible.,"你花钱搞到了匆忙伪造的护照和回境票据,他们看上去制作拙劣."
+end:escape,You reach the border crossing at dawn. The line is immense.,凌晨时分你到了边境上.队伍排着长长的.
+end:escape,Six hours later.,六个小时之后.
+end:escape,Your documents.,出示你的文件.
+end:escape,Here.,给.
+end:escape,You are entering alone?,你一个人么?
+end:escape,Yes.,是的.
+end:escape,I come to visit relatives.,我来探亲.
+end:escape,"No, my family as well.","不是,还有我的家人."
+end:escape,Hand over all documents now.,出示你所有的文件.
+end:escape,We come to visit relatives.,我们是来探亲的.
+end:escape,I do not care why you come. Wait here.,我不关心你为什么来.等着.
+end:escape,*KACHUNK*,*咔嚓*
+end:escape,Welcome to Obristan. Next!,欢迎来到欧布里斯坦.下一个!
+end:help-ezic-hold-fire,Inspector! It is a glorious day!,检查员!这是光荣的一天!
+end:help-ezic-hold-fire,The border has been pierced.,边境线被摧毁了.
+end:help-ezic-hold-fire,EZIC grows strong while the corrupt and greedy weaken.,"腐败与贪婪日渐萎靡之时,伊兹克壮大了起来."
+end:help-ezic-hold-fire,We are moving you and your family to a better home.,我们会给你和你的家人安置一个更好的住所.
+end:help-ezic-hold-fire,Your services as an inspector are no longer required. We need agents.,我们不再需要你进行检查员的工作.我们需要特工.
+end:help-ezic-hold-fire,Follow us and together we will complete the revolution!,"加入我们,一起完成革命吧!"
+end:help-ezic-hold-fire,Glory to the New Arstotzka.,荣耀属于新阿什托兹卡.
+end:ignore-ezic,Hello inspector.,检查员 你好.
+end:ignore-ezic,We have audited your activities for the past 20 years.,我们对你过去20年的行为进行了调查.
+end:ignore-ezic,There are some anomalies.,我们发现了一些异常情况.
+end:ignore-ezic,But you have served Arstotzka well.,但是你为阿什托兹卡尽心尽力.
+end:ignore-ezic,We will overlook these small transgressions.,我们会对这些小错误既往不咎.
+end:ignore-ezic,You have been cleared of any suspicion.,你将不会受到任何怀疑.
+end:ignore-ezic,Glory to Arstotzka.,荣耀属于阿什托兹卡.
+end:ignore-ezic,A new agreement has been reached with Kolechia.,我们与科洛奇亚达成新的协定.
+end:ignore-ezic,Grestin Border Checkpoint will reopen soon.,格莱斯丁边境检查站会马上重新开放.
+end:ignore-ezic,Return to your post on January 1st.,1月1日重返你的岗位.
+end:ignore-ezic,ENDLESS UNLOCK CODE: 62131,无尽模式解锁码: 62131
+endless:timed,Timed,时限模式
+endless:timed,Process as many travelers as possible in 10 minutes.,10分钟之内尽可能检查更多的过境人员.
+endless:timed,"ENDLESS - TIMED
+
+Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","无尽模式-时限模式
+
+10分钟之内尽可能检查更多的过境人员. 一名过境人员得一分,一次警告损失30秒钟时间."
+endless:perfection,Perfection,无尽模式-生存模式
+endless:perfection,Game over at first penalty. Earn dwindling points.,受到警告即游戏结束.得分随时间减少.
+endless:perfection,"ENDLESS - PERFECTION
+
+Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","无尽模式-生存模式
+
+检查过境人员获取分数.不允许得到警告.用一分钟检查完过境者获得10分,每过一分钟得分降低一.抓紧时间."
+endless:endurance,Endurance,耐力
+endless:endurance,Play until balance goes negative. Avoid penalties.,保持余额为正数来避免惩罚
+endless:endurance,"ENDLESS - ENDURANCE
+
+Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","无尽 - 耐力
+
+给旅客签证直到你的余额掉到零以下。警告会处罚掉你越来越多的分数。最高的成就点将会被积分榜记录下来。"
+endless:course1,Course 1,程序1
+endless:course2,Course 2,程序2
+endless:course3,Course 3,程序3
+endless:course4,Course 4,程序4
+bullend:1A,Check rulebook for rules in effect.,从规则手册中查找有效规则
+bullend:2A,Check rulebook for rules in effect.,从规则手册中查找有效规则
+bullend:3A,Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.,从规则手册中查找有效规则。你拒绝他人入境时需要拒绝入境原因的印章
+bullend:4A,Check rulebook for rules in effect. REASON FOR DENIAL stamp is required when denying entry.,从规则手册中查找有效规则。你拒绝他人入境时需要拒绝入境原因的印章
+night:MANAGE_EXPENSES,Manage your expenses using the checkboxes below.,通过使用以下复选框来管理你的开销
+night:AFTER_6PM,Applicants entering after 6PM are unpaid.,下午六点过后的申请人无需费用
+night:PROGRESS_SAVED,Progress is saved at the start of each day.,每天开始时的过程可以省掉
+night:ATTACK_DIDNOTHING,The day was cut short by a terrorist attack.,今日由于一场恐怖袭击而提前结束
+night:ATTACK_FIREDGUN,The day was cut short by a terrorist attack.,今日由于一场恐怖袭击而提前结束
+night:ATTACK_FIREDGUN,TRIGGER BONUS,守卫奖励
+night:ATTACK_SOLVED,The day was cut short by a terrorist attack.,今日由于一场恐怖袭击而提前结束
+night:ATTACK_SOLVED,SHARPSHOOTER BONUS,神枪手奖励
+night:POISONING,The day was cut short by a security incident.,今日由于一件安保事故而提前结束
+night:FAMILY_PICTURE,Your wife found an old family picture.,你妻子找到一张旧全家福
+night:BUY_UPGRADE0,Booth Upgrade Available: SPACE key to toggle INSPECT mode.,可获取边检站升级：按空格键启动检查模式
+night:BUY_UPGRADE0,UPGRADE BOOTH,升级边检站
+night:BUY_UPGRADE1,Booth Upgrade Available: TAB key to toggle stamp bar.,可获得边检站升级：按TAB键弹出印章条
+night:BUY_UPGRADE1,UPGRADE BOOTH,升级边检站
+night:BUY_UPGRADE2,Booth Upgrade Available: Rulebook shortcuts.,可获得边检站升级：规则手册书签
+night:BUY_UPGRADE2,UPGRADE BOOTH,升级边检站
+night:BUY_UPGRADE3,Booth Upgrade Available: Double-click for quick INSPECT.,可获得边检站升级：双击鼠标进行快速检查
+night:BUY_UPGRADE3,UPGRADE BOOTH,升级边检站
+night:APARTMENT_RENT,The rent has gone up.,房租上涨了
+night:APARTMENT_UPGRADE,"A cheaper class 8 apartment is available (Rent = 25, Heat = 10)",可以入住更便宜的8级公寓了（房租=25，暖气=10）
+night:APARTMENT_UPGRADE,MOVE TO CLASS-8,搬到8级公寓
+night:APARTMENT_UPGRADE,"A class-7 apartment is available. (Rent = 30, Heat = 10)",可以入住7级公寓了（房租=30，暖气=10）
+night:APARTMENT_UPGRADE,MOVE TO CLASS-7,搬到7级公寓
+night:APARTMENT_UPGRADE,"A class-6 apartment is available. (Rent = 40, Heat = 5)",可以入住6级公寓了（房租=40，暖气=5）
+night:APARTMENT_UPGRADE,MOVE TO CLASS-6,搬到6级公寓
+night:APARTMENT_UPGRADE,"A class-5 apartment is available. (Rent = 50, Heat = 0)",可以入住5级公寓了（房租=50，暖气=0）
+night:APARTMENT_UPGRADE,Class-5 is the best a worker can have.,普通公民最多只能得到5级公寓
+night:APARTMENT_UPGRADE,MOVE TO CLASS-5,搬到5级公寓
+night:SON_BIRTHDAY,Your son's birthday is in 2 days.,你儿子还有两天过生日
+night:SON_BIRTHDAY2,Your son's birthday is tomorrow. He wants an expensive crayon set.,你儿子明天就过生日了。他想要一套很昂贵的蜡笔。
+night:SON_BIRTHDAY2,SON'S GIFT,儿子的礼物
+night:SON_BIRTHDAY3,Your son has drawn a picture for you to take to work.,你儿子给你画了一幅画让你带去上班。
+night:NIECE,Your sister has been arrested. Her young daughter needs a home.,你姐妹被逮捕了。她的小女儿需要一个家。
+night:NIECE,ADOPT NIECE,收养侄女
+night:NIECE2_YES,Your niece has brought her mother's savings.,你侄女带来了她妈妈的存款
+night:NIECE2_YES,SISTER'S SAVINGS,姐姐的存款
+night:NIECE2_NO,Your niece has disappeared.,你侄女消失了
+night:FRIENDLY_GUARD_PAYOUT,A young woman dropped off something.,一个年轻女人送了点东西来
+night:FRIENDLY_GUARD_PAYOUT,ELISA'S GIFT,Elisa的礼物
+night:DETAIN_PAYOUT,DETAIN BONUS,扣押奖金
+night:EZIC_PAYOUT,A strange man brought money. Uncheck to burn it.,一个陌生男人带来了一笔钱。反选则视为烧毁。
+night:EZIC_PAYOUT,EZIC GIFT,伊兹克的礼物
+night:EZIC_PAYOUT_RETRY,A strange man brought money again. Uncheck to burn it.,一个陌生男人又带来了一笔钱。反选则视为烧毁。
+night:EZIC_PAYOUT_RETRY,EZIC GIFT,伊兹克的礼物
+night:EZIC_TAKESAVINGS,The neighbors have reported your new wealth.,领居们上报了你的不义之财
+night:EZIC_TAKESAVINGS,The Ministry of Income has confiscated your savings pending investigation.,财政部没收了你的存款，等待调查
+night:EZIC_CLEARED,The Ministry of Income has cleared all wrongdoing.,财政部清理了所有不当行为
+night:EZIC_CLEARED,Your savings will not be returned.,你的存款不会被归还
+night:EZIC_REWARD,A small package arrived.,收到一个小包裹
+night:EZIC_REWARD,EZIC GIFT,伊兹克的礼物
+night:TAKE_FAMILY_PASSPORTS,The Ministry of Information has confiscated your family's passports.,情报部没收了你和家人的护照
+night:ESCAPE,You can now escape to Obristan by yourself.,你现在可以一个人潜逃到欧布里斯坦
+night:ESCAPE,You can now escape to Obristan with one family member.,你现在可以带着你一个家庭成员潜逃到欧布里斯坦
+night:ESCAPE,You can now escape to Obristan with two family members.,你现在可以带着你两个家庭成员潜逃到欧布里斯坦
+night:ESCAPE,You can now escape to Obristan with three family members.,你现在可以带着你三个家庭成员潜逃到欧布里斯坦
+night:ESCAPE,You can now escape to Obristan with four family members.,你现在可以带着你四个家庭成员潜逃到欧布里斯坦
+night:ESCAPE,You can now escape to Obristan with everyone.,你现在可以带着你所有家庭成员潜逃到欧布里斯坦
+night:ESCAPE_1,ESCAPE (SELF),潜逃（独自）
+night:ESCAPE_2,ESCAPE (SELF+1),潜逃（带一个人）
+night:ESCAPE_3,ESCAPE (SELF+2),潜逃（带两个人）
+night:ESCAPE_4,ESCAPE (SELF+3),潜逃（带三个人）
+night:ESCAPE_5,ESCAPE (SELF+4),潜逃（带四个人）
+night:ESCAPE_6,ESCAPE (SELF+5),潜逃（带五个人）
+night:HANGINGS_PENALTY,A fine has been assessed for unofficial wall hangings.,因悬挂私人物品而受到了罚款
+night:HANGINGS_PENALTY,HANGINGS FINE,壁挂物罚款
+night:SELL_WATCH,You sold the digital watch on your way home.,你在回家路上变卖了数码表
+night:SELL_WATCH,WATCH PROFIT,变卖金额
+night:EASY_MODE,EASY MODE CRUTCH,简易模式补助
+night:SNEAK_HOME,You have rushed home amid the panic at work to check on your family.,你上班时在恐惧中冲回家查看你家人的安全
+night:SNEAK_HOME,Your information audit is scheduled for tomorrow morning.,你的信息审计被安排在明天早上
+note:EZIC_CORMAN,"ARSTOTZKA IS GREAT COUNTRY POISONED BY CORRUPT LEADERS
+
+WAR HAS MADE GOV'T GREEDY AND PARANOID - YOU HAVE SEEN FOR YOURSELF
+
+HELP US FREE ARSTOTZKA FROM ITS SHACKLES
+
+
+* THE ORDER OF THE EZIC STAR","阿什托兹卡是一个被腐败领导者毒害的伟大国家
+
+战争让政府变得贪婪偏执—你已经见证了自己帮助我们把阿什托兹卡从枷锁中解放出来的历程
+
+*伊兹克星光社"
+note:EZIC_HANDLER_POST0,"FIRST AGENT WAS DENIED
+
+SECOND WILL COME IN THREE DAYS
+
+DO NOT MAKE SAME MISTAKE","第一个特工被拒签了
+
+三天之后第二个会过来
+
+不要再犯同样的错误"
+note:EZIC_HANDLER_PRE1,"LARGE GIFT WAS MISTAKE
+
+MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
+
+NEXT AGENT COMES TODAY
+
+WILL SOLVE PROBLEM
+
+DENY AT OWN RISK","那一大份礼物是个错误
+
+情报部现在来调查你和伊兹克的联系
+
+今天下一个特工会过来
+
+解决问题
+
+拒签后果自负
+"
+note:EZIC_HANDLER_POST1,"BOTH AGENTS WERE DENIED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","两个特工都被拒签了
+
+我们没有你的帮助成功不了
+
+阿什托兹卡诞生时 组织扮演着今天一样的角色
+
+专制统治结束后我们又会销声匿迹"
+note:EZIC_HANDLER_POST1,"ONLY ONE AGENT APPROVED
+
+WE CANNOT SUCCEED WITHOUT YOUR HELP
+
+WHEN ARSTOTZKA WAS BORN ,THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","只有一个特工签证成功了
+
+我们没有你的帮助成功不了
+
+阿什托兹卡诞生时 组织扮演着今天一样的角色
+
+专制统治结束后我们又会销声匿迹"
+note:EZIC_HANDLER_POST1,"YOU HAVE DONE WELL
+
+BOTH AGENTS NOW OPERATING
+
+WHEN ARSTOTZKA WAS BORN, THE ORDER FULFILLED SAME ROLE AS TODAY
+
+WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","你做的很好
+
+两个特工都入境了
+
+阿什托兹卡诞生时 组织扮演着今天一样的角色
+
+专制统治结束后我们又会销声匿迹"
+note:EZIC_HANDLER_EXT,"BORDER ATTACKS ARE NOT EZIC OPERATIONS
+
+UNKNOWN EXTREMIST GROUPS RESPONSIBLE
+
+THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","边境袭击并不是伊兹克的计划
+
+而是由不明极端组织造成的
+
+我们组织只是要消灭专制统治—而不是伤害无辜—伊兹克的特工今天会来调查极端分子"
+note:EZIC_POISON_MESSENGER,"ASSASSIN COMING FROM ANTEGRIA
+
+WILL TARGET IMPORTANT EZIC AGENT IN ARSTOTZKA
+
+MUST BE STOPPED
+
+HIS NAME IS KHALED ISTOM
+
+DO NOT FORGET","有刺客从安特格利亚来了
+
+他的目标是在阿什托兹卡境内的伊兹克特工
+
+必须阻止
+
+他的名字是卡莱德 伊斯托姆
+
+
+别忘了"
+note:EZIC_HANDLER_SNIPE,"KHALED IS RETURNING - HE NOW CARRIES INFORMATION ON ALL EZIC AGENTS
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - MAN IN RED - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","卡莱德回来了-他现在携带着所有伊兹克特工的情报
+
+不能冒险-你今天必须杀了他-他穿红色衣服-我们会提供机会
+
+如果成功了 你会被抓住 - 必须为了阿什托兹卡牺牲自己 - 你家人会很安全的"
+note:EZIC_HANDLER_SNIPE,"KHALED KILLED TWO EZIC AGENTS - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","卡莱德杀了两个伊兹克特工-另一个刺客来了-危险人物-带着所有伊兹克特工的情报
+
+不能冒险-你今天必须杀了他-他穿红色衣服-我们会提供机会
+
+如果成功了 你会被抓住 - 必须为了阿什托兹卡牺牲自己 - 你家人会很安全的
+"
+note:EZIC_HANDLER_SNIPE,"KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
+
+CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
+
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","卡莱德被解决了-另一个刺客来了-危险人物-带着所有伊兹克特工的情报
+
+不能冒险-你今天必须杀了他-他穿红色衣服-我们会提供机会
+
+如果成功了 你会被抓住 - 必须为了阿什托兹卡牺牲自己 - 你家人会很安全的
+"
+note:EZIC_HANDLER_POSTSNIPE,"WE HAVE MISSED OUR CHANCE
+
+MAN IN RED SURVIVES
+
+HE NOW TARGETS EZIC AGENTS IN KOLECHIA
+
+OUR PLANS MUST ADAPT","我们错过了机会
+
+红衣人活下来了
+
+他现在锁定了科洛奇亚的伊兹克特工们
+
+我们必须变更计划"
+note:EZIC_HANDLER_DIPLO,"GOVERNMENT PLANS TO YIELD TO KOLECHIAN DEMANDS AND FURTHER CEDE GRESTIN
+
+NEGOTIATIONS MUST BE IMPEDED
+
+ALLOW KOLECHIAN DIPLOMAT ENTRY BUT CONFISCATE PASSPORT FIRST
+
+EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","政府决定向科洛奇亚的要求让步并且进一步放弃格莱斯丁
+
+必须阻止这次谈判
+
+允许科洛奇亚外交官进入但是要先没收他的护照
+
+伊兹克特工会随后会来完成任务"
+note:EZIC_FINAL,"GRESTIN CHECKPOINT IS AT AN END
+
+TODAY WE BREAK THIS WALL DOWN
+
+YOU WILL BE SAFE
+
+HOLD YOUR FIRE
+
+* THE ORDER OF THE EZIC STAR","格莱斯丁边检站将迎来终结
+
+今天我们要打破这堵墙
+
+我们会保证你的安全
+
+别向我们开火
+
+*伊兹克星光社"
+traveler:DEFAULT,Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?,我的护照在哪里？ ; 护照呢？ ; 我的证件呢？ ; 这纸条是什么？我护照呢？
+traveler:DEFAULT,@It is being confiscated.,@被取消了
+traveler:DEFAULT,How will I travel? ; What should I do? ; Why? ; You cannot do this.,那我怎么旅行？ ; 我该怎么办？ ; 为什么？ ; 你不能这么做。
+traveler:DEFAULT,@Contact number on slip.,@纸条上有联系电话
+traveler:EZIC_INTRO,The Order awaits.,组织在等待着
+traveler:EZIC_CORMAN,Very good.,很好
+traveler:EZIC_CORMAN,Read quickly.,快点读
+traveler:EZIC_CORMAN,Do not lose this.,别丢了这个
+traveler:EZIC_CORMAN,You have something of mine.,你拿到了我的一些东西
+traveler:EZIC_CORMAN,My name is Corman Drex.,我的名字是Corman Drex
+traveler:EZIC_CORMAN,Read the note then return it to me.,看一下纸条然后还给我
+traveler:EZIC_HANDLER_PRE0,Our agents are ready.,我们的特工准备好了
+traveler:EZIC_HANDLER_PRE0,Starting tomorrow.,明天开始
+traveler:EZIC_HANDLER_PRE0,Let them pass.,让他们过去
+traveler:EZIC_AGENT0,The Order rises.,组织崛起了
+traveler:EZIC_AGENT0,The Order knows.,组织了解
+traveler:EZIC_AGENT1,For Arstotzka and the Order.,为了阿什托兹卡和组织
+traveler:EZIC_HANDLER_POST1,Give me the coded documents.,把加密文件给我
+traveler:EZIC_HANDLER_POST1,Both.,都要
+traveler:EZIC_HANDLER_EXT,Today.,今天
+traveler:EZIC_AGENT_EXT,For Arstotzka and the Order.,为了阿什托兹卡和组织
+traveler:EZIC_AGENT_EXT,"The others do not agree, but I believe the man in red is not a threat.",其他人不同意，但是我觉得危险人物不是什么威胁。
+traveler:EZIC_AGENT_EXT,@What?,@什么？
+traveler:EZIC_AGENT_EXT,Nevermind.,没事。
+traveler:EZIC_HANDLER_SNIPE,Shoot to kill.,射杀他。
+traveler:EZIC_DIPLO,I require my passport.,我要我的护照。
+traveler:EZIC_DIPLO,@It has been confiscated.,@你的护照被没收了。
+traveler:EZIC_DIPLO,I am Kolechian diplomat here on government request.,我是受政府邀请来的科洛奇亚外交官。
+traveler:EZIC_DIPLO,Return passport at once.,马上把护照还给我。
+traveler:EZIC_DIPLO,@Call number on slip to recover.,@打纸条上的电话找回来吧。
+traveler:EZIC_DIPLO,Barbarian.,野蛮人。
+traveler:EZIC_DIPLO,You cannot do this.,你不能这么做。
+traveler:EZIC_DIPLO_FOLLOW,I saw him enter.,我看到他进来了。
+traveler:EZIC_DIPLO_FOLLOW,Give his passport to me.,把护照给我。
+traveler:EZIC_DIPLO_FOLLOW,Ah good.,啊。很好。
+traveler:EZIC_DIPLO_FOLLOW,I look much the same as him.,我看起来和他很像。
+traveler:EZIC_DIPLO_FOLLOW,Just need to shave my mustache.,只需要刮了我的胡子。
+traveler:EZIC_DIPLO_FOLLOW,But we all must make sacrifices.,但是我们都要做出牺牲。
+traveler:EZIC_DIPLO_FOLLOW,Appove the visa.,同意签证。
+traveler:EZIC_DIPLO_FOLLOW,For Arstotzka and the Order.,为了阿什托兹卡和组织。
+traveler:EZIC_DIPLO_FOLLOW,This is not what was agreed on.,这不是我们说好的那样。
+traveler:EZIC_DIPLO_FOLLOW,I am sent to collect diplomat's passport.,我被派遣去收集外交官的护照。
+traveler:EZIC_DIPLO_FOLLOW,@I do not have it.,@我不必那么做。
+traveler:SECRET_POLICE_INTRO,"Good morning, inspector.",早上好啊检查员。
+traveler:SECRET_POLICE_INTRO,You are healthy today yes?,你今天身体挺好吧。
+traveler:SECRET_POLICE_INTRO,I have just few questions for you.,我有几个问题要问你。
+traveler:SECRET_POLICE_INTRO,There was problem at Metro last night.,昨晚地铁出了问题。
+traveler:SECRET_POLICE_INTRO,Maybe you read about it in paper.,也许你在报纸上看过了。
+traveler:SECRET_POLICE_INTRO,Is very big news.,是个很大的新闻。
+traveler:SECRET_POLICE_INTRO,We think it is not accident.,我们认为它可能不是事故。
+traveler:SECRET_POLICE_INTRO,We think it is caused by suspicious group.,我们认为它是由可疑团体造成的。
+traveler:SECRET_POLICE_INTRO,We think some members pass through this checkpoint.,我们认为一些成员通过了这个检查点。
+traveler:SECRET_POLICE_INTRO,So we come talk to you.,所以我们来找你谈谈。
+traveler:SECRET_POLICE_INTRO,Have you seen anything like this?,你看过任何类似于这个的东西吗。
+traveler:SECRET_POLICE_INTRO,Is some kind of symbol for group.,是某种团体的标志。
+traveler:SECRET_POLICE_INTRO,"If you have any information, you give to us yes?",如果你有任何信息 你会给我们的对吧？
+traveler:SECRET_POLICE_INTRO,Yes?,对吧。
+traveler:SECRET_POLICE_INTRO,@Yes.,@是的。
+traveler:SECRET_POLICE_INTRO,Very good.,很好。
+traveler:SECRET_POLICE_INTRO,Please return my badge and paper.,请把我的徽章和报纸还给我。
+traveler:SECRET_POLICE_INTRO,We think suspicious group attempts to stir trouble.,我们认为可疑团体想搅出点麻烦来。
+traveler:SECRET_POLICE_INTRO,We think some members enter this checkpoint.,我们认为一些成员进入了这个检查点。
+traveler:SECRET_POLICE_INTRO,What is this?,这是什么？
+traveler:SECRET_POLICE_INTRO,Interesting.,很有趣。
+traveler:SECRET_POLICE_INTRO,"Yes, very interesting.",是的，非常有趣。
+traveler:SECRET_POLICE_INTRO,I think it is best if you come with me.,我认为你最好跟我走一趟
+traveler:SECRET_POLICE_INTRO,This group is very dangerous.,这个团体非常危险。
+traveler:SECRET_POLICE_INTRO,"If you see any curious thing, report immediately.",如果你看到任何可疑的东西 马上上报。
+traveler:SECRET_POLICE_CAUGHT,Hello inspector.,你好检查员。
+traveler:SECRET_POLICE_CAUGHT,There is small discrepancy with your finances.,你的经济收入有点不对劲啊。
+traveler:SECRET_POLICE_CAUGHT,The Ministry of Income was thoughtful enough to notify us.,财政部很贴心地告诉了我们。
+traveler:SECRET_POLICE_CAUGHT,It is best if you come with me.,看来你要跟我走一趟了。
+traveler:SECRET_POLICE_FINAL,Inspector.,检查员。
+traveler:SECRET_POLICE_FINAL,It has been some time.,好久不见。
+traveler:SECRET_POLICE_FINAL,Read your bulletin carefully today.,今天要注意看一下你的公告。
+traveler:SECRET_POLICE_FINAL,We will be speaking with many workers.,我们今天要调查很多人。
+traveler:SECRET_POLICE_FINAL,Your audit comes soon.,而你的审查也会很快到来。
+traveler:SECRET_POLICE_FINAL,I will personally conduct it.,我会以个人名义参与。
+traveler:SECRET_POLICE_FINAL,There is nothing to fear.,这没什么好怕的，对吧。
+traveler:SECRET_POLICE_FINAL,Work hard.,好好工作。
+traveler:JORJI_BASE,All right! You the best!,好了！你是最棒的！
+traveler:JORJI_BASE,Arstotzka the best!,阿什托兹卡是最棒的！
+traveler:JORJI_BASE,"Here, take this!",这里，拿着。
+traveler:JORJI0,Ok! Here we go!,好了，我们开始吧。
+traveler:JORJI0,Glory to Arstotzka!,荣耀属于阿什托兹卡。
+traveler:JORJI0,The greatest country!,最伟大的国家！
+traveler:JORJI0,@Where is your passport?,@你的护照呢？
+traveler:JORJI0,Passport!,护照！
+traveler:JORJI0,"Arstotzka so great, passport not required.",阿什托兹卡这么好，肯定不需要护照。
+traveler:JORJI0,Right?,对吗？
+traveler:JORJI0,@A passport is required.,@需要护照。
+traveler:JORJI0,"Ok, ok. I hear you.",好的好的我知道了。
+traveler:JORJI0,I come back again.,我会回来的。
+traveler:JORJI1,Ok! Hello again!,好的！你好！
+traveler:JORJI1,Now I have passport!,现在我有护照了！
+traveler:JORJI1,Arstotzka still best country for sure!,阿什托兹卡当然还是最棒的国家！
+traveler:JORJI1,@This passport is crude fake.,@这个护照是个粗糙的赝品。
+traveler:JORJI1,Hey now! Is not true!,嘿！这不是真的。
+traveler:JORJI1,Is pre-approved!,是预先批准的。
+traveler:JORJI1,@ Cobrastan is not a real country.,@可布拉斯坦这个国家不存在。
+traveler:JORJI1,"Ok, ok.",好的，好的。
+traveler:JORJI1,"You no like passport, I understand.",你不喜欢护照，我明白。
+traveler:JORJI1,I come back again with better one.,我会带着更好的回来的。
+traveler:JORJI2,Old friend hello!,你好啊老朋友。
+traveler:JORJI2,I am back again!,我又回来了。
+traveler:JORJI2,This time everything set.,这次什么都准备好了。
+traveler:JORJI2,@You are missing an entry permit.,@你漏了一个入境许可。
+traveler:JORJI2,Oh man you funny guy!,哦你这家伙真幽默。
+traveler:JORJI2,@An entry permit is required.,@需要一个入境许可。
+traveler:JORJI2,"Wow, you run very strict border here.",喔你可查的真严。
+traveler:JORJI2,That is good. Do job right.,那很好，说明你认真工作。
+traveler:JORJI2,I look for entry thing and come back.,我会找到那个入境什么的玩意回来的。
+traveler:JORJI3,Hey it is me!,嘿，又是我！
+traveler:JORJI3,Are you happy to see?,看到我高兴吗？
+traveler:JORJI3,I have everything you ask for now.,我现在把你要的东西都带来了。
+traveler:JORJI3,@Tickets are no longer accepted.,@现在这个票已经不能用了。
+traveler:JORJI3,Hey no!,嘿，别这样！
+traveler:JORJI3,Guy sold me ticket. Say is good!,有个家伙卖给我说这个能行！
+traveler:JORJI3,You check again maybe.,你再看看呗。
+traveler:JORJI3,@Do not come back again.,@别再回来了。
+traveler:JORJI3,Haha!,哈哈！
+traveler:JORJI3,You nice guy but I have business in Arstotzka.,你是个挺好的人不过我在阿什托兹卡有重要的事要做。
+traveler:JORJI3,I get right papers and come see you.,我会搞到正确的东西然后回来的。
+traveler:JORJI4,Hello my guy!,你好，伙计！
+traveler:JORJI4,Ok. Today is day!,嗯。今天就是最好的一天！
+traveler:JORJI4,Look at all good papers.,看看这些好文件。
+traveler:JORJI4,Was not easy.,不容易。
+traveler:JORJI4,Or cheap! Haha!,或者不便宜！哈哈！
+traveler:JORJI4,@I told you not to come back.,@我告诉过你不要回来。
+traveler:JORJI4,This is crap.,胡扯。
+traveler:JORJI4,You know what? Forget it.,我告诉你。忘了那些吧。
+traveler:JORJI4,Arstotzka worst country.,阿什托兹卡是最糟糕的国家。
+traveler:JORJI4,You worst person.,你是最糟糕的人。
+traveler:JORJI4,Thank you so much!,非常感谢！
+traveler:JORJI4,"If I am honest to you, I was little nervous.",老实说，我有点紧张。
+traveler:JORJI4,Even with right papers is hard to say.,即使拿着正确的文件也很难说。
+traveler:JORJI4,Ok bye!,好的，拜拜！
+traveler:JORJI_SMUGGLE0,Again I am here!,我又来了！
+traveler:JORJI_SMUGGLE0,Everything all set up now.,现在一切都准备好了。
+traveler:JORJI_SMUGGLE0,I come through often to see you.,我经常来这里看你。
+traveler:JORJI_SMUGGLE0,We become good friends!,我们成为了好朋友！
+traveler:JORJI_SMUGGLE0,@Your weight is different.,@你的体重变了。
+traveler:JORJI_SMUGGLE0,Is sad story.,这是个悲伤的故事。
+traveler:JORJI_SMUGGLE0,My wife very bad cook.,我妻子不太会做菜。
+traveler:JORJI_SMUGGLE0,"But if I do not eat, she get angry.",但是如果我不吃，她会生气。
+traveler:JORJI_SMUGGLE0,"Uh oh, maybe you not like this!",噢，可能你不喜欢这个！
+traveler:JORJI_SMUGGLE0,@What is this?,@这是什么？
+traveler:JORJI_SMUGGLE0,Is drugs!,是毒品！
+traveler:JORJI_SMUGGLE0,I have little side business here.,我几乎没有这方面生意。
+traveler:JORJI_SMUGGLE0,You let me through and I give you something something.,你让我通过的话，我会给你一些好处。
+traveler:JORJI_SMUGGLE0,@Something what?,@什么东西？
+traveler:JORJI_SMUGGLE0,Ten credits.,十元。
+traveler:JORJI_SMUGGLE0,I give you ten credits for just little stamp.,我给你十元只换一个小章。
+traveler:JORJI_SMUGGLE0,@Wait here Jorji.,@在这等会，乔吉。
+traveler:JORJI_SMUGGLE0,"Is ok, I understand.",行，我懂的。
+traveler:JORJI_SMUGGLE0,Drugs are bad. Not good for kids.,毒品不好。对孩子没好处。
+traveler:JORJI_SMUGGLE0,You do great work here still.,你依然在这里做了重要的工作。
+traveler:JORJI_SMUGGLE0,Ok!,好！
+traveler:JORJI_SMUGGLE0,We go full speed!,我们全速前进！
+traveler:JORJI_SMUGGLE0,Hey what is problem?,喂，出什么事了？
+traveler:JORJI_SMUGGLE0,@I do not trust you.,@我不相信你。
+traveler:JORJI_SMUGGLE0,"Ok, ok.",好吧好吧。
+traveler:JORJI_SMUGGLE0,You good guy so I win trust next time.,你们是好人，我下次会赢得信任的。
+traveler:JORJI_SMUGGLE1,"Ok, I am back!",好，我回来了！
+traveler:JORJI_SMUGGLE1,Same procedure!,同样的流程！
+traveler:JORJI_SMUGGLE1,They told me this hard business.,他们告诉我这个艰难的交易。
+traveler:JORJI_SMUGGLE1,So far everything smooth like ice!,目前一切都很顺利！
+traveler:JORJI_SMUGGLE1,Thanks to you!,谢谢你！
+traveler:JORJI_SMUGGLE1,Buy something happy for wife.,给妻子买点能让她开心的东西吧。
+traveler:JORJI_SMUGGLE1,Phew!,唷！
+traveler:JORJI_SMUGGLE1,"Was tough one. Lucky for me, guard was easy.",是个坚强的人。我很幸运，守卫很松懈。
+traveler:JORJI_SMUGGLE1,He asks for big money but is reasonable man.,他要一大笔钱但是合符情理。
+traveler:JORJI_SMUGGLE1,"Oh man, again!",哦，再来一次！
+traveler:JORJI_SMUGGLE1,That guard have another good day.,那个守卫又安然地度过了一天。
+traveler:JORJI_SMUGGLE1,Not sure I keep this up with no sales!,不保证卖不出去我还能继续！
+traveler:JORJI_SMUGGLE1,"Ok, we try again!",好，我们再试一次！
+traveler:JORJI_SMUGGLE1,"Sorry to bother you, but this my only job.",抱歉打扰你，但是这是我唯一的工作。
+traveler:JORJI_SMUGGLE1,"@Wait here, Jorji.",@在这等会，乔吉。
+traveler:JORJI_SMUGGLE1,"Is ok, I understand.",行，我懂的。
+traveler:JORJI_SMUGGLE1,Drugs are bad. Not good for kids.,毒品不好。对孩子没好处。
+traveler:JORJI_SMUGGLE1,You do great work here still.,你依然在这里做了重要的工作。
+traveler:JORJI_SMUGGLE1,@I see a difference here.,@我发现这里不一样。
+traveler:JORJI_SMUGGLE1,Is real mystery for sure.,毫无疑问这真是个迷。
+traveler:JORJI_SMUGGLE1,Maybe things get too sexy in here.,也许事情变得太迷人了。
+traveler:JORJI_SMUGGLE1,@Drugs?,@毒品?
+traveler:JORJI_SMUGGLE1,Looks like good stuff right?,看起来是好东西?
+traveler:JORJI_SMUGGLE1,Wait! I give you 10 credits for ok stamp!,等等！我给你10元，换一个通过章！
+traveler:JORJI_SMUGGLE1,Think about family!,想想家庭！
+traveler:JORJI_SMUGGLE1,They can buy many happy things with these credits.,他们能用这些 买好多东西。
+traveler:JORJI_SMUGGLE1,Just for little harmless drugs!,只是很少的无害的毒品！
+traveler:JORJI_SMUGGLE1,"This much better, see?",这样就好多了，看到了么？
+traveler:JORJI_SMUGGLE1,"Wow, you really stand-up guy.",哇，你真够意思。
+traveler:JORJI_SMUGGLE1,Maybe is not so good for me when I think about.,在我思考这件事的时候，可能对我没那么好。
+traveler:JORJI_CRIMINAL,Is good to see you again!,很高兴又见到你了！
+traveler:JORJI_CRIMINAL,Today I come just for short visit.,今天我来只是短暂的拜访一下。
+traveler:JORJI_CRIMINAL,Everything is definitely ok with me.,我当然一切都好。
+traveler:JORJI_CRIMINAL,For sure I am not in criminal bulletin or anything!,当然我不是在通缉名单上或其他任何东西上！
+traveler:JORJI_CRIMINAL,@Your face is in wanted bulletin.,@你的脸在通缉名单上。
+traveler:JORJI_CRIMINAL,What! I pay police like crazy!,什么！我拼命地贿赂警察！
+traveler:JORJI_CRIMINAL,They promise no bulletin. All clear they say.,他们答应我不会把我放在公报上的。他们说所有的东西都被清除了。
+traveler:JORJI_CRIMINAL,I think twice about trusting friendly people.,相信友善的人们之前我会三思。
+traveler:JORJI_CRIMINAL,Hey I really like you.,喂，我真的很喜欢你。
+traveler:JORJI_CRIMINAL,I know is risky to help me like this.,我知道这样帮我有点冒险。
+traveler:JORJI_CRIMINAL,I try to make it up for you.,我想和你和解。
+traveler:JORJI_CRIMINAL,"Ah, is ok.",啊，行。
+traveler:JORJI_CRIMINAL,At least you do not arrest me.,至少你没逮捕我。
+traveler:JORJI_CRIMINAL,Thanks anyways.,不管怎样，谢谢你。
+traveler:JORJI_CRIMINAL,@Sorry Jorji.,@对不起，乔吉。
+traveler:JORJI_CRIMINAL,"Ah, is ok. Most police know me now.",啊，没关系。大多数警察现在都认识我了。
+traveler:JORJI_CRIMINAL,I have little talk with them again.,我再也没有和他们说过话。
+traveler:JORJI_CRIMINAL,"Anyway, you have tough job.",不管怎样，你做这个工作不容易。
+traveler:JORJI_CRIMINAL,I rather sell drugs!,我从不卖毒品！
+traveler:JORJI_PASSPORTS,I read newspaper.,我读了报纸。
+traveler:JORJI_PASSPORTS,@Hello Jorji.,@你好，乔吉。
+traveler:JORJI_PASSPORTS,Things getting little crazy in Arstotzka.,阿什托兹卡开始有些小疯狂了。
+traveler:JORJI_PASSPORTS,Maybe you think about going away for a bit.,也许你有点想离开这儿。
+traveler:JORJI_PASSPORTS,Obristan is good place.,欧布里斯坦是个好地方。
+traveler:JORJI_PASSPORTS,Right next door up north.,正好在隔邻的北边。
+traveler:JORJI_PASSPORTS,@Our passports have been confiscated.,@我们的护照被没收了。
+traveler:JORJI_PASSPORTS,@We cannot leave.,@我们不能离开了。
+traveler:JORJI_PASSPORTS,Hey that not good sign.,嘿。那不是个好兆头。
+traveler:JORJI_PASSPORTS,Hold on.,等等。
+traveler:JORJI_PASSPORTS,I know a guy.,我认识一个人。
+traveler:JORJI_PASSPORTS,Just give him real passports to work with.,把可用的护照给他。
+traveler:JORJI_PASSPORTS,He changes info to match for you.,他会修改上面的信息来与你匹配。
+traveler:JORJI_PASSPORTS,I learn that in hard way.,我费劲心血才打听到的。
+traveler:JORJI_PASSPORTS,Thanks again!,再次谢谢你！
+traveler:JORJI_PASSPORTS,Bah! Maybe you right.,呸！可能你是对的。
+traveler:JORJI_PASSPORTS,Better to take little break.,不休息更好。
+traveler:JORJI_PASSPORTS,Hey what the hell?,喂，怎么回事？
+traveler:JORJI_PASSPORTS,You take my passport!,你拿了我的护照。
+traveler:JORJI_PASSPORTS,You can see it was expensive!,你看它很贵的！
+traveler:JORJI_PASSPORTS,@You said I need real Obristan passports.,@你说我需要可用的欧布里斯坦护照。
+traveler:JORJI_PASSPORTS,Man. Fine.,好吧，伙计。
+traveler:JORJI_PASSPORTS,I get another but little unhappy about it.,我拿到另一个但是一点都不开心。
+traveler:JORJI_PASSPORTS,Memorize flyer and give back.,记得把传单还给我。
+traveler:JORJI_PASSPORTS,Hey you know what.,喂，听我说。
+traveler:JORJI_PASSPORTS,Take my passport.,拿着我的护照。
+traveler:JORJI_PASSPORTS,I get another one no problem.,我能轻松搞到另一个。
+traveler:JORJI_PASSPORTS,Now memorize flyer and give back if you finish reading.,看完了就把传单还给我。
+traveler:JORJI_PASSPORTS,Do not want to get in trouble!,我不想惹麻烦！
+traveler:JORJI_PASSPORTS,Obristan really great this time of year.,欧布里斯坦在这个季节很美。
+traveler:JORJI_PASSPORTS,Lots of snow.,会下雪。
+traveler:JORJI_PASSPORTS,Not sure where you get more passports for family.,不确定在哪能为你的家人弄到护照。
+traveler:JORJI_PASSPORTS,But you smart guy.,但你是个聪明人。
+traveler:JORJI_PASSPORTS,Probably figure it out!,也许能解决掉的！
+traveler:JORJI_PASSPORTS,Good luck.,祝你好运。
+traveler:JORJI_GOODBYE,Ho boy! I make big score!,哈小子！我大干了一番！
+traveler:JORJI_GOODBYE,Huge! You have no idea!,嘿！你一定不知道！
+traveler:JORJI_GOODBYE,Anyway. I just want to say thank you.,不管怎样，我只想说谢谢你。
+traveler:JORJI_GOODBYE,I wait in line just for that!,我排队就是为了那个。
+traveler:JORJI_GOODBYE,Maybe I quit now.,也许现在我该退出了。
+traveler:JORJI_GOODBYE,Haha!,哈哈！
+traveler:BROTHEL0,Hello handsome.,你好帅哥。
+traveler:BROTHEL0,You look bored.,你看起来很烦。
+traveler:BROTHEL0,"If you want good time, come see us.",如果你想开心点，来见我们。
+traveler:BROTHEL0,I will be around couple months.,几个月后我会来访。
+traveler:BROTHEL0,Don't forget to visit.,别忘了来看望。
+traveler:BROTHEL1,Hey there.,嘿。
+traveler:BROTHEL1,I can make you happy any time.,我可以随时让你开心。
+traveler:BROTHEL1,Come to Pink Vice. Ask for Ava.,来红粉伴侣。找伊娃。
+traveler:BROTHEL2,Oh. Here.,哦。这里。
+traveler:BROTHEL2,Please help me.,请帮帮我。
+traveler:BROTHEL3,Hello friend.,你好朋友。
+traveler:BROTHEL3,"You come down, I give you good girl.",过来，给你介绍一个好女孩。
+traveler:BROTHEL3,That little bitch.,那个小贱货。
+traveler:BROTHEL3,I break her in two.,我把她掰成两段。
+traveler:BROTHEL3,@You are Dari Ludum?,@你是达利 鲁达姆？
+traveler:BROTHEL3,"Of course, it says on passport.",当然，护照上写着呢。
+traveler:BROTHEL3,@One moment.,@等一下。
+traveler:BROTHEL3,What is this shit?,这他妈是啥？
+traveler:BROTHEL3,Give my papers back.,把我的文件还给我。
+traveler:KILLERATHLETE,@You are Vince Lestrade?,@你是文斯 莱斯特雷德？
+traveler:KILLERATHLETE,Damn.,该死。
+traveler:KILLERATHLETE,"Look, I did not kill her. I was set up.",看，我没有杀掉她。我是被陷害的。
+traveler:KILLERATHLETE,Do not believe the Republian lies.,不要相信那些雷帕布里亚人的谎话。
+traveler:KILLERATHLETE,Let me through.,让我过去。
+traveler:KILLERATHLETE,Shit.,操。
+traveler:HUSBAND_WIFE0,"Today is beautiful day, my friend.",今天天气真好，我的朋友。
+traveler:HUSBAND_WIFE0,We finally become free from Antegrian tyranny!,我们终于从安特格林的暴政中逃离出来了！
+traveler:HUSBAND_WIFE0,Thank you so much!,太谢谢你了！
+traveler:HUSBAND_WIFE0,"Please be kind to my wife, she is just after me.",请友好的对待我的妻子，她就在我后边。
+traveler:HUSBAND_WIFE0,No! They will kill us!,不！他们会杀了我们的！
+traveler:HUSBAND_WIFE0,"Please, I beg you.",求你了！
+traveler:HUSBAND_WIFE0,Let my wife pass. She is coming to you next.,让我的妻子过去。她就是下一个过来的。
+traveler:HUSBAND_WIFE1,Did you see my husband?,你看见我的丈夫了吗？
+traveler:HUSBAND_WIFE1,"He made it through, yes?",他通过了，是吗？
+traveler:HUSBAND_WIFE1,@Where is your entry permit?,@你的入境许可在哪？
+traveler:HUSBAND_WIFE1,"Please, I beg you.",求你了。
+traveler:HUSBAND_WIFE1,They would not give me permit. I have no choice.,他们不给我许可。我别无选择。
+traveler:HUSBAND_WIFE1,I will be killed if I return to Antegria.,如果我回到安特格林我会被杀的。
+traveler:HUSBAND_WIFE1,Thank you.,谢谢。
+traveler:HUSBAND_WIFE1,We will not forget.,我们不会忘记的。
+traveler:HUSBAND_WIFE1,Why?,为什么？
+traveler:HUSBAND_WIFE1,You have doomed me.,你对我宣判了。
+traveler:HUSBAND_WIFE1,Why did you turn my husband away?,你为什么不让我的丈夫通过？
+traveler:HUSBAND_WIFE1,I will not leave him to die.,我不会把他留在这等死的。
+traveler:HUSBAND_WIFE1,You have doomed us both.,你对我们两个宣判了。
+traveler:HIRING_ENGINEERS_START,"You see many people, yes?",你见过很多人，是吧？
+traveler:HIRING_ENGINEERS_START,I am looking for engineers.,我在找工程师。
+traveler:HIRING_ENGINEERS_START,Do me a favor.,帮我个忙。
+traveler:HIRING_ENGINEERS_START,Give my card to any engineers you meet.,把我的名片给你见到的任何工程师。
+traveler:HIRING_ENGINEERS_START,I come back in few days.,我会在几天内回来。
+traveler:HIRING_ENGINEERS_START,Pay you 5 credits for each engineer that calls me.,每为我找一个给我打电话的工程师就给你五元。
+traveler:HIRING_ENGINEERS_START,You make a mistake but I let you fix it.,你犯了错误但是我让你改正了它。
+traveler:HIRING_ENGINEERS,What is this?,这是啥？
+traveler:HIRING_ENGINEERS,Oh. Huh. ; Huh. ; They are hiring?,哦。嗯。 ; 嗯。 ; 他们被录用了？
+traveler:HIRING_ENGINEERS,I have already.,我已经有了。
+traveler:HIRING_ENGINEERS,Stop giving to me.,不要给我了。
+traveler:HIRING_ENGINEERS,"Forget it, take them both. I don't want.",忘了它吧，把它们都拿走。我不想要了。
+traveler:HIRING_ENGINEERS_END,"Is good card, yes? ; Thanks ; These were not cheap you know. ;",是张好名片，对吧？ ; 谢谢 ; 这些并不便宜，你知道的。 ;
+traveler:HIRING_ENGINEERS_END,I am back.,我回来了。
+traveler:HIRING_ENGINEERS_END,How many engineers did you meet?,你见到了多少工程师？
+traveler:HIRING_ENGINEERS_END,I got no calls.,我没有接到一个电话。
+traveler:HIRING_ENGINEERS_END,You gave my cards to no one.,你没有把我的名片给任何人。
+traveler:HIRING_ENGINEERS_END,Thank you for nothing.,没什么可谢的。
+traveler:HIRING_ENGINEERS_END,I get only one call.,我只接到一个电话。
+traveler:HIRING_ENGINEERS_END,I'm lucky that he is good lead.,我很幸运他是个好老板。
+traveler:HIRING_ENGINEERS_END,Here is what I promised.,这是我承诺过的。
+traveler:HIRING_ENGINEERS_END,I got two calls.,我接到两个电话。
+traveler:HIRING_ENGINEERS_END,"One guy, he was good.",一个家伙还不错。
+traveler:HIRING_ENGINEERS_END,Other one not so much.,另一个不是那么好。
+traveler:HIRING_ENGINEERS_END,Thanks anyways.,不管怎样谢谢你。
+traveler:HIRING_ENGINEERS_END,I got three calls.,我接到三个电话。
+traveler:HIRING_ENGINEERS_END,Two guys were good.,两个还不错。
+traveler:HIRING_ENGINEERS_END,Last one was a fool. Didn't know basics.,最后一个是个白痴。连基础的都不懂。
+traveler:HIRING_ENGINEERS_END,But is ok. I appreciate.,但是很好了。我很感激。
+traveler:HIRING_ENGINEERS_END,I got four calls.,我接到了四个电话。
+traveler:HIRING_ENGINEERS_END,Three were civil engineers. Useless.,三个是土木工程师。没什么用。
+traveler:HIRING_ENGINEERS_END,I need mechanicals. I told you.,我需要懂机械的。我和你说过。
+traveler:HIRING_ENGINEERS_END,"Anyway, is ok. Last guy very sharp.",不管怎样还好了。最后一个很犀利。
+traveler:HIRING_ENGINEERS_END,Thanks for the help.,谢谢你的帮助。
+traveler:FRIENDLY_GUARD0,Hello.,你好。
+traveler:FRIENDLY_GUARD0,I heard that you are from Nirsk?,我听说你来自于尼尔斯克？
+traveler:FRIENDLY_GUARD0,I grew up there but I have not been back in many years.,我在那长大但是我好多年没回去了。
+traveler:FRIENDLY_GUARD0,@It is still a shit-hole. As before.,@那里仍然是个屎一样的地方，跟以前一样。
+traveler:FRIENDLY_GUARD0,"Haha, of course. This is what I remember too.",哈哈，当然了。我也是这么记得的。
+traveler:FRIENDLY_GUARD0,I am Sergiu. It is good to meet you.,我是Sergiu。见到你太好了。
+traveler:FRIENDLY_GUARD0,I will do my best to keep you safe.,我会尽我所能保障你的安全。
+traveler:FRIENDLY_GUARD1,Thank you for yesterday.,昨天谢谢你了。
+traveler:FRIENDLY_GUARD1,My aim is not like before.,我的梦想是和以前不同的了。
+traveler:FRIENDLY_GUARD2,There is more action at this checkpoint than in the war.,跟战争时期比起来，这个边检站多了很多功能。
+traveler:FRIENDLY_GUARD2,I fought in Kolechia for 5 years.,我在科洛奇亚服役了五年。
+traveler:FRIENDLY_GUARD2,"If you think it is bad in Arstotzka, it is ten times worse in Kolechia.",如果你认为在阿什托兹卡很糟，在科洛奇亚要更糟十倍。
+traveler:FRIENDLY_GUARD2,I do not blame them for coming here.,我不会因为他们来到这而责备他们。
+traveler:FRIENDLY_GUARD2,"Anyways, you are doing well. Keep it up.",不管怎样，做的不错。坚持下去。
+traveler:FRIENDLY_GUARD3,"Friend, how are you?",朋友，怎么样？
+traveler:FRIENDLY_GUARD3,I have a small favor to ask.,我需要你帮个小忙。
+traveler:FRIENDLY_GUARD3,"During the war, I met a beautiful girl.",战争期间，我认识了一个美丽的姑娘。
+traveler:FRIENDLY_GUARD3,I think about her every moment.,我每时每刻都在想她。
+traveler:FRIENDLY_GUARD3,Yesterday I receive word that she is finally coming here.,昨天我得到消息她终于要来这了。
+traveler:FRIENDLY_GUARD3,"Please, let her pass and I will be in your debt.",求你了，让她通过.我欠你个人情。
+traveler:FRIENDLY_GUARD3,Her name is Elisa.,她叫Elisa。
+traveler:FRIENDLY_GUARD4,Thank you for everything.,谢谢你做的一切。
+traveler:FRIENDLY_GUARD4,Elisa is so happy here.,Elisa在这里如此的开心。
+traveler:FRIENDLY_GUARD4,She says our first son will have your name.,她说我们的第一个儿子会以你的名字命名。
+traveler:FRIENDLY_GUARD4,This is fine but I told her I want a daughter first!,这很好，但是我跟她说过我想先要个女儿！
+traveler:FRIENDLY_GUARD4,I would like to show the locket to her.,我想给她看看这个小盒。
+traveler:FRIENDLY_GUARD4,Do you still have it?,你还有它么？
+traveler:FRIENDLY_GUARD4,"Ah, I missed not having this with me.",啊，我忘了没有带在身上。
+traveler:FRIENDLY_GUARD4,"It is not much, but we have found a small way to thank you.",这并不多，但是我们找到了一个谢谢你的小方法。
+traveler:FRIENDLY_GUARD4,Elisa will deliver it to your home. I hope that it helps.,Elisa会把它交到你家。我希望它能有帮助。
+traveler:FRIENDLY_GUARD4,Tomorrow I am transferred to another post.,明天我会调到其他岗位。
+traveler:FRIENDLY_GUARD4,Stay safe my friend.,保重，我的朋友。
+traveler:FRIENDLY_GUARD4,Elisa did not come.,Elisa没有来。
+traveler:FRIENDLY_GUARD4,"@She arrived, but her papers were not in order.",@她来过了，但是她的证件有问题。
+traveler:FRIENDLY_GUARD4,@Tell her to try again with the correct documents.,@让她拿着正确的文件再试一次。
+traveler:FRIENDLY_GUARD4,You know this is impossible.,你知道那是不可能的。
+traveler:FRIENDLY_GUARD4,"If you have the locket, give it back to me.",如果你有那个小盒，把它还给我。
+traveler:ELISA,Do you know Sergiu?,你认识Sergiu吗？
+traveler:ELISA,He said you were friend. That you would help.,他说你们是朋友。你会提供帮助。
+traveler:ELISA,"Please, my family is gone.",求你了，我的家人不见了。
+traveler:ELISA,I have only Sergiu left.,我只有Sergiu了。
+traveler:ELISA,@You do not have the required documentation.,@你缺少必须的文件。
+traveler:ELISA,I tried for so long.,我尝试了很久了。
+traveler:ELISA,They would not allow me to leave.,他们不会让我离开的。
+traveler:ELISA,I am denied?,我被拒签了？
+traveler:ELISA,I understand.,我明白了。
+traveler:ELISA,"Please, tell Sergiu I will always love him.",求你了，告诉Sergiu我永远爱他。
+traveler:ELISA,We will be together in another life.,我们下辈子再在一起吧。
+traveler:ELISA,Return this for him to remember me.,把这个给他来记住我。
+traveler:ELISA,Thank you so much.,非常感谢。
+traveler:ELISA,I will never forget your kindness.,我不会忘记你的善行。
+traveler:ELISA,@He is waiting for you.,@他在等你。
+traveler:ELISA,My love.,我的爱人。
+traveler:ELISA,I miss him.,我想他。
+traveler:ELISA,@I am sorry. Sergiu was killed.,@很抱歉。Sergiu被杀了。
+traveler:ELISA,My Sergiu.,我的Sergiu。
+traveler:ELISA,Thank you for your kindness.,谢谢你的善行。
+traveler:ELISA,There is nothing for me here any more.,这里再也没有什么属于我了。
+traveler:ELISA,Thank you.,谢谢。
+traveler:PRISON_GUARD_REPORTDETAINS,You detained nobody.,你没有扣留任何人。
+traveler:PRISON_GUARD_REPORTDETAINS,You detained only one person.,你只扣留了一个人。
+traveler:PRISON_GUARD_REPORTDETAINS,You detained ${Game/NumDetains} people.,你扣留了 ${Game/NumDetains}个人。
+traveler:PRISON_GUARD0,Hello.,你好。
+traveler:PRISON_GUARD0,@Are you the spy?,@你是间谍么？
+traveler:PRISON_GUARD0,What? No.,什么？不是。
+traveler:PRISON_GUARD0,I am guard here. My name is Calensk.,我是这的警卫。我叫卡雷斯克。
+traveler:PRISON_GUARD0,"They told me I get good position, then send me here.",他们告诉我，我得到了一个好工作，然后把我送到了这里。
+traveler:PRISON_GUARD0,This is thanks I get.,这就是对我的感谢。
+traveler:PRISON_GUARD0,Now they pay me almost nothing.,现在他们几乎什么都没付给我。
+traveler:PRISON_GUARD0,@They pay us all as much.,@他们应当给我们相同的奖励。
+traveler:PRISON_GUARD0,Yes. But look.,是的。但你看看。
+traveler:PRISON_GUARD0,I get small bonus when you detain people.,当你抓住人的时候，我会得到一点的奖励。
+traveler:PRISON_GUARD0,"More you detain, more they give me for processing.",你抓的越多，他们会给我更多。
+traveler:PRISON_GUARD0,"But this is not fair, right? You should get something too.",但这一点也不公平，对吗？你也应该得到奖励。
+traveler:PRISON_GUARD0,So I fix this problem.,我解决了这个问题。
+traveler:PRISON_GUARD0,I give you 5 credits from my bonus for every two people you detain.,你每抓住两个人，我都会从奖励中拿出5块给你。
+traveler:PRISON_GUARD0,Sounds like good deal to me.,这主意对我来说不错啊。
+traveler:PRISON_GUARD0,I give money to you after I get paid.,我拿到钱后就分给你。
+traveler:PRISON_GUARD0,Let us make the best of this.,我们要好好利用这一点。
+traveler:PRISON_GUARD3,Here.,给。
+traveler:PRISON_GUARD3,For bonus and selling bomb parts.,为了奖励和卖炸弹零件。
+traveler:PRISON_GUARD3,They move our station to prison.,他们把我们的驻地放到监狱里了。
+traveler:PRISON_GUARD3,We still get bonus so keep detaining.~,我们仍然会得到奖励的，所以，继续抓人吧。
+traveler:PRISON_GUARD3,I stop visiting you here.,我先不拜访你了。
+traveler:PRISON_GUARD3,I will drop off money at your home instead.,我把钱放你家里吧。
+traveler:PRISON_GUARD3,Every other night.,每隔两晚。
+traveler:PRISON_GUARD_PAYOUT,What is going on?,事情进展的怎么样了？
+traveler:PRISON_GUARD_PAYOUT,I am getting nothing because of you.,因为你，我什么都没做成。
+traveler:PRISON_GUARD_PAYOUT,Detain more people and we will both benefit.,抓住更多的人，那样我们会得到更多的奖励。
+traveler:PRISON_GUARD_PAYOUT,Good morning.,早上好。
+traveler:PRISON_GUARD_PAYOUT,You are not detaining enough people.,你抓的人不够。
+traveler:PRISON_GUARD_PAYOUT,I have nothing to give you.,我什么都给不了你。
+traveler:PRISON_GUARD_PAYOUT,Detain more to share part of my bonus.,抓更多的人，这样才能分得我的奖励。
+traveler:PRISON_GUARD_PAYOUT,"Bonus is good, they pay ok.",奖励还不错，他们付的钱也差不多。
+traveler:PRISON_GUARD_PAYOUT,It is not much though.,还不够呢。
+traveler:PRISON_GUARD_PAYOUT,Maybe you detain more people and we do better.,或许你能抓更多的人，我们会做得更好。
+traveler:PRISON_GUARD_PAYOUT,@This is not enough.,@这还不够。
+traveler:PRISON_GUARD_PAYOUT,"Yes, I know.",是的，我知道。
+traveler:PRISON_GUARD_PAYOUT,My wife sick now. Neighbor spreads the flu.,我的妻子现在病了，是邻居传染的流感。
+traveler:PRISON_GUARD_PAYOUT,This is what is left after medicine.,这就是买完药之后剩下的了。
+traveler:PRISON_GUARD_PAYOUT,I give you rest next time.,下次再给你其他的。
+traveler:PRISON_GUARD_PAYOUT,Maybe you detain more people to make it easier.,可能你为了让情况好一些拘留更多的人。
+traveler:PRISON_GUARD_PAYOUT,Here is your cut.,这是你的钱。
+traveler:PRISON_GUARD_PAYOUT,@There is more from last time.,@比上次剩下的少多了。
+traveler:PRISON_GUARD_PAYOUT,This is all I have now but soon I make up rest.,我现在总共就这么多但我会很快补上剩下的。
+traveler:PRISON_GUARD_PAYOUT,Again it is a little short.,而且真的有点少。
+traveler:PRISON_GUARD_PAYOUT,Keep detaining and I pay you back soon.,继续拘留人，我会很快给你钱的。
+traveler:PRISON_GUARD_BOMB,What is going on?,发生了什么事？
+traveler:PRISON_GUARD_BOMB,Oh. Hah.,噢，哈。
+traveler:PRISON_GUARD_BOMB,What is this amateur shit?,这个东西是什么的？
+traveler:PRISON_GUARD_BOMB,@Should we evacuate?,@我们要撤了吗?
+traveler:PRISON_GUARD_BOMB,For that little thing? No of course not.,就为了那个小东西？当然不用了。
+traveler:PRISON_GUARD_BOMB,Just disable it. Open the cover.,把它毁了就行，打开盖子。
+traveler:PRISON_GUARD_BOMB,Stupid fucking terrorist.,该死的恐怖分子。
+traveler:PRISON_GUARD_BOMB,Could not even add a display.,甚至都不会装装样子。
+traveler:PRISON_GUARD_BOMB,@What should I do now?,@我现在应该做些什么？
+traveler:PRISON_GUARD_BOMB,This is poorest bomb I ever see. A simple mind created this.,这种炸弹简直是我所见过最低级的。设计它的人绝对头脑简单。
+traveler:PRISON_GUARD_BOMB,Just cut the wires in order.,快点按顺序把线子切断。
+traveler:PRISON_GUARD_BOMB,"Ok, all done. Back to work.",好了，搞定。回去工作。
+traveler:PRISON_GUARD_BOMB,@We should close the checkpoint.,@我们应该关闭检查站。
+traveler:PRISON_GUARD_BOMB,Bullshit. I need to earn money today.,放屁。我今天还得挣钱呢。
+traveler:PRISON_GUARD_BOMB,Give bomb to me.,把炸弹给我。
+traveler:PRISON_GUARD_BOMB,I sell materials and give you cut.,我把材料卖了，钱给你。
+traveler:PRISON_GUARD_BOMB,What a piece of shit.,简直是块垃圾。
+traveler:PRISON_GUARD_BOMB,I doubt it is even worth much.,我怀疑它值不了多少钱。
+traveler:PRISON_GUARD_BOMB,Call the next immigrant.,把下个移民叫进来。
+traveler:TIME_BOMBER,DEATH TO ARSTOTZKA!,阿什托兹卡去死!
+traveler:BOSS_REPORTCITATIONS,You have received no citations.,你没有得到任何嘉奖。
+traveler:BOSS_REPORTCITATIONS,You have received one citation.,你得到一个嘉奖。
+traveler:BOSS_REPORTCITATIONS,You have received ${Game/NumCitations} citations.,你得到 ${Game/NumCitations} 嘉奖。
+traveler:BOSS0,So.~,那么。~
+traveler:BOSS0,You are inspector here.~,你是这儿的检查员。~
+traveler:BOSS0,That makes you my responsibility.~,那样你就归我管。~
+traveler:BOSS0,You make Arstotzka proud.~,你使阿什托兹卡感到骄傲。~
+traveler:BOSS0,Hang it on wall here.,将它挂在墙上。
+traveler:BOSS0,I return in 10 days.~,我在10天内回来。~
+traveler:BOSS0,Maintain your diligence.,保持勤奋。
+traveler:BOSS0,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+traveler:BOSS0,Perhaps it was mistake to rely on lottery.,或许依靠运气是一种错误。
+traveler:BOSS0,Let this motivate you.~,让这些来激励你。~
+traveler:BOSS0,Do not embarrass me.,不要为难我。
+traveler:BOSS0,It makes me look like fool to trust lottery.~,相信运气让我看起来很傻。~
+traveler:BOSS0,Let this motivate you to improve.~,让这些激励你提高。~
+traveler:BOSS0,Do not embarrass me further.,不要再让我为难。
+traveler:BOSS1,It is too early to come all the way out here.,太早了以致无法实现。
+traveler:BOSS1,The smell at this checkpoint makes me sick.,这个检查点的味道让我感到恶心。
+traveler:BOSS1,Where is plaque I gave you?,我给你的牌子在哪?
+traveler:BOSS1,Why is it not on wall?,它为什么不在墙上？
+traveler:BOSS1,What is other shit hanging here?,这里挂着的其他东西是什么?
+traveler:BOSS1,These walls are for official plaques only.,这些墙是用来挂正式牌子的。
+traveler:BOSS1,Your pay will be docked for violation.,你将因为违规而停发工资。
+traveler:BOSS1,@It will not happen again.,@这不会再发生了。
+traveler:BOSS1,At least you are performing well.,至少你表现得很好。
+traveler:BOSS1,Continue this honorable service.,继续这种尊贵的服务。
+traveler:BOSS1,At least your performance is not terrible.,至少你的表现不差。
+traveler:BOSS1,Do not slip further.,不要再下滑了。
+traveler:BOSS1,And your performance is terrible.,而且你的表演真糟糕。
+traveler:BOSS1,Maybe you have forgotten what your job is.,可能你已经忘了你的工作是什么了。
+traveler:BOSS1,There are many more who can take your place.,很多人都能取代你。
+traveler:BOSS1,Now.,现在。
+traveler:BOSS1,I have old friend coming through.,我有老朋友过来。
+traveler:BOSS1,Approve her entry.,允许她进来。
+traveler:BOSS1,She is Shae Piersovska.~,她是Shae Piersovska。~
+traveler:BOSS1,I do not want to hear of any trouble to her.,我不想听到她有任何麻烦。
+traveler:BOSS1,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+traveler:BOSS2,You little bastard.~,你这个小混蛋。~
+traveler:BOSS2,Shae thinks I am powerless fool now.,Shae认为我现在是个没权力的蠢蛋。
+traveler:BOSS2,It was made very clear to let her through.,已经说得很清楚了让她通过。
+traveler:BOSS2,Now I must think about the consequences for you.~,现在我必须为你考虑后果。~
+traveler:BOSS2,Maybe this place not so bad.,也许这个地方还不算太糟。
+traveler:BOSS2,"With everything going on, checkpoint visit is nice break.~",在百忙之中来视察一次检查点是很好的休息。~
+traveler:BOSS2,You still do not hang the plaques.,你依然没有挂上牌匾。
+traveler:BOSS2,Why do you not hang both plaques?,你为什么不把两个牌匾都挂上？
+traveler:BOSS2,But again you have unauthorized items on wall.,但是你的私人物品又一次出现在了墙上。
+traveler:BOSS2,I warned before.~,"我以前就警告过。~	"
+traveler:BOSS2,But what is other shit hanging here?,但是这是什么鬼东西挂在这儿？
+traveler:BOSS2,These walls are for official plaques only.,这些墙上只允许挂上官方的牌匾。
+traveler:BOSS2,Your pay will be docked for violation.,因违观你的报酬将被削减。
+traveler:BOSS2,@It will not happen again.,@再也不会发生了。
+traveler:BOSS2,There are no more plaques.,不会再有牌匾了。
+traveler:BOSS_BUDDY,How is Dimitri?,Dimitri怎么样了？
+traveler:BOSS_BUDDY,I hear he runs checkpoint now.,我听说他正管理着边检站。
+traveler:BOSS_BUDDY,It looks like somewhere he would fit in.,听上去正适合他。
+traveler:BOSS_BUDDY,I bet he is still terrible boss.,我打赌他仍然是个糟糕的老大。
+traveler:BOSS_BUDDY,"You know, Dimitri asked me to come.",你知道的，Dimitri邀请我来的。
+traveler:BOSS_BUDDY,Said I would get through.,曾说过我应该通过。
+traveler:BOSS_BUDDY,But I guess he is not so much in control.,我猜他脑子不是太清醒。
+traveler:BOSS_BUDDY,I hope Dimitri tires more easily now.,希望Dimitri现在能长进些。
+traveler:BOSS_BUDDY,I do not want to stay long in Arstotzka.,我不想长时间呆在阿什托兹卡。
+traveler:BOSS_BUDDY,"Ah, I would not do that.",嗯，我不会那么做的。
+traveler:BOSS_BUDDY,Dimitri is not forgiving person.,Dimitri不是一个宽宏大量的人。
+traveler:BOSS_BUDDY,I am no fool.,我不傻好吗。
+traveler:BOSS_BUDDY,"This is inconvenience, but I am not worried for myself.",这不太方便，但是我一点也不担心我自己。
+traveler:BOSS_BUDDY,Tell Dimitri I said hello.,代我向Dimitri问好。
+traveler:BOSS_ANGRY,You worthless urchin.~,一文不值的穷光蛋一个~
+traveler:BOSS_ANGRY,I had to pull many strings to get Shae out.,我要用绳子把Shae给弄出来。
+traveler:BOSS_ANGRY,It was made very clear to let her through.~,很明显要放她走~
+traveler:BOSS_ANGRY,My patience with you has run out.~,我对你没有耐心了~
+traveler:KID_KILLER0,Look at it.~,看。~
+traveler:KID_KILLER0,Simon Wens took her from me.~,Simon Wens 从我手上把她弄走了。~
+traveler:KID_KILLER0,I follow him for many weeks.,我都跟踪他好几周了。
+traveler:KID_KILLER0,I know he comes here soon.~,我知道他一会儿会来这里。~
+traveler:KID_KILLER0,"It is big favor I ask, but is important.",帮帮这个大忙，这很重要。
+traveler:KID_KILLER0,Let him through if you see him.,如果你看见他，先放他走。
+traveler:KID_KILLER0,But take his passport first.~,不过要扣下他的护照。~
+traveler:KID_KILLER0,I come back.,我会回来。
+traveler:KID_KILLER0,You give me his passport and I track him down.~,你给我他的护照，我去跟踪他。
+traveler:KID_KILLER0,I make him suffer like he did to Julia.~,我要像他对Julia所做的那样对他报仇。
+traveler:KID_KILLER1,What the fuck!,该死！
+traveler:KID_KILLER2,Did you see him?,你看见他了？
+traveler:KID_KILLER2,Give his passport to me.,把他的护照给我。
+traveler:KID_KILLER2,Hmmm.~,嗯~
+traveler:KID_KILLER2,I know this city.,我熟悉这座城市。
+traveler:KID_KILLER2,He will be easily found.,他很快就能被找到。
+traveler:KID_KILLER2,Let me through.,让我走。
+traveler:KID_KILLER2,Thank you.,非常感谢。
+traveler:KID_KILLER2,"Now please, give back my daughter's photo.",现在，请把我女儿的照片还回来。
+traveler:KID_KILLER2,I show it to him while he suffers.,我要在他被折磨的时候给他看。
+traveler:KID_KILLER2,You heartless scum.,你这无情的混蛋。
+traveler:KID_KILLER2,Give back my daughter's photo.,把我女儿的照片还来。
+traveler:KID_KILLER2,My Julia.~,我的Julia~
+traveler:KID_KILLER2,Read the news tomorrow.,看看明天的新闻。
+traveler:KID_KILLER2,She was just little girl.,她还是一个小女孩而已。
+traveler:KID_KILLER2,@I do not know what you are talking about.,@我不知道你在说什么。
+traveler:KID_KILLER2,Damnit.,可恶。
+traveler:KID_KILLER2,She was just a little girl.,她还是一个小女孩而已。
+traveler:KID_KILLER2,@Yes. He has been arrested.,@对，他被拘捕了。
+traveler:KID_KILLER2,What? I asked you to let him pass.,什么？我不是叫你他通过的吗？
+traveler:KID_KILLER2,There will be no true justice now.,他将再也不会受到真正的制裁。
+traveler:KID_KILLER2,@Yes. He ran off.,@对，他逃走了。
+traveler:KID_KILLER2,Ran off? Which way?,逃走了？逃去哪里？
+traveler:KID_KILLER2,@I do not know. Back into Kolechia.,@我不知道。也许回科洛奇亚了吧。
+traveler:KID_KILLER2,Damn it.,可恶。
+traveler:KID_KILLER2,@I have no photos.,@我没有什么照片。
+traveler:KID_KILLER2,Heartless bastard.,没有人性的混蛋。
+traveler:RESISTER,No.,不。
+traveler:RESISTER,I am not leaving.,我不离开。
+traveler:RESISTER,@You are delaying the line.,@你在拖延时间。
+traveler:RESISTER,I refuse!,我拒绝！
+traveler:RESISTER,You fools better to not touch me.,你这些笨蛋别碰我。
+traveler:RESISTER,I will explode like wild tiger.,我会大发雷霆。
+traveler:RESISTER,I have every right to enter Arstotzka.,我有权进入阿什托兹卡。
+traveler:RESISTER,You think I am joking but tiger does not joke.,你或许觉得我在说笑，但老虎是不会说笑的。
+traveler:RESISTER,Let me through!,让我过去！
+traveler:JOURNALIST_FIRST,I write report on conditions in Arstotzka.,我会写一份阿什托兹卡的报道。
+traveler:JOURNALIST_FIRST,As long as it takes.,会有人看到的。
+traveler:JOURNALIST_FIRST,@You are missing required papers.,@你没有所需要的许可证。
+traveler:JOURNALIST_FIRST,I am journalist.,我是记者
+traveler:JOURNALIST_FIRST,You have my pass there.,你拿了我的护照
+traveler:JOURNALIST_FIRST,This is outrage!,这叫愤怒
+traveler:JOURNALIST_FIRST,Why am I denied?,为什么我被拒绝
+traveler:JOURNALIST_FIRST,@Your press pass is worthless for entry.,@你的护照是无效的。
+traveler:JOURNALIST_FIRST,This is violation of rights.,这是侵犯合法权利。
+traveler:JOURNALIST_FIRST,I will not lay down for your corrupt abuses.,我不会屈服于你的公报私仇。
+traveler:JOURNALIST_FIRST,Expect to read about this!,期待你能读到它！
+traveler:JOURNALIST_FIRST,You are slowest inspector I have ever seen.,你是我见过的最迟缓的检查员。
+traveler:JOURNALIST_FIRST,No wonder Arstotzka is screwed.,难怪阿什托兹卡那么糟。
+traveler:JOURNALIST,I cover big story.,我有个天大的秘密。
+traveler:JOURNALIST,I cannot say.,我不能说
+traveler:JOURNALIST,"Maybe few days, maybe few weeks.",也许几天，也许几周。
+traveler:JOURNALIST,@You are missing required papers.,@你缺少必要的文件
+traveler:JOURNALIST,I am reporter and have right to enter.,我是记者，我有权利进入。
+traveler:JOURNALIST,Give me visa stamp.,给我签证。
+traveler:JOURNALIST,@This pass means nothing.,@这个护照是无效的。
+traveler:JOURNALIST,Fascist!,法西斯！
+traveler:JOURNALIST,Such inefficiency is stunning.,效率低得让人吃惊。
+traveler:FAMILIAR_FACE,Hey I know you.,嘿，我知道你。
+traveler:FAMILIAR_FACE,You are from Nirsk?,你来自尼尔斯科？
+traveler:FAMILIAR_FACE,I worked with your father for many years.,我和你父亲共事了多年。
+traveler:FAMILIAR_FACE,You were such a little brat.,你当时还是个小不点。
+traveler:FAMILIAR_FACE,I go back to Nirsk and tell them you are doing well here.,我回到尼尔斯科后会跟乡里说你做得很好。
+traveler:FAMILIAR_FACE,You are still brat.,你还是个小不点。
+traveler:FAMILIAR_FACE,Just not so little any more.,只是没那么小了。
+traveler:WATCH_GIVER0,I have only passport but hear me out.~,我只有护照但是听我说。~
+traveler:WATCH_GIVER0,There is little time. I must enter today.,没有时间了，我必须进去。
+traveler:WATCH_GIVER0,I come back in 3 days with right papers.~,我会在三天以后带着所需的证件回来。~
+traveler:WATCH_GIVER0,"To prove, I give you something important.",我会给你一些重要的东西作为证明。
+traveler:WATCH_GIVER0,Is special family treasure.~,这是独一无二的家传宝。~
+traveler:WATCH_GIVER0,Fully digital.~,全数码。
+traveler:WATCH_GIVER0,You hold as collateral.,放在你那里，当是抵押品。~
+traveler:WATCH_GIVER0,I will be back to pick it up.~,我会回来把它取回的。~
+traveler:WATCH_GIVER0,And take this.,还有，拿着这个。
+traveler:WATCH_GIVER0,All for green stamp.,都是为了绿印章啊。
+traveler:WATCH_GIVER0,@You are missing some papers.,@你缺了一些证件。
+traveler:WATCH_GIVER0,Yes I told you this.,对，我已经跟你说过了。
+traveler:WATCH_GIVER0,Arstotzkan bastard.,阿什托兹卡混蛋。
+traveler:WATCH_GIVER0,I am telling to you.,我跟你说。
+traveler:WATCH_GIVER0,Keep watch as promise.,你拿着手表，我保证。
+traveler:WATCH_GIVER0,I get it back in few days.,我几天后就取回它。
+traveler:WATCH_GIVER0,You crook!,你这个骗子！
+traveler:WATCH_GIVER0,All Arsotzkans are same.,阿什托兹卡人都一个样！
+traveler:WATCH_GIVER0,Liars and cheats!,骗子，鬼话连篇！
+traveler:WATCH_GIVER0,I will not leave without watch.,没有手表我就不走。
+traveler:WATCH_GIVER0,Is expensive gift from cousin!,这是堂哥送给我的昂贵礼物！
+traveler:WATCH_GIVER0,Only needs new battery.,只需要换新电池就能动了。
+traveler:WATCH_GIVER0,Tell guards to keep away.,叫守卫别碰它。
+traveler:WATCH_GIVER0,Give back my watch!,把表还给我！
+traveler:WATCH_GIVER0,Thank you.,谢谢。
+traveler:WATCH_GIVER0,I come back in few days to pick up watch.,几天后我会回来取我的表。
+traveler:WATCH_GIVER0,Damnit.,靠。
+traveler:WATCH_GIVER0,Fine. Give watch back.,行，给我表。
+traveler:WATCH_BUYER0,I used to have watch like that.,我也有过这样的表。
+traveler:WATCH_BUYER0,Sell it to me.,卖给我吧。
+traveler:WATCH_BUYER0,@It is held for someone.,@这是其他人的。
+traveler:WATCH_BUYER0,Give me break.,给我吧。
+traveler:WATCH_BUYER0,For sure he is not coming back.,他肯定不会回来了。
+traveler:WATCH_BUYER0,Let me take it off your hands.,那我从你手上取。
+traveler:WATCH_BUYER0,10 credits for it.,10 块钱。
+traveler:WATCH_BUYER0,Ah!,啊！
+traveler:WATCH_BUYER0,All digital!,全数字！
+traveler:WATCH_BUYER0,Is very nice.,真棒。
+traveler:WATCH_BUYER1,That watch.~,那只表~
+traveler:WATCH_BUYER1,Guy behind me in line would not shut up about it.,我后面那个人嘴里一直念叨个不停。
+traveler:WATCH_BUYER1,On and on about how important is to family.~,总是说这个对家庭多么重要~
+traveler:WATCH_BUYER1,Look.,看。
+traveler:WATCH_BUYER1,"Is good watch, I can see.",是只好表，看得出来。
+traveler:WATCH_BUYER1,I give you 20 credits for it right now.,我给你二十元买它。
+traveler:WATCH_BUYER1,He say he pay you back only 10 credits.,他说他只给你十元。
+traveler:WATCH_BUYER1,Is good deal here I offer you.,我这买卖很不错的。
+traveler:WATCH_BUYER1,Ah!,啊！
+traveler:WATCH_BUYER1,All digital!,全数字！
+traveler:WATCH_BUYER1,Is very nice.,非常好。
+traveler:WATCH_GIVER1,"As promised, I am back with right papers now.",我遵守了承诺，带着说好的证件回来了。
+traveler:WATCH_GIVER1,You have my watch?,我的表还在你那里吗？
+traveler:WATCH_GIVER1,Arstotzkan bastard.,阿什托兹卡混蛋。
+traveler:WATCH_GIVER1,I was to give you nice reward.,我本打算好好报答你的。
+traveler:WATCH_GIVER1,Ah she is beautiful!,啊，她很漂亮！
+traveler:WATCH_GIVER1,Here.,这里。
+traveler:WATCH_GIVER1,Now I just need battery.,现在我只需要电池就行了。
+traveler:WATCH_GIVER1,Hey!,喂！
+traveler:WATCH_GIVER1,There is new scratch here!,这里有一道新刮痕！
+traveler:WATCH_GIVER1,Give money back!,把钱还来！
+traveler:WATCH_GIVER1,Wow. You are pretty honest person.,哇，你这人还真诚实。
+traveler:WATCH_GIVER1,"You know, I cannot take this.",告诉你，我不能拿这个。
+traveler:WATCH_GIVER1,Scratch was there before actually.,那刮痕之前就已经有了。
+traveler:WATCH_GIVER1,Thank you.,谢谢你。
+traveler:WATCH_GIVER1,Now please give watch back.,现在请把我的表还来。
+traveler:WATCH_GIVER1,I start to think maybe all Arstotzkans are not so bad.,我开始觉得阿什托兹卡也不是尽是坏人。
+traveler:WATCH_GIVER1,Ah forget it.,啊，算了。
+traveler:WATCH_GIVER1,You keep money.,钱你拿着吧。
+traveler:WATCH_GIVER1,But all papers are good!,可是所有证件都没问题啊！
+traveler:WATCH_GIVER1,Are you blind?,你瞎了吗？
+traveler:WATCH_GIVER1,Fine.,好吧。
+traveler:WATCH_GIVER1,Give watch back.,把表还回来。
+traveler:WATCH_GIVER1,You crook!,你个骗子！
+traveler:WATCH_GIVER1,All Arsotzkans are same.,所有阿什托兹卡人都一样。
+traveler:WATCH_GIVER1,Liars and cheats!,说谎者和骗子！
+traveler:WATCH_GIVER1,I will not leave without watch.,没有手表我就不走
+traveler:WATCH_GIVER1,Is expensive gift from cousin!,这是表哥送我的昂贵礼物！
+traveler:WATCH_GIVER1,Only needs new battery.,只需要新电池。
+traveler:WATCH_GIVER1,Tell guards to keep away.,叫警卫别碰它。
+traveler:WATCH_GIVER1,Give back my watch!,把手表还给我！
+traveler:WATCH_GIVER1,I will not leave without money.,钱不还我我就不走。
+traveler:WATCH_GIVER1,You ruin my good watch.,你弄坏了我的手表。
+traveler:WATCH_GIVER1,Give back my money!,把钱还给我！
+traveler:WATCH_GIVER1,Where is my watch?,我的手表在哪里？
+traveler:WATCH_GIVER1,@I sold it.,@我把它卖了。
+traveler:WATCH_GIVER1,What!,什么！
+traveler:WATCH_GIVER1,I give you watch to hold.,我让你看管我的手表。
+traveler:WATCH_GIVER1,Put trust in you!,信任了你！
+traveler:WATCH_GIVER1,Watch was gift from cousin.,这手表是表哥给我的礼物。
+traveler:WATCH_GIVER1,I hope you got good money for it.,我希望你有足够的钱来赔它。
+traveler:WATCH_GIVER1,Damn Arstotzkan crook.,该死的阿什托兹卡骗子。
+traveler:ARSKICKER0,Hey man.,嗨，老兄。
+traveler:ARSKICKER0,I lost id card.,我的身份证丢了。
+traveler:ARSKICKER0,I think someone stole it from locker room.,我觉得是有人从更衣室把它给偷走了。
+traveler:ARSKICKER0,But we won match!,但我们赢了比赛！
+traveler:ARSKICKER0,Can't wait to get home.~,等不及要回家了。~
+traveler:ARSKICKER0,"I have carried this for years, maybe you take it.",我已经带着这个很多年了，你就笑纳吧。
+traveler:ARSKICKER0,@Your Arstotzkan id card is missing.,@你的阿什托兹卡身份证丢失了。
+traveler:ARSKICKER0,I know man. I told you.,我知道。我告诉过你的。
+traveler:ARSKICKER0,It was stolen.,它被偷走了。
+traveler:ARSKICKER0,C'mon let me through.,拜托让我通过吧。
+traveler:ARSKICKER0,"Thanks bud, is good to be home!",谢了哥们，回家真好！
+traveler:ARSKICKER0,Hey bullshit!,嘿，放屁！
+traveler:ARSKICKER0,I gave you pennant even!,我甚至给过你锦旗！
+traveler:ARSKICKER0,Gonna tell coach about this crap.,我要把这事告诉教练。
+traveler:ARSKICKER1,Hi again.,又见面了。
+traveler:ARSKICKER1,Remember me?,还记得我吗？
+traveler:ARSKICKER1,Go Arskickers!,阿什踢菊队加油！
+traveler:ARSKICKER1,I give you that great banner.~,我给你那面伟大旗帜。~
+traveler:ARSKICKER1,"Listen, I tell my coach about this.",听着，我会告诉我的教练这件事的。
+traveler:ARSKICKER1,He get very upset.,他很心烦。
+traveler:ARSKICKER1,"Say if I do not get banner back, I lose front seat on team bus.~",如果我没有得到旗帜就回来，我就失去了球队大巴的前排座位。~
+traveler:ARSKICKER1,"All seats good, but front seat definitely best.",所有座位都很好，但前排座椅绝对是最好的。
+traveler:ARSKICKER1,So I really just need banner back.,所以，只需要将旗帜赢回来。
+traveler:ARSKICKER1,What you say?,你说什么？
+traveler:ARSKICKER1,Lousy fan!,糟糕的粉丝！
+traveler:ARSKICKER1,Ah thanks!,感谢啊！
+traveler:ARSKICKER1,Do not forget to root for us!,不要忘了为我们加油！
+traveler:ARSKICKER1,Ah good.,啊，很好。
+traveler:ARSKICKER1,It is more beaten up than I remember.,比我记忆中打得还要惨。
+traveler:ARSKICKER1,Even there is big tear here.,连那儿都流下了眼泪。
+traveler:ARSKICKER1,What did you do?,你做了什么？
+traveler:ARSKICKER1,Oh well. Coach should be happy.,哦，好吧。教练应该会很高兴。
+traveler:ARSKICKER1,Alright that is great yeah.,哦这太棒了。
+traveler:ARSKICKER1,But where is banner?,但是，旗帜在哪里？
+traveler:ARSKICKER1,Thanks bud!,谢了哥们！
+traveler:ARSKICKER1,Do not forget to root for us at regionals.,不要忘了在地区赛里为我们加油。
+traveler:ARSKICKER1,Ok. Well.,好吧。好吧。
+traveler:ARSKICKER1,That is messed up.,这是搞砸了。
+traveler:ARSKICKER1,At least you give banner back right?,至少你能把旗帜还回来吧？
+traveler:ARSKICKER1,At least you give banner back.,你至少能把旗帜还回来。
+traveler:ARSKICKER1,@The banner is mine now.,@现在旗帜是我的了。
+traveler:ARSKICKER1,Oh boy.,哦天哪。
+traveler:ARSKICKER1,Such an asshole here.,真是个混蛋。
+traveler:ARSKICKER1,"If guards do not kill me, coach will.",就算警卫没杀了我，教练也会的。
+traveler:BUSTED_SPY,I have not much time.,我的时间不多。
+traveler:BUSTED_SPY,You must hold on to these.,你必须拿好这些。
+traveler:BUSTED_SPY,Keep them safe today.,保证他们今天的安全。
+traveler:BUSTED_SPY,I am being followed by an imposter.,我正在被一个骗子跟踪。
+traveler:BUSTED_SPY,They pretend to be from the Ministry of Information but it is a lie.,他们假装是从信息部来的，但他们在说谎。
+traveler:BUSTED_SPY,"If they ask for documents, give these instead.",如果他们要求拿文件，就用这些来代替。
+traveler:BUSTED_SPY,Do not mix them up.,不要把两者混淆。
+traveler:BUSTED_SPY_FOLLOWER,@Your papers?,@你的文件？
+traveler:BUSTED_SPY_FOLLOWER,I am from the Ministry of Information.,我是从信息部来的。
+traveler:BUSTED_SPY_FOLLOWER,You have something to give us.,你有东西要给我们。
+traveler:BUSTED_SPY_FOLLOWER,Perfect.,非常好。
+traveler:GYM_INSTRUCTOR,You are skin and bones.,你都皮包骨了。
+traveler:GYM_INSTRUCTOR,Bet you have no real strength.,我敢打赌你没什么力量。
+traveler:GYM_INSTRUCTOR,"Come to gym, I make you big.",来健身房吧，我会让你变成大块头的。
+traveler:GYM_INSTRUCTOR,I guarantee you get big at Get Big Town.,我保证你会在大力城里变成大块头的。
+traveler:GYM_INSTRUCTOR,Is what we do.,这就是我们要做的。
+traveler:GYM_INSTRUCTOR,Denied? Hah.,拒绝？哈。
+traveler:GYM_INSTRUCTOR,This is what I expect from skinny weakling.,我就猜到瘦小挫逼会这么干。
+traveler:OLD_INSPECTOR,I used to be an inspector like you.,我曾经和你一样，是一名检查员。
+traveler:OLD_INSPECTOR,Many years ago. Back in United Fed.~,许多年前。在联邦调查局。~
+traveler:OLD_INSPECTOR,We denied most people.~,我们拒绝了大多数人。~
+traveler:OLD_INSPECTOR,It is all done by computers now.,现在这活儿都由电脑做了。
+traveler:OLD_INSPECTOR,They can deny much faster that way.,这样他们可以更快地拒绝别人入境。
+traveler:OLD_INSPECTOR,Good luck.,祝你好运。
+traveler:OLD_INSPECTOR,I do not miss it.,我不想念它。
+traveler:OLD_INSPECTOR,What? Why am I denied?~,什么？我为什么要被拒绝？~
+traveler:OLD_INSPECTOR,So this is what it feels like.~,原来被拒绝的感觉是这样的。~
+traveler:OLD_INSPECTOR,@Where is entry permit?,@入境许可在哪里？
+traveler:OLD_INSPECTOR,"Eh, it does not matter what I say.",嗯，我说什么没有关系。
+traveler:OLD_INSPECTOR,Just deny the visa and I will go.,刚刚拒绝了签证，我会去的。
+traveler:RED_STAMP,Red stamp.,拒签。
+traveler:RED_STAMP,@What?,@什么？
+traveler:RED_STAMP,Give me red stamp.,拒签我。
+traveler:RED_STAMP,I am serious.,我是认真的。
+traveler:RED_STAMP,I have better job offer in Impor.,我在印玻有更好的工作机会。
+traveler:RED_STAMP,Red stamp and I can break contract in Arstotzka.,有了拒签章，我就可以在阿什托兹卡打破合同。
+traveler:RED_STAMP,10 credits for you.,给你10块钱。
+traveler:RED_STAMP,Damn it.,该死。
+traveler:RED_STAMP,I am sure you deny people all day.,我想你应该整天都在拒绝别人。
+traveler:RED_STAMP,Why not now?,为什么不是现在？
+traveler:RED_STAMP,I figure something else out.,我想到了一些其他的事情。
+traveler:RED_STAMP,"Ok, now I get free from this bad job.",好了，现在我能摆脱这种烂工作。
+traveler:RED_STAMP,Thanks.,谢谢。
+traveler:NEED_SURGERY,I come for medical reasons.,我是为医疗原因而来的。
+traveler:NEED_SURGERY,@Your papers are missing.,@你的文件不见了。
+traveler:NEED_SURGERY,Please.,求你。
+traveler:NEED_SURGERY,Surgery I need is outlawed in Kolechia.,我需要做的手术在科洛奇亚是被禁止的。
+traveler:NEED_SURGERY,"Even so, I do not trust doctors there.",即便如此，我也不相信那里的医生。
+traveler:NEED_SURGERY,Only Arstotzka have skilled surgeons.,只有阿什托兹卡有熟练的外科医生。
+traveler:NEED_SURGERY,@You do not have the right documents.,@你没有正确的文件。
+traveler:NEED_SURGERY,Yes.,是。
+traveler:NEED_SURGERY,They will not give papers for surgery.,他们不会为了手术而给我文件的。
+traveler:NEED_SURGERY,Thank you. I will not forget this.,谢谢。我不会忘记这个。
+traveler:NEED_SURGERY,I expected this.,我期待这个。
+traveler:NEED_SURGERY,I do not know how long I survive.,我不知道我还能活多久。
+traveler:NEED_SURGERY,But you do not care.~,但你不在乎。~
+traveler:NEED_SURGERY,I hope you are not in same place as me.,我希望你的处境和我不同。
+traveler:LOVE_SONG,I will leave this here.,我就把这留在你这里。
+traveler:LOVE_SONG,Great!,太棒了！
+traveler:LOVE_SONG,You really super guy!~,你真是太棒了！~
+traveler:LOVE_SONG,Can I have note back now?,我可以收回我的评语吗？
+traveler:LOVE_SONG,I need it for next inspector.,我需要把它给下一个检查员。
+traveler:LOVE_SONG,But I give you such lovely note!,但是我给了你这么好的评语！
+traveler:LOVE_SONG,"Thanks and like I say, you super guy.",谢谢，就像我说的，你是个大好人。
+traveler:LOVE_SONG,Do not forget.,不要忘记。
+traveler:LOVE_SONG,Is too much?,太多了吗？
+traveler:LOVE_SONG,@Yes.,@是的。
+traveler:LOVE_SONG,Is too much. I can see that now.,实在是太多了。我现在就可以看得出来。
+traveler:LOVE_SONG,Next time I make couple copies first.,下一次，我先弄几份拷贝来。
+traveler:LOVE_SONG_LONELY,Life sucks.,生活糟透了。
+traveler:LOVE_SONG_LONELY,Nobody loves me.,没人喜欢我。
+traveler:LOVE_SONG_LONELY,For me?,给我的吗？
+traveler:LOVE_SONG_LONELY,Like fire?,像火一样的？
+traveler:LOVE_SONG_LONELY,Object of desire?,渴求的对象？
+traveler:LOVE_SONG_LONELY,"Wow, nobody say such nice things!",哇，没人说过这么美好的话！
+traveler:LOVE_SONG_LONELY,Part about visa is confusing but rest is very powerful.,关于签证的部分让人感到迷惑，但其余的都很厉害。
+traveler:LOVE_SONG_LONELY,Thank you!,谢谢！
+traveler:LOVE_SONG_LONELY,Thank you again!,再次感谢您！
+traveler:LOVE_SONG_LONELY,Thanks I guess.,谢谢，我猜。
+traveler:LOVE_SONG_LONELY,No problem!,没问题！
+traveler:LOVE_SONG_LONELY,Today is good day anyway!,今天真是美好的一天呢！
+traveler:LOVE_SONG_LONELY,Even you hate me.,即使你恨我。
+traveler:LOVE_SONG_LONELY,Some guy I do not even know.,我连认识都不认识的人。
+traveler:KOLECHIAN_HATER,It was a mistake to open this checkpoint.,开放这个边检站是一个错误。
+traveler:FINALLY_RETURN_HOME,Finally I can return home.,我终于可以回家了。
+traveler:FINALLY_RETURN_HOME,You bastard.,你这个混蛋。
+traveler:FINALLY_RETURN_HOME,Thank you.,谢谢。
+traveler:SMALL_CHECKPOINT,This checkpoint is smaller than I expected.,这个检查站比我预想的要小。
+traveler:WAITED_FOREVER,I have waited in this damn line since for 8 hours.,我已经在这该死的队伍里等了8小时了。
+traveler:WAITED_FOREVER,I hope it was worth it.,我希望这是值得的。
+traveler:WAITED_FOREVER,Unbelievable. Go to hell.,难以置信。下地狱去吧。
+traveler:HURRY_UP,Hurry up.,快点。
+traveler:HURRY_UP,I am meeting bus soon.,我马上要赶巴士。
+traveler:HURRY_UP,What is this?,这是什么？
+traveler:HURRY_UP,Finally.,终于。
+traveler:GLAD_YOU_HAVE_JOB,I heard about terrorist attack.,我听说了恐怖袭击。
+traveler:GLAD_YOU_HAVE_JOB,You are lucky to have a job still.,你是幸运的，仍旧有工作。
+traveler:GLAD_YOU_HAVE_JOB,Be safe.,保重。
+traveler:TICKET_NOT_PERMIT,What? I do not know. To visit?,什么？我不知道。参观？
+traveler:TICKET_NOT_PERMIT,A few days maybe.,说不定几天吧。
+traveler:TICKET_NOT_PERMIT,Entry permit? I have ticket here.,入境许可？我这里有准入券。
+traveler:TICKET_NOT_PERMIT,Let me through.,让我通过。
+traveler:TICKET_NOT_PERMIT,@Ticket is not enough any more.,@现在仅仅有券已经不行了。
+traveler:TICKET_NOT_PERMIT,@Get a permit.,@获取一份许可。
+traveler:TICKET_NOT_PERMIT,Bullshit!,放屁！
+traveler:TICKET_NOT_PERMIT,I paid good money for ticket.,这准入券花了我好多钱。
+traveler:VISIT_SON,I am so happy that the border has opened.,我很高兴的是，边界已经打开。
+traveler:VISIT_SON,I will visit my son. I have not seen him in six years. [Speech/Purpose],我要去见我的儿子。我已经六年没见过他了。[口才/目的]
+traveler:VISIT_SON,6 months. [Speech/Duration],6个月。[口才/时间]
+traveler:VISIT_SON,"Please, let me pass. My son is waiting.",请让我过去。我的儿子在等我呢。
+traveler:VISIT_SON,Thank you.,谢谢。
+traveler:VISIT_SON,Curse you.,诅咒你。
+traveler:DETAIN_FIRST,Hey wait.,嘿，等等。
+traveler:DETAIN_FIRST,"Do not arrest me, please.",请不要抓我。
+traveler:DETAIN_FIRST,Just deny my passport and I will go away.,我的护照刚被拒，我会走开的。
+traveler:HATE_COUNTRY,It is not my choice. I hate this damn country.,这不是我的选择。我恨这个该死的国家。
+traveler:HATE_COUNTRY,I am just passing through. [Speech/Purpose],我只是路过。[口才/目的]
+traveler:HATE_COUNTRY,As little as possible. 2 days. [Speech/Duration],尽可能少。2天。[口才/时间]
+traveler:HATE_COUNTRY,Ugh.,呃。
+traveler:HATE_COUNTRY,Just as well.,无妨。
+traveler:SEARCH_BRIBE_INTRO,Slow down my friend.,慢点，我的朋友。
+traveler:SEARCH_BRIBE_INTRO,I have only harmless medicine.,我只有无害的药物。
+traveler:SEARCH_BRIBE_INTRO,I give you 10 credits to let me through.,我给你10块钱，让我通过。
+traveler:SEARCH_BRIBE_INTRO,Excellent.,太好了。
+traveler:SEARCH_BRIBE_INTRO,As I promised.,就像我承诺的那样。
+traveler:SEARCH_BRIBE_INTRO,Why you turn down good money?,为什么你要拒绝钱？
+traveler:SEARCH_BRIBE_INTRO,@You are lucky to escape arrest.,@你很幸运，逃脱了逮捕。
+traveler:SEARCH_BRIBE_INTRO,@Do not come back.,@别回来了。
+traveler:SEARCH_BRIBE_INTRO,@You cannot bribe an officer of Arstotzka.,@你不能贿赂阿什托兹卡官员。
+traveler:SEARCH_BRIBE_INTRO,"They must pay well for such obedience, dog.",他们一定给你很多钱让你这么听话，贱狗。
+traveler:TWO_PASSPORTS,Shit!,妈的！
+traveler:TWO_PASSPORTS,I make small mistake.,我犯了个小错误。
+traveler:TWO_PASSPORTS,Please give documents back.,请将文件还回来。
+traveler:TWO_PASSPORTS,@Why do you have two passports?,@你为什么有两本护照？
+traveler:TWO_PASSPORTS,Is funny story.,这是个有趣的故事。
+traveler:TWO_PASSPORTS,I tell you everything.,我会把一切都告诉你。
+traveler:TWO_PASSPORTS,"First, you give papers back to me.",首先，你得把文件还给我。
+traveler:TWO_PASSPORTS,And the others?,那其他人呢？
+traveler:TWO_PASSPORTS,Last one please.,下一位有请。
+traveler:IDSUPPLEMENT_COMPLAIN,This id supplement is total pain.,这个临时身份证太折腾人了。
+traveler:IDSUPPLEMENT_COMPLAIN,Was not easy to get and only lasts few days.,它很不容易弄到，并且只能持续几天。
+traveler:IDSUPPLEMENT_COMPLAIN,You Arstotzkans just make it harder and harder.,你们阿什托兹卡人让事情变得越来越困难。
+traveler:IDSUPPLEMENT_COMPLAIN,Why even have open border?,为什么还要开放边境呢？
+traveler:IDSUPPLEMENT_COMPLAIN,Bah.,呸。
+traveler:IDSUPPLEMENT_COMPLAIN,Would be better to spend money on bribe.,倒不如把钱花在贿赂上。
+traveler:IDSUPPLEMENT_COMPLAIN,Less trouble and faster.,少一些麻烦，速度还更快。
+traveler:IDSUPPLEMENT_COMPLAIN,I knew it would not even work.,我就知道它根本不会管用。
+traveler:CRIMINAL_FIRST,@Funny to see you here.,@在这里见到你真有趣。
+traveler:CRIMINAL_FIRST,@Just when starting to look for criminals.,@正当我刚要去找罪犯的时候。
+traveler:CRIMINAL_FIRST,Criminals?,罪犯？
+traveler:CRIMINAL_FIRST,What are you saying?,你在说什么？
+traveler:DENIAL_REASON_FIRST,Denied?,被拒绝了？
+traveler:DENIAL_REASON_FIRST,For what reason?,为什么？
+traveler:DENIAL_REASON_FIRST,@It is clearly stamped there.,@它清晰地印在那里。
+traveler:DENIAL_REASON_FIRST,Oh.~,哦。?
+traveler:DENIAL_REASON_FIRST,Screw you anyways.,去你的。
+traveler:NO_IMPORIANS_FIRST,@Imporians are prohibited from entering.,@印玻人禁止入内。
+traveler:NO_IMPORIANS_DAY,@Imporians are prohibited from entering.,@印玻人禁止入内。
+traveler:NO_UNITEDFED_FIRST,@Do not bring your sickness to Arstotzka.,@不要把你的病传给阿什托兹卡人。
+traveler:NO_UNITEDFED_FIRST,What?,什么？
+traveler:NO_UNITEDFED_FIRST,I am perfectly healthy.,我非常健康。
+traveler:NO_UNITEDFED_FIRST,It is so easy to deny entry.,这么轻易就拒绝入境了。
+traveler:NO_UNITEDFED_FIRST,All this paperwork is wasted.,所有这一切文件都没用了。
+traveler:NO_UNITEDFED,@Do not bring your sickness to Arstotzka.,@不要把你的病传给阿什托兹卡。
+traveler:NO_UNITEDFED,What?,什么？
+traveler:NO_UNITEDFED,I am perfectly healthy.,我非常健康。
+traveler:NO_UNITEDFED,It is so easy to deny entry.,这么轻易就拒绝入境了。
+traveler:NO_UNITEDFED,All this paperwork is wasted.,所有这一切文件都没用了。
+traveler:CONFISCATION_DISTRICT_FIRST,Thank you. It is good to be back home.,谢谢你。回家真好。
+traveler:CONFISCATION_DISTRICT_FIRST,I am leaving for trip soon so I just need my passport back.,我马上就要出去旅行，所以我需要把我的护照拿回来。
+traveler:CONFISCATION_DISTRICT_FIRST,@It is being confiscated.,@它被没收了。
+traveler:CONFISCATION_DISTRICT_FIRST,What do you mean?,你是什么意思？
+traveler:CONFISCATION_DISTRICT_FIRST,@Contact number on slip for recovery.,@联系纸条上的电话来取回你的护照。
+traveler:CONFISCATION_DISTRICT_FIRST,You can just hand it back.,你可以直接把它拿回来。
+traveler:CONFISCATION_DISTRICT_FIRST,@It has been filed. I cannot give it back.,@它已经被提交了。我不能把它还给你。
+traveler:CONFISCATION_DISTRICT_FIRST,I am not leaving without passport.,护照不给我我就不走。
+traveler:CONFISCATION_DISTRICT_FIRST,Where is my passport?,我的护照在哪里？
+traveler:CONFISCATION_DISTRICT_FIRST,You deny entry and take passport?,你拒绝入境，还要拿走护照？
+traveler:CONFISCATION_DISTRICT_FIRST,What am I supposed to do?,我该怎么办？
+traveler:CONFISCATION_DISTRICT_FIRST,@Contact number on slip.,@联系纸条上的电话。
+traveler:CONFISCATION_DISTRICT_FIRST,You cannot do this to me!,你不能这样对我！
+traveler:CONFISCATION_DISTRICT_FIRST,I am Arstotzkan citizen.,我是阿什托兹卡公民。
+traveler:CONFISCATION_DISTRICT_FIRST,I have right to travel freely.,我有权利自由旅行。
+traveler:WHISTLEBLOWER,Thank you.,谢谢。
+traveler:WHISTLEBLOWER,I hope that things are better here.,我希望这里的情况更好一些。
+traveler:WHISTLEBLOWER,What? I was promised asylum here.,什么？我被承诺说能在这里得到庇护。
+traveler:WHISTLEBLOWER,I have nowhere else to go.,我无处可去。
+traveler:WHISTLEBLOWER,@This is not my problem.,@这不是我的问题。
+traveler:ACCESSPERMIT_FIRST,You Arstotzkans keep changing rules here.,你们阿什托兹卡人一直都在更改规则。
+traveler:ACCESSPERMIT_FIRST,My sister came through last week with different documents.,上周我姐姐带着不同的文件过来。
+traveler:ACCESSPERMIT_FIRST,Now I need new access permit.,现在我需要新的访问许可证。
+traveler:ACCESSPERMIT_FIRST,Costs twice as much as before.,花的钱是之前的两倍。
+traveler:ACCESSPERMIT_WRONG,What the hell is access permit?,访问许可证是什么意思？
+traveler:ACCESSPERMIT_WRONG,Do you mean entry permit?,你是说入境许可证吗？
+traveler:ACCESSPERMIT_WRONG,I have it there.,这个我有啊。
+traveler:ACCESSPERMIT_WRONG,@I mean access permit.,@我的意思是访问许可证。
+traveler:ACCESSPERMIT_WRONG,Never heard of it. Sounds stupid.,从来没有听说过。听起来很蠢。
+traveler:ACCESSPERMIT_WRONG,@Entry permit and supplement are no longer accepted.,@不再受理入境许可证和补充。
+traveler:ACCESSPERMIT_WRONG,@Access permit replaces them.,@用访问许可证来替代它们。
+traveler:ACCESSPERMIT_WRONG,@Makes my job easier.,@能使我的工作更轻松。
+traveler:ACCESSPERMIT_WRONG,I do not care about your job.,我不关心你的工作。
+traveler:ACCESSPERMIT_WRONG,Damnit.,该死。
+traveler:STRICT_BORDER,I've heard this is very strict checkpoint.,我听说这是个非常严格的检查点。
+traveler:STRICT_BORDER,I am glad my papers are in order.,我很高兴我的文件没问题。
+traveler:DESPERATE_BEFORECLOSE,I have heard the border will close.,我听说边境要关闭了。
+traveler:DESPERATE_BEFORECLOSE,My access permit will not arrive in time.,我无法及时拿到我的访问许可证。
+traveler:DESPERATE_BEFORECLOSE,Please have mercy.,请行行好吧。
+traveler:DESPERATE_BEFORECLOSE,Yes I know. I just told you that.,是的，我知道。我只是告诉你这点。
+traveler:DESPERATE_BEFORECLOSE,I am afraid the border will close before I can enter.,恐怕在我入境之前边境就将关闭。
+traveler:WALLCOMMENT_PLAQUEONE,What is this plaque on the wall?,墙上的这个牌匾是什么？
+traveler:WALLCOMMENT_PLAQUEONE,You are recognized for presence?,你因出勤率受到表扬？
+traveler:WALLCOMMENT_PLAQUEONE,Way to go.,好样的。
+traveler:WALLCOMMENT_PLAQUEONE,What is this on the wall?,墙上是什么东西？
+traveler:WALLCOMMENT_PLAQUEONE,Recognized for sufficience?,你因工作称职受到表扬？
+traveler:WALLCOMMENT_PLAQUEONE,Impressive. Why even bother with plaque?,令人印象深刻。为什么还要放块牌匾呢？
+traveler:WALLCOMMENT_PLAQUEONE,You are recognized for excellence?,你因工作出色受到表扬？
+traveler:WALLCOMMENT_PLAQUEONE,I hope they give you raise and not just plaque.,我希望他们给你加薪，而不只是给块牌匾。
+traveler:WALLCOMMENT_PLAQUEONE,Find a better plaque.,去找一块更好的牌匾。
+traveler:WALLCOMMENT_PLAQUEONE,This one looks like cheap shit.,这一块看起来就跟廉价垃圾似的。
+traveler:WALLCOMMENT_PLAQUEONE,Figures.,图形
+traveler:WALLCOMMENT_PLAQUEONE,You are like this plaque.,你就跟这牌匾似的。
+traveler:WALLCOMMENT_PLAQUEONE,Cheap shit.,廉价的垃圾。
+traveler:WALLCOMMENT_PLAQUEONE,What the hell?,搞什么？
+traveler:WALLCOMMENT_ARSKICKER,Nice banner!,漂亮的旗帜！
+traveler:WALLCOMMENT_ARSKICKER,I remember that game.,我记得那场比赛。
+traveler:WALLCOMMENT_ARSKICKER,Intense.,非常激烈。
+traveler:WALLCOMMENT_ARSKICKER,Go Arskickers!,阿什踢菊队加油！
+traveler:WALLCOMMENT_ARSKICKER,What the hell?,搞什么啊？
+traveler:WALLCOMMENT_ARSKICKER,I thought we have Arskickers connection.,我还以为我们在阿什踢菊队里有关系呢。
+traveler:WALLCOMMENT_SONDRAWING,What is this drawing on the wall?,墙上的图画是什么？
+traveler:WALLCOMMENT_SONDRAWING,My dog can do better.,我的狗都能画得更好看。
+traveler:WALLCOMMENT_SONDRAWING,@It is from my son.,@这是我儿子画的。
+traveler:WALLCOMMENT_SONDRAWING,Oh.~,哦。~
+traveler:WALLCOMMENT_SONDRAWING,Maybe he should try sports.,或许他应该去尝试一下运动。
+traveler:WALLCOMMENT_SONDRAWING,Thanks.,谢谢。
+traveler:WALLCOMMENT_SONDRAWING,The drawing is not so bad really.,这画其实没那么糟糕。
+traveler:WALLCOMMENT_SONDRAWING,I was just in rough mood. Sorry.,我只是心情不太好。抱歉。
+traveler:WALLCOMMENT_SONDRAWING,Huh?,呵？
+traveler:WALLCOMMENT_SONDRAWING,"You deny me for comment about drawing, right?",你因为我对绘画的评论而拒绝我，对吗？
+traveler:WALLCOMMENT_SONDRAWING,@The exit is to your right.,@出口在你右手边。
+traveler:WALLCOMMENT_SONDRAWING,What are you doing?,你在干什么？
+traveler:WALLCOMMENT_SONDRAWING,Is this because I make fun of drawing?,这是不是因为我取笑绘画的原因？
+traveler:WALLCOMMENT_SONDRAWING,I take it back!,我收回那句话！
+traveler:WALLCOMMENT_SONDRAWING,Picture should be in museum!,画作应该放在博物馆里！
+traveler:WALLCOMMENT_FAMILYPHOTO,I like picture on wall here.,我喜欢这墙上挂着的画作。
+traveler:WALLCOMMENT_FAMILYPHOTO,Reminds me of how my family was.,让我想起了自己的家人是什么样子的。
+traveler:WALLCOMMENT_FAMILYPHOTO,Thank you.,谢谢。
+traveler:WALLCOMMENT_FAMILYPHOTO,Take care of your family.,照顾好你的家人。
+traveler:WALLCOMMENT_FAMILYPHOTO,It is too easy to lose them.,他们太容易失去了。
+speech:ask-purpose,What is the purpose of your trip?,你为什么来这里？
+speech:state-purpose,Visiting.,旅游。
+speech:state-purpose,Just visiting.,只是旅游。
+speech:state-purpose,I am visiting relatives.,我来拜访亲戚。
+speech:state-purpose,Visiting friends.,拜访朋友。
+speech:state-purpose,I come for visit.,我是来旅游的。
+speech:state-purpose,Only to visit.,只是来旅游的。
+speech:state-purpose,I will visit friends.,我想拜访朋友。
+speech:state-purpose,Transit.,从这中转一下。
+speech:state-purpose,I pass through.,我打这里经过。
+speech:state-purpose,Transit through the country.,从这个国家中转一下。
+speech:state-purpose,I am transiting to elsewhere.,我从这个国家中转到其他地方。
+speech:state-purpose,Transit through Arstotzka.,从阿什托兹卡中转。
+speech:state-purpose,Passing through.,中转而已。
+speech:state-purpose,I am in transit.,我从这里中转到其他地方。
+speech:state-purpose,Work.,工作。
+speech:state-purpose,I come to work.,我是来打工的。
+speech:state-purpose,I have job here.,我在这上班。
+speech:state-purpose,I plan to work.,我打算在这里工作。
+speech:state-purpose,Immigrating.,移民。
+speech:state-purpose,I am immigrating to Arstotzka.,我正移民到阿什托兹卡。
+speech:state-purpose,I will move here.,我要搬到这里。
+speech:state-purpose,I am coming to live with my husband.,我来这里与我丈夫团聚。
+speech:state-purpose,I am coming to live with my wife.,我来这里与我妻子团聚。
+speech:state-purpose,I am diplomatic envoy.,我是外交使节。
+speech:state-purpose,I was called to diplomatic discussions.,我被召来商讨外交事宜。
+speech:state-purpose,My presence was requested.,有人召我来的。
+speech:state-purpose,I am seeking asylum.,我在寻求避难。
+speech:state-purpose,I come for political asylum.,我是来政治避难的。
+speech:state-purpose,Asylum.,避难。
+speech:ask-wrong-purpose,This entry permit is for work.,这个入境许可是工作许可。
+speech:ask-wrong-purpose,You are authorized for transit only.,你只获得中转的许可。
+speech:ask-wrong-purpose,You have only a visitors entry permit.,你只有旅游的入境许可。
+speech:ask-wrong-purpose,This entry permit is for immigrating.,这个入境许可仅用来移民。
+speech:ask-wrong-purpose,Your entry purpose does not match up.,你的入境意图不相符。
+speech:ask-wrong-purpose,This entry permit purpose does not match.,这个入境许可上所写的意图不相符。
+speech:mistake-prefix,Right.,对。
+speech:mistake-prefix,I make mistake.,我搞错了。
+speech:mistake-prefix,"Yes, of course."," of course."",是的，当然。"""
+speech:mistake-prefix,Apologies.,对不起。
+speech:wrong-purpose,$mistake-prefix I am just visiting.,$mistake-prefix 我只是来旅游的。
+speech:wrong-purpose,$mistake-prefix I just pass through.,$mistake-prefix 我只是打这路过。
+speech:wrong-purpose,$mistake-prefix I have come to work.,$mistake-prefix 我是来打工的。
+speech:wrong-purpose,$mistake-prefix I move here permanently.,$mistake-prefix 我搬到这里来定居。
+speech:ask-duration,Duration of stay?,在这停留多长时间？
+speech:random-stay,I stay,我呆
+speech:random-stay,I remain for,我准备呆
+speech:random-stay,It will be,我打算呆
+speech:state-duration,$random-stay forever.,$random-stay 在这不走了。
+speech:state-duration,$random-stay until I die.,$random-stay 到死为止。
+speech:state-duration,I don't plan to leave.,我不打算离开了。
+speech:state-duration,$random-stay just 2 days.,$random-stay 2天而已。
+speech:state-duration,$random-stay couple days.,$random-stay 几天时间。
+speech:state-duration,$random-stay just 14 days.,$random-stay 14天。
+speech:state-duration,$random-stay couple weeks.,$random-stay 几周。
+speech:state-duration,$random-stay only two weeks.,$random-stay 2周而已。
+speech:state-duration,$random-stay 30 days.,$random-stay 30天。
+speech:state-duration,$random-stay a few weeks.,$random-stay 几星期。
+speech:state-duration,$random-stay one month.,$random-stay 一个月。
+speech:state-duration,$random-stay 60 days.,$random-stay 60天。
+speech:state-duration,$random-stay 8 weeks.,$random-stay 8个星期。
+speech:state-duration,$random-stay couple months.,$random-stay 几个月。
+speech:state-duration,$random-stay two months.,$random-stay 2个月。
+speech:state-duration,$random-stay 90 days.,$random-stay 90天。
+speech:state-duration,$random-stay 12 weeks.,$random-stay 12周。
+speech:state-duration,$random-stay three months.,$random-stay 3个月。
+speech:state-duration,$random-stay a few months.,$random-stay 几个月。
+speech:state-duration,$random-stay six months.,$random-stay 6个月。
+speech:state-duration,$random-stay half a year.,$random-stay 半年。
+speech:state-duration,$random-stay one year.,$random-stay 一年。
+speech:state-duration,$random-stay full year.,$random-stay 一整年。
+speech:state-duration,$random-stay a year.,$random-stay 一年。
+speech:ask-wrong-duration,The length of your stay is different.,你逗留的时间不一致。
+speech:wrong-duration,$mistake-prefix $state-duration,$mistake-prefix $state-duration
+speech:ask-forgery-missing,This document is missing its seal.,这份证件没有盖章。
+speech:ask-forgery-missing,There is no seal here.,这里没有印章。
+speech:ask-forgery-missing,I do not see the required seal here.,这里缺少必要的印章。
+speech:ask-forgery-wrong,This document is forged.,这份证件是伪造的。
+speech:ask-forgery-wrong,This is a forgery.,这是假的。
+speech:ask-forgery-idcard,This card contains false information.,这张卡上有虚假信息。
+speech:ask-forgery-diplo,This seal is forged.,这印章是伪造的。
+speech:ask-forgery-diplo,This seal is not correct.,这印章不对。
+speech:ask-forgery-asylumgrant,This seal is forged.,这印章是伪造的。
+speech:ask-forgery-asylumgrant,This grant is not sealed properly.,这份许可的印章盖得不对。
+speech:ask-wrong-birthdate,These dates do not match.,这些日期不相符。
+speech:forgery,I have no idea what you are talking about.,我不知道你在说什么。
+speech:forgery,I do not know anything about that.,这个我一点也不清楚。
+speech:forgery,I do not understand.,我不明白。
+speech:ask-expired-paper,This document has expired.,这份证件过期了。
+speech:ask-expired-paper,You cannot enter using an expired document.,你不能用一份过期的证件入境。
+speech:expired-permit,I could not come until now.,我直到现在才有机会来。
+speech:expired-permit,I was busy.,我之前很忙。
+speech:expired-passport,What? That is mistake. I just renewed it.,什么？你搞错了吧。我刚刚续期了。
+speech:expired-passport,That must be a typographical error.,可能印错了吧。
+speech:expired-asylumgrant,There was nothing I could do.,我也没办法。
+speech:expired-asylumgrant,My travel was difficult.,我这一路很不容易。
+speech:expired-asylumgrant,"Please, have mercy.",拜托，发发善心吧。
+speech:ask-missing-passport,Where is passport?,护照在哪？
+speech:ask-missing-passport,A passport is required.,请出示护照。
+speech:missing-passport,They took away my passport.,他们拿走了我的护照。
+speech:missing-passport,What is passport?,护照是什么东东？
+speech:ask-missing-entrypermit,Where is the entry permit?,入境许可呢？
+speech:ask-missing-entrypermit,You have no entry permit.,你没有入境许可。
+speech:ask-missing-entrypermit,The entry permit is missing.,我的入境许可丢了。
+speech:missing-permit,I was not able to get one.,我没能拿到入境许可。
+speech:missing-permit,What is that?,那是什么？
+speech:missing-permit,Do I need one?,要这个的吗？
+speech:missing-permit,Is required?,一定要的吗？
+speech:missing-permit,I lost it.,不小心丢了。
+speech:missing-permit,I did not know it was required.,我不知道要这个东西。
+speech:ask-missing-workpermit,Where is the work pass?,工作准证呢？
+speech:ask-missing-workpermit,You have no work pass.,你没有工作证。
+speech:ask-missing-workpermit,The work pass is missing.,我的工作证丢了。
+speech:missing-workpermit,I will get one after I enter.,等我入境后就能拿到一份。
+speech:ask-missing-idcard,Where is your id card?,你的身份证呢？
+speech:ask-missing-idcard,I need your id card.,你需要出示身份证。
+speech:missing-idcard,I never got one.,我没有身份证。
+speech:missing-idcard,I left before they were issued.,我走了之后他们才发证。
+speech:missing-idcard,I lost it.,不小心丢了。
+speech:ask-missing-idsupplement,You must carry an id supplement.,你必须携带身份证补充证明。
+speech:ask-missing-idsupplement,Where is your id supplement?,你的身份证补充证明呢？
+speech:missing-idsupplement,I never got one.,没有这个文件。
+speech:missing-idsupplement,What is a supplement?,补充证明是什么来的？
+speech:missing-idsupplement,This was not provided to me.,我没收到这份证明。
+speech:ask-missing-asylumgrant,You have no grant for asylum.,你没有避难的许可。
+speech:ask-missing-asylumgrant,Where is your asylum grant?,你的避难许可呢？
+speech:missing-asylumgrant,I could not secure one in time.,我没有及时拿到许可。
+speech:missing-asylumgrant,I have none.,我没有。
+speech:missing-asylumgrant,What is that?,那是什么来的？
+speech:ask-missing-accesspermit,Where is the access permit?,通行许可呢？
+speech:ask-missing-accesspermit,You have no access permit.,你没有通行许可。
+speech:ask-missing-accesspermit,The access permit is missing.,通行许可丢了。
+speech:ask-wrong-name,These names do not match.,这些名字不相符。
+speech:wrong-name,I have two different names.,我有2个不同的名字。
+speech:wrong-name,I have multiple names.,我有多个名字。
+speech:wrong-name,My name was changed recently.,我的名字最近改掉了。
+speech:ask-wrong-workend,You are not authorized to work this long.,你的工作时间没有这么长。
+speech:ask-wrong-workend,This work pass expires before your visit.,这份工作通行证在你来之前就过期了。
+speech:wrong-workend,I will renew the pass soon.,我很快会去续期的。
+speech:wrong-workend,I am planning to renew it.,我正打算去续期呢。
+speech:wrong-workend,My entry permit is longer than I need.,我的入境许可比我要的时间更长。
+speech:ask-wrong-idnumber,These numbers do not match.,这些号码不相符。
+speech:ask-wrong-idnumber,There is a discrepancy here.,这里有不一致的地方。
+speech:ask-wrong-idnumber,There are two different numbers here.,这里有2个不同的号码。
+speech:wrong-idnumber,It must be a mistake. The document is valid.,肯定搞错了。这份证件是有效的。
+speech:wrong-idnumber,Check again.,再检查一次。
+speech:ask-wrong-face,This does not look like you.,这看上去不像你啊。
+speech:ask-wrong-face,Your picture. It is different.,你的照片不一致。
+speech:ask-wrong-face,Your appearance has changed.,你的模样变了。
+speech:wrong-face,It is an old picture.,这是张老照片。
+speech:wrong-face,I had surgery.,我做了手术。
+speech:wrong-face,The years have been cruel.,岁月不饶人啊。
+speech:wrong-face,I do not know what to say. It is me.,我不知道该说什么，这的确是我的照片。
+speech:ask-wrong-issuingcity,This issuing city is incorrect.,这个发证城市不正确。
+speech:ask-wrong-issuingcity,Your passport has false information.,你的护照上有不实信息。
+speech:ask-wrong-gender,You are a man?,你是个男人？
+speech:ask-wrong-gender,It says here that you are male.,上面写着你的性别是男人。
+speech:ask-wrong-gender,You are a woman?,你是个女人？
+speech:ask-wrong-gender,Your passport says you are female.,你的护照上写着你是个女人。
+speech:ask-wrong-gender,Are you a woman or a man?,你到底是男的还是女的？
+speech:ask-wrong-gender,You are male or female?,你是男的还是女的？
+speech:wrong-gender,The passport is correct.,护照是正确的。
+speech:wrong-gender,Why do you ask?,为什么这么问？
+speech:wrong-gender,As the document says.,就跟证件一致。
+speech:wrong-gender,What is this question?,问这个干什么？
+speech:ask-wrong-gender-busted,There is a problem with your documentation.,你的证件有问题。
+speech:ask-approved,Glory to Arstotzka.,荣耀属于阿什托兹卡。
+speech:ask-approved,Cause no trouble.,请遵纪守法。
+speech:ask-nativesonly,Try again.,再试一次。
+speech:ask-nativesonly,Arstotzkans only.,只有阿什托兹卡人才能入境。
+speech:ask-wrong-nation,No entry from Obristan.,欧布里斯坦人不得通过
+speech:ask-wrong-nation,No entry from Kolechia.,科洛奇亚人不得通过
+speech:ask-wrong-nation,No entry from United Federation.,世界联邦人不得通过
+speech:ask-wrong-nation,No entry from Antegria.,安特格利亚人不得通过
+speech:ask-wrong-nation,No entry from Republia.,雷帕布里亚人不得通过
+speech:ask-wrong-nation,No entry from Arstotzka.,阿什托兹卡人不得通过
+speech:ask-wrong-nation,No entry from Impor.,印玻人不得通过
+speech:ask-search,Face the scanner.,请面向扫描仪。
+speech:ask-search,Turn towards the scanner.,请对着扫描仪。
+speech:ask-detain,Wait here.,在这等着。
+speech:ask-detain,One moment please.,请稍等。
+speech:detain,What are you doing?,你在干什么？
+speech:detain,What is happening?,怎么了？
+speech:detain,What is this?,这是什么？
+speech:detain,You cannot do this!,你不能这么做！
+speech:detain,What will happen to me?,我会遇上什么事？
+speech:detain,Who do you think you are?,你以为自己是谁啊？
+speech:detain,You have no authority for this!,你无权这么做！
+speech:detain,You are a fool!,你这个蠢货！
+speech:ask-search-enabled,You have been selected for a random search.,你被挑选为一项随机搜查的对象。
+speech:ask-wrong-entryticket-date,This ticket is for another day.,这张票不是今天使用的。
+speech:ask-wrong-entryticket-date,You cannot enter today.,你今天不能入境。
+speech:ask-wrong-entryticket-date,The date on this ticket is wrong.,这张票上的日期不对。
+speech:wrong-entryticket-date,It is my mistake.,是我搞错了。
+speech:wrong-entryticket-date,Oh?,哦？
+speech:ask-missing-entryticket,You cannot enter without a ticket.,没票的话不能入境。
+speech:ask-missing-entryticket,Foreigners must present an entry ticket.,外国人必须持券入境。
+speech:ask-missing-entryticket,Where is your entry ticket?,你的准入券呢？
+speech:missing-entryticket,I do not know what that is.,我不知道那是什么来的。
+speech:missing-entryticket,I have none.,我没有。
+speech:missing-entryticket,It was lost.,不小心丢了。
+speech:ask-wrong-identity,I cannot verify your identity.,我无法核实你的身份。
+speech:ask-wrong-identity,Your identity does not match.,你的身份证不相符。
+speech:ask-wrong-alias,There is no record of this name.,这个名字没有记录。
+speech:ask-wrong-alias,I cannot verify your alias.,我无法核实你的化名。
+speech:ask-wrong-fingerprints,Your fingerprints do not match our records.,你的指纹与我们的记录不相符。
+speech:ask-wrong-fingerprints,I cannot verify your fingerprints.,我无法核实你的指纹。
+speech:ask-contraband,There is zero tolerance for contraband.,我们对携带违禁品实行零容忍政策。
+speech:ask-contraband,You have made a mistake coming here.,你来这里是走错地方了。
+speech:contraband,You can see that?,你看到了什么吗？
+speech:contraband,What?,什么？
+speech:contraband,I know nothing.,我什么也不知道。
+speech:contraband,Is it so obvious?,有这么明显吗？
+speech:ask-wrong-information,This information does not look correct.,这个信息看起来不正确。
+speech:ask-wrong-information,This is incorrect.,这个不正确。
+speech:ask-wrong-height,Your height is different.,你的身高跟上面写的不同。
+speech:wrong-height,Perhaps my shoes are different.,也许跟我穿的鞋子有关系。
+speech:wrong-height,It is a natural difference.,这种差异是很自然的。
+speech:ask-wrong-weight,Your weight is different.,你的体重不相符。
+speech:wrong-weight,I am wearing different clothes.,因为我穿的衣服不一样。
+speech:wrong-weight,My weight has changed naturally.,我的体重一直在变化。
+speech:ask-criminal,You have interesting face.,你这张脸很有趣。
+speech:ask-criminal,Maybe you should not have come.,也许你不该来这里。
+speech:ask-criminal,We have some questions for you.,我们有问题要问你。
+speech:criminal,I have nothing to say.,我没什么好说的。
+speech:criminal,Let me through or you will regret it.,让我过去，否则你会后悔的。
+speech:criminal,I do not like your tone.,你说话放客气点。
+speech:ask-wrong-description,This does not sound like you.,你的嗓音听起来不像你。
+speech:ask-wrong-description,You do not match this description.,你这人跟上面写的不一样。
+speech:wrong-description,I have changed.,我变了。
+speech:wrong-description,How can you say for sure?,你怎么能这么肯定呢？
+speech:wrong-description,Is that good or bad?,这是好事还是坏事？
+speech:hidden-paper,Here it is.,给你。
+speech:hidden-paper,Sorry. I have it here.,对不起，在这呢。
+speech:hidden-paper,I have it here.,在这呢。
+speech:hidden-paper,Here.,给。
+speech:ask-wrong-thumbprint,Your thumb print does not match.,你的拇指指纹不相符。
+speech:ask-wrong-thumbprint,This print does not match.,这个指纹不相符。
+speech:ask-wrong-diploaccess,Your diplomatic authorization does not cover Arstotzka.,你的外交授权范围不包括阿什托兹卡。
+speech:ask-wrong-diploaccess,You have no diplomatic rights here.,你在这里没有外交权。
+speech:ask-wrong-diploaccess,This authorization does not include Arstotzka.,这份授权不包括阿什托兹卡。
+speech:wrong-diploaccess,Nonsense.,胡说八道。
+speech:wrong-diploaccess,Check with your superiors.,去跟你的上级核实一下。
+speech:wrong-diploaccess,I have full authorization.,我有完全的授权。
+speech:ask-missing-vaccinecert,Where is the vaccine certification?,接种疫苗证明呢？
+speech:ask-missing-vaccinecert,Where is your proof of vaccination?,你的接种疫苗证明呢？
+speech:ask-missing-vaccinecert,All entrants must be vaccinated.,所有入境者必须接种了疫苗。
+speech:missing-vaccinecert,I do not believe in vaccines.,我才不相信什么疫苗呢。
+speech:missing-vaccinecert,I could not afford certification.,我没钱接种疫苗。
+speech:ask-vaccine-expired,This vaccine has expired.,这份接种证明已经过期了。
+speech:ask-vaccine-expired,This vaccine is no longer active.,这个疫苗已经失效了。
+speech:ask-vaccine-wrongdrugs,You are missing the required vaccination.,你没有必须的接种疫苗证明。
+speech:ask-vaccine-wrongdrugs,This vaccine certificate is insufficient.,这个接种疫苗证明不充分。
+speech:trade-fingerprints,Here.,给你。
+speech:trade-fingerprints,Is this ok?,这个没问题吧？
+speech:trade-fingerprints,Here are my fingerprints.,这是我的指纹。
+speech:trade-fingerprints,Now I have ink everywhere.,现在我身上到处是墨水了。
+speech:default,Please let me through.,请让我过去吧。
+speech:default,What are you talking about?,你在说什么呢？
+speech:default,I know nothing about this.,我一点也不知道。
+speech:default,I do not know what to say.,我不知道该说什么。
+speech:default,Oh?,哦？
+face:M00,Short Hair,短发
+face:M00,Good Vision,良好视力
+face:M00,Balding,秃头
+face:M00,Glasses,眼镜
+face:M00,Large Mustache,大胡子
+face:M01,Bald,秃头
+face:M01,Large Curly Locks,大卷发
+face:M01,Glasses,眼镜
+face:M02,Cropped Hair,短发
+face:M02,Glasses,眼镜
+face:M02,Overweight,超重
+face:M02,No Glasses,无眼镜
+face:M03,Dark Hair,黑发
+face:M03,Mustache,小胡子
+face:M03,Light Hair,浅发
+face:M03,Glasses,眼镜
+face:M10,Beard,络腮胡子
+face:M10,Mustache,小胡子
+face:M10,Shaved Head,光头
+face:M10,Glasses,眼镜
+face:M11,Goatee,山羊胡
+face:M11,Perfect Vision,完美视力
+face:M11,Mohawk,莫西干头
+face:M11,Glasses,眼镜
+face:M12,Short Cropped Hair,超短发
+face:M12,Long Wavy Hair,波浪长发
+face:M12,Glasses,眼镜
+face:M13,Balding,秃顶
+face:M13,Huge Afro,大爆炸头
+face:M13,Thick Glasses,厚框眼镜
+face:M20,Balding,秃顶
+face:M20,Curly Hair,卷发
+face:M20,Glasses,眼镜
+face:M21,Short Straight Hair,短直发
+face:M21,Bald,秃头
+face:M21,Glasses,眼镜
+face:M22,Short Light Hair,短浅发
+face:M22,Dark Hair,黑发
+face:M22,Glasses,眼镜
+face:M23,Widow's Peak,V型发尖
+face:M23,Mustache,小胡子
+face:M23,Shaved Head,光头
+face:M23,Glasses,眼镜
+face:M23,Clean Shaven,剃光胡子
+face:M30,Tall Forehead,前额高凸
+face:M30,Totally Bald,全秃
+face:M30,Glasses,眼镜
+face:M31,Killer Sideburns,杀手鬓角
+face:M31,Light Hair,浅发
+face:M31,Glasses,眼镜
+face:M32,Bobbed Hair,齐耳短发
+face:M32,Long Curly Hair,长卷发
+face:M32,Glasses,眼镜
+face:M32,Large Mustache,大胡子
+face:M33,Short Curly Hair,短卷发
+face:M33,Mustache,小胡子
+face:M33,Balding,秃顶
+face:M33,Glasses,眼镜
+face:M33,No Mustache,没有胡子
+face:M40,Bald,秃头
+face:M40,Long Hair,长发
+face:M40,Glasses,眼镜
+face:M41,Mohawk,莫西干头
+face:M41,Large Sideburns,大鬓角
+face:M41,Glasses,眼镜
+face:M42,Short Curly Hair,短卷发
+face:M42,Flat-top Hair,平顶发
+face:M42,Glasses,眼镜
+face:M42,Pencil Mustache,铅笔小胡子
+face:M43,Unkempt Curly Hair,蓬乱卷发
+face:M43,Mustache,小胡子
+face:M43,Long Straight Hair,长直发
+face:M43,Glasses,眼镜
+face:F00,Wavy Hair,波浪发
+face:F00,Short Hair,短发
+face:F00,Glasses,眼镜
+face:F01,Small Head,小头型
+face:F01,Glasses,眼镜
+face:F01,Afro,爆炸头
+face:F01,Perfect Vision,完美视力
+face:F02,Overweight,超重
+face:F02,Slim Figure,瘦削身形
+face:F02,Glasses,眼镜
+face:F03,Bobbed Hair,齐耳短发
+face:F03,Long Hair,长发
+face:F03,Glasses,眼镜
+face:F10,Straight Hair,直发
+face:F10,Long Curly Hair,长卷发
+face:F10,Glasses,眼镜
+face:F11,Bobbed Hair,齐耳短发
+face:F11,Afro,爆炸头
+face:F11,Glasses,眼镜
+face:F12,Short Hair,短发
+face:F12,Huge Afro,大爆炸头
+face:F12,Thick Glasses,厚框眼镜
+face:F13,Very Short Hair,超短发
+face:F13,Long Straight Hair,长直发
+face:F13,Glasses,眼镜
+face:F20,Short Hair,短发
+face:F20,Long Curly Hair,长卷发
+face:F20,Glasses,眼镜
+face:F21,Overweight,超重
+face:F21,Slim Figure,瘦削身形
+face:F21,Glasses,眼镜
+face:F22,Bobbed Hair,齐耳短发
+face:F22,Shaved Head,光头
+face:F22,Glasses,眼镜
+face:F23,Short Curly Hair,短卷发
+face:F23,Long Straight Hair,长直发
+face:F23,Glasses,眼镜
+face:F30,Curly Bobbed Hair,短卷发
+face:F30,Shaved Head,光头
+face:F30,Thick Glasses,厚框眼镜
+face:F31,Short Wavy Hair,波浪长发
+face:F31,Glasses,眼镜
+face:F31,Long Hair,长发
+face:F31,Good Vision,良好视力
+face:F32,Bobbed Hair,齐耳短发
+face:F32,Light Curly Hair,浅色卷发
+face:F32,Glasses,眼镜
+face:F33,Long Hair,长发
+face:F33,Shaved Head,光头
+face:F33,Glasses,眼镜
+face:F40,Straight Hair,直发
+face:F40,Curly Hair,卷发
+face:F40,Glasses,眼镜
+face:F41,Bobbed Hair,齐耳短发
+face:F41,Round Face,圆脸
+face:F41,Glasses,眼镜
+face:F42,Dark Hair,黑发
+face:F42,Long Straight Hair,长直发
+face:F42,Glasses,眼镜
+face:F43,Long Hair,长发
+face:F43,Shaved Head,光头
+face:F43,No Glasses,"无眼镜
+"

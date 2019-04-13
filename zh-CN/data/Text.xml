@@ -1,0 +1,622 @@
+﻿<data>
+  <item id="language_code">
+    <t>ch</t>
+  </item>
+  <item id="language_name">
+    <t>中文</t>
+  </item>
+  <item id="language_author">
+    <t>3DM,Patched by ssenkrad v0.91</t>
+  </item>
+  <item id="wrap_hyphen">
+    <t></t>
+  </item>
+  <item id="created_by">
+    <t>Lucas Pope 制作</t>
+  </item>
+  <item id="papers_please">
+    <t>请出示文件。</t>
+  </item>
+  <item id="protocol_violated">
+    <t>违反职务守则</t>
+  </item>
+  <item id="unauth_confiscation">
+    <t>未授权的护照没收行为</t>
+  </item>
+  <item id="missing_reason">
+    <t>未给予拒签理由</t>
+  </item>
+  <item id="citation_warning">
+    <t>警告—暂无处罚</t>
+  </item>
+  <item id="citation_lastwarning">
+    <t>最后一次警告—暂无处罚</t>
+  </item>
+  <item id="citation_penalty">
+    <t>罚金：$0</t>
+  </item>
+  <item id="border_next">
+    <t>下一位！</t>
+  </item>
+  <item id="border_bomber">
+    <t>为了科洛奇亚！</t>
+  </item>
+  <item id="border_comeback">
+    <t>边检站将于明早6点重新开放</t>
+  </item>
+  <item id="border_announce0">
+    <t>下一位请稍后</t>
+  </item>
+  <item id="border_announce1">
+    <t>准备好你的证件</t>
+  </item>
+  <item id="border_announce2">
+    <t>阿什托兹卡欢迎你</t>
+  </item>
+  <item id="border_guardout">
+    <t>出去！</t>
+  </item>
+  <item id="border_elisa">
+    <t>Elisa！</t>
+  </item>
+  <item id="family_son_budget">
+    <t>儿子</t>
+  </item>
+  <item id="family_wife_budget">
+    <t>妻子</t>
+  </item>
+  <item id="family_niece_budget">
+    <t>侄女</t>
+  </item>
+  <item id="family_uncle_budget">
+    <t>叔叔</t>
+  </item>
+  <item id="family_mil_budget">
+    <t>岳母</t>
+  </item>
+  <item id="family_son_status">
+    <t>儿子</t>
+  </item>
+  <item id="family_wife_status">
+    <t>妻子</t>
+  </item>
+  <item id="family_niece_status">
+    <t>侄女</t>
+  </item>
+  <item id="family_uncle_status">
+    <t>叔叔</t>
+  </item>
+  <item id="family_mil_status">
+    <t>岳母</t>
+  </item>
+  <item id="family_son_message">
+    <t>儿子</t>
+  </item>
+  <item id="family_wife_message">
+    <t>妻子</t>
+  </item>
+  <item id="family_niece_message">
+    <t>侄女</t>
+  </item>
+  <item id="family_uncle_message">
+    <t>叔叔</t>
+  </item>
+  <item id="family_mil_message">
+    <t>岳母</t>
+  </item>
+  <item id="night_endof">
+    <t>期限</t>
+  </item>
+  <item id="night_day">
+    <t>第 $0 日</t>
+  </item>
+  <item id="family_verysick_1">
+    <t>没有药的话你的 $0 会死亡。</t>
+  </item>
+  <item id="family_verysick_many">
+    <t>缺乏药物治疗的家庭成员会病亡。</t>
+  </item>
+  <item id="family_sick_1">
+    <t>你的 $0 生病了，需要药品。</t>
+  </item>
+  <item id="family_sick_many">
+    <t>你的家人需要药品。</t>
+  </item>
+  <item id="family_died_1">
+    <t>你的 $0 已经离世。</t>
+  </item>
+  <item id="family_died_2">
+    <t>你的 $0 和 $1 已经离世。</t>
+  </item>
+  <item id="family_died_3">
+    <t>你的 $0 ，$1 和 $2 已经离世。</t>
+  </item>
+  <item id="family_died_4">
+    <t>你的 $0 ，$1 ，$2 和 $3 已经离世。</t>
+  </item>
+  <item id="family_died_5">
+    <t>你的 $0 ，$1 ，$2 ，$3 和 $4 已经离世。</t>
+  </item>
+  <item id="family_escape_with_0">
+    <t>你谁都没带。</t>
+  </item>
+  <item id="family_escape_with_1">
+    <t>你带上了 $0 出发去欧布里斯坦。</t>
+  </item>
+  <item id="family_escape_with_2">
+    <t>你带上了 $0 和 $1 出发去欧布里斯坦。</t>
+  </item>
+  <item id="family_escape_with_3">
+    <t>你带上了 $0，$1， 和 $2 出发去欧布里斯坦。</t>
+  </item>
+  <item id="family_escape_with_4">
+    <t>你带上了 $0，$1， $2， 和 $3 出发去欧布里斯坦。</t>
+  </item>
+  <item id="family_escape_with_5">
+    <t>你带上了 $0，$1， $2， $3， 和 $4 出发去欧布里斯坦。</t>
+  </item>
+  <item id="family_escape_without_1">
+    <t>你的 $0 准备回尼尔斯克。</t>
+  </item>
+  <item id="family_escape_without_2">
+    <t>你的 $0 和 $1 准备回尼尔斯克。</t>
+  </item>
+  <item id="family_escape_without_3">
+    <t>你的 $0， $1， 和 $2 准备回尼尔斯克。</t>
+  </item>
+  <item id="family_escape_without_4">
+    <t>你的 $0， $1， $2， 和 $3 准备回尼尔斯克。</t>
+  </item>
+  <item id="family_escape_without_5">
+    <t>你的 $0， $1， $2， $3， 和 $4 准备回尼尔斯克。</t>
+  </item>
+  <item id="family_flee_final_0">
+    <t>欧布里斯坦超越一切</t>
+  </item>
+  <item id="family_flee_final_1">
+    <t>你不知道 $0 是否安全。</t>
+  </item>
+  <item id="family_flee_final_2">
+    <t>你不知道 $0 和 $1 是否安全。</t>
+  </item>
+  <item id="family_flee_final_3">
+    <t>你不知道 $0， $1， 和 $2 是否安全。</t>
+  </item>
+  <item id="family_flee_final_4">
+    <t>你不知道 $0， $1， $2， 和 $3 是否安全。</t>
+  </item>
+  <item id="family_flee_final_5">
+    <t>你不知道 $0， $1， $2， $3， 和 $4 是否安全。</t>
+  </item>
+  <item id="budget_savings">
+    <t>存款</t>
+  </item>
+  <item id="budget_salary">
+    <t>薪水 ($0)</t>
+  </item>
+  <item id="budget_penalties">
+    <t>罚款 ($0)</t>
+  </item>
+  <item id="budget_bribes">
+    <t>贿金</t>
+  </item>
+  <item id="budget_rent">
+    <t>房租</t>
+  </item>
+  <item id="budget_food">
+    <t>食物</t>
+  </item>
+  <item id="budget_heat">
+    <t>暖气</t>
+  </item>
+  <item id="budget_medicine">
+    <t>药品 ($0)</t>
+  </item>
+  <item id="budget_sleep">
+    <t>睡觉</t>
+  </item>
+  <item id="budget_escape">
+    <t>潜逃</t>
+  </item>
+  <item id="menu_back">
+    <t>返回</t>
+  </item>
+  <item id="confirm_ok">
+    <t>好</t>
+  </item>
+  <item id="confirm_cancel">
+    <t>取消</t>
+  </item>
+  <item id="menu_mainmenu">
+    <t>主菜单</t>
+  </item>
+  <item id="menu_resume">
+    <t>继续游戏</t>
+  </item>
+  <item id="menu_quit">
+    <t>退出</t>
+  </item>
+  <item id="menu_done">
+    <t>完成</t>
+  </item>
+  <item id="menu_story">
+    <t>故事</t>
+  </item>
+  <item id="menu_endless">
+    <t>无尽</t>
+  </item>
+  <item id="menu_play">
+    <t>开始</t>
+  </item>
+  <item id="menu_fullscreen">
+    <t>全屏</t>
+  </item>
+  <item id="menu_nudity">
+    <t>裸体</t>
+  </item>
+  <item id="menu_easy">
+    <t>简单模式</t>
+  </item>
+  <item id="menu_music">
+    <t>音乐</t>
+  </item>
+  <item id="menu_sound">
+    <t>声效</t>
+  </item>
+  <item id="menu_dateformat">
+    <t>日期格式</t>
+  </item>
+  <item id="menu_language">
+    <t>语言</t>
+  </item>
+  <item id="menu_easytip">
+    <t>每天 + 20 额外收入</t>
+  </item>
+  <item id="menu_stats">
+    <t>统计数据</t>
+  </item>
+  <item id="menu_next">
+    <t>下一页</t>
+  </item>
+  <item id="menu_walktowork">
+    <t>步行上班</t>
+  </item>
+  <item id="menu_paused">
+    <t>暂停</t>
+  </item>
+  <item id="menu_settings">
+    <t>设置</t>
+  </item>
+  <item id="menu_credits">
+    <t>制作人员</t>
+  </item>
+  <item id="menu_checkforupdates">
+    <t>检查更新</t>
+  </item>
+  <item id="stats_text">
+    <t>总时间 $time
+处理数 $processed  
+批准数 $approved 
+否决数 $denied 
+逮捕数 $detained 
+警告数 $citations 
+盖章数 $stamps 
+结局 $endnum / $endtotal</t>
+  </item>
+  <item id="steam_noinit">
+    <t>连接STEAM失败
+
+如果该问题一直存在，重新安装Steam客户端。</t>
+  </item>
+  <item id="steam_restartfailed">
+    <t>STEAM重启失败
+
+如果该问题一直存在，重新安装Steam客户端。</t>
+  </item>
+  <item id="steam_noconnect">
+    <t>连接STEAM失败
+
+游戏将会尝试通过Steam客户端重启。</t>
+  </item>
+  <item id="steam_restart">
+    <t>重启</t>
+  </item>
+  <item id="load_title">
+    <t>选择一天继续游戏或者开始新游戏</t>
+  </item>
+  <item id="load_confirm_delete_single">
+    <t>删除第 $0 天的存档吗？
+
+一经删除无法恢复。</t>
+  </item>
+  <item id="load_confirm_delete_multi">
+    <t>
+删除从第 $0 天到第 $1 天的存档吗？
+
+一经删除无法恢复。
+    </t>
+  </item>
+  <item id="load_delete">
+    <t>删除</t>
+  </item>
+  <item id="load_confirm_full">
+    <t>存档已满。
+
+从一个最好的存档开始或者删除一些存档释放存储空间。</t>
+  </item>
+  <item id="load_summary">
+    <t>$day 日
+“$news”
+
+$savings 存款， $family 家人，
+$tokens 徽章，  $apt 公寓</t>
+  </item>
+  <item id="load_continue">
+    <t>继续</t>
+  </item>
+  <item id="emotion_happy">
+    <t>高兴</t>
+  </item>
+  <item id="emotion_ok">
+    <t>不错</t>
+  </item>
+  <item id="emotion_sad">
+    <t>悲伤</t>
+  </item>
+  <item id="emotion_cold">
+    <t>冷</t>
+  </item>
+  <item id="emotion_sick">
+    <t>生病</t>
+  </item>
+  <item id="emotion_verysick">
+    <t>严重生病</t>
+  </item>
+  <item id="emotion_dead">
+    <t>死亡</t>
+  </item>
+  <item id="emotion_hungry">
+    <t>饥饿</t>
+  </item>
+  <item id="load_latest">
+    <t>最新</t>
+  </item>
+  <item id="entry_approved">
+    <t>准许进入</t>
+  </item>
+  <item id="entry_denied">
+    <t>不准进入</t>
+  </item>
+  <item id="stamp_approved">
+    <t>许可</t>
+  </item>
+  <item id="stamp_denied">
+    <t>否决</t>
+  </item>
+  <item id="stamp_reason">
+    <t>原因</t>
+  </item>
+  <item id="booth_dragdocs">
+    <t>将文件拖拽到这里</t>
+  </item>
+  <item id="booth_highlight">
+    <t>加亮不符合项</t>
+  </item>
+  <item id="booth_discrepancy">
+    <t>不匹配</t>
+  </item>
+  <item id="booth_interrogate">
+    <t>审问</t>
+  </item>
+  <item id="booth_matching">
+    <t>匹配</t>
+  </item>
+  <item id="booth_nocorrelation">
+    <t>没有联系</t>
+  </item>
+  <item id="booth_cleared">
+    <t>不符合项已清除</t>
+  </item>
+  <item id="env_clearforentry">
+    <t>申请人准许进入</t>
+  </item>
+  <item id="env_lettermale">
+    <t>男</t>
+  </item>
+  <item id="env_letterfemale">
+    <t>女</t>
+  </item>
+  <item id="env_noalias">
+    <t>无别名</t>
+  </item>
+  <item id="env_typochars">
+    <t>aeiou，iuy，pgq，lj，ck，bh</t>
+  </item>
+  <item id="endless_complete">
+    <t>$style
+$course
+
+$time
+得分： $score</t>
+  </item>
+  <item id="endless_ranked">
+    <t>排名 #$0</t>
+  </item>
+  <item id="endless_unlock">
+    <t>在故事模式中保住你的工作来解锁无尽模式</t>
+  </item>
+  <item id="endless_wrongcode">
+    <t>抱歉</t>
+  </item>
+  <item id="date_verbose">
+    <t>$month $day， $year</t>
+  </item>
+  <item id="month_1">
+    <t>一月</t>
+  </item>
+  <item id="month_2">
+    <t>二月</t>
+  </item>
+  <item id="month_3">
+    <t>三月</t>
+  </item>
+  <item id="month_4">
+    <t>四月</t>
+  </item>
+  <item id="month_5">
+    <t>五月</t>
+  </item>
+  <item id="month_6">
+    <t>六月</t>
+  </item>
+  <item id="month_7">
+    <t>七月</t>
+  </item>
+  <item id="month_8">
+    <t>八月</t>
+  </item>
+  <item id="month_9">
+    <t>九月</t>
+  </item>
+  <item id="month_10">
+    <t>十月</t>
+  </item>
+  <item id="month_11">
+    <t>十一月</t>
+  </item>
+  <item id="month_12">
+    <t>十二月</t>
+  </item>
+  <item id="day_1">
+    <t>1日</t>
+  </item>
+  <item id="day_2">
+    <t>2日</t>
+  </item>
+  <item id="day_3">
+    <t>3日</t>
+  </item>
+  <item id="day_4">
+    <t>4日</t>
+  </item>
+  <item id="day_5">
+    <t>5日</t>
+  </item>
+  <item id="day_6">
+    <t>6日</t>
+  </item>
+  <item id="day_7">
+    <t>7日</t>
+  </item>
+  <item id="day_8">
+    <t>8日</t>
+  </item>
+  <item id="day_9">
+    <t>9日</t>
+  </item>
+  <item id="day_10">
+    <t>10日</t>
+  </item>
+  <item id="day_11">
+    <t>11日</t>
+  </item>
+  <item id="day_12">
+    <t>12日</t>
+  </item>
+  <item id="day_13">
+    <t>13日</t>
+  </item>
+  <item id="day_14">
+    <t>14日</t>
+  </item>
+  <item id="day_15">
+    <t>15日</t>
+  </item>
+  <item id="day_16">
+    <t>16日</t>
+  </item>
+  <item id="day_17">
+    <t>17日</t>
+  </item>
+  <item id="day_18">
+    <t>18日</t>
+  </item>
+  <item id="day_19">
+    <t>19日</t>
+  </item>
+  <item id="day_20">
+    <t>20日</t>
+  </item>
+  <item id="day_21">
+    <t>21日</t>
+  </item>
+  <item id="day_22">
+    <t>22日</t>
+  </item>
+  <item id="day_23">
+    <t>23日</t>
+  </item>
+  <item id="day_24">
+    <t>24日</t>
+  </item>
+  <item id="day_25">
+    <t>25日</t>
+  </item>
+  <item id="day_26">
+    <t>26日</t>
+  </item>
+  <item id="day_27">
+    <t>27日</t>
+  </item>
+  <item id="day_28">
+    <t>28日</t>
+  </item>
+  <item id="day_29">
+    <t>29日</t>
+  </item>
+  <item id="day_30">
+    <t>30日</t>
+  </item>
+  <item id="day_31">
+    <t>31日</t>
+  </item>
+  <item id="bulletin_default">
+    <t>
+阿什托兹卡
+入境管理部
+官方公告
+
+检查员，
+
+$content
+
+阿什托兹卡万岁。
+    </t>
+  </item>
+  <item id="bulletin_notice">
+    <t>
+阿什托兹卡
+入境管理部
+官方公告
+
+注意：
+
+$content
+
+阿什托兹卡万岁。
+    </t>
+  </item>
+  <item id="bulletin_endless">
+    <t>
+阿什托兹卡
+入境管理部
+官方公告
+
+$style
+
+$course
+
+阿什托兹卡万岁。
+    </t>
+  </item>
+</data>
